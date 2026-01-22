@@ -2,7 +2,7 @@
 title: "Bio"
 ---
 
-# Short Bio
+# Bio
 
 Dr. Ludovic DE CUYPERE currently holds the positions of Associate Professor of English Linguistics at Vrije Universiteit Brussel and of Research Support Officer at the Linguistics Department of Ghent University. He completed his MA in Germanic Languages and Literature from UGent in 2001, followed by a PhD in Germanic Languages and Literature from the same university in 2007.
 
