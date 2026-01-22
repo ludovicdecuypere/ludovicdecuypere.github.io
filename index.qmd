@@ -1,11 +1,12 @@
 ---
-title: "ludovicdecuypere.github.io"
+title: "Ludovic De Cuypere"
+image: ldc_pic.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
 ---
+        
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Welcome! My name is Ludovic De Cuypere and I'm an associate professor in English Linguitics at Vrije Universiteit Brussel and a research consultant at the Linguistics Department of Ghent University. I teach courses on Statistics, Corpus Linguistics and Historical English Linguistics. Here I share some of my work in the spirit of Open Science. Oustide work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!

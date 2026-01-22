@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "ludovicdecuypere.github.io"
+  title: "Ludovic De Cuypere"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Talks.qmd
+      - Teaching.qmd
 
 format:
   html:
