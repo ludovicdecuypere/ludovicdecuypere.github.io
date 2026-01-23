@@ -1,0 +1,18 @@
+---
+title: "Bordeaux"
+categories: [Presentation]
+---
+
+Test
+
+<br>
+
+<!-- # Motivation -->
+
+test
+
+<!-- # What's on the dashboard? -->
+
+This is very much an ongoing work in-progress, but the first version included a "Gear Garage" for tracking mileage on my hiking boots and bike, an activity heat map of all recorded hikes, bike rides, and walks, visualizations for exploring activity distance and elevation gain, and an interactive table of the raw data.
+
+

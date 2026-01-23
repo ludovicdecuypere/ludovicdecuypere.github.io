@@ -1,5 +1,27 @@
 ---
-title: "Courses"
-format: html
+title: "Teaching"
+subtitle: "0pen source course materials" 
+listing:
+  contents: Teaching
+  sort: date-modified
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
+
+I've been a teacher for most of my professional life. Before starting my phd studies in 2003, I briefly worked as a teacher in secondary/high school teaching courses in Dutch and General studies ("Project Algemene Vakken"). I also obtained my teacher accreditation in 2003 from UGent (officially called "geaggregeerde voor het secundair onderwijs - groep 2 in de taal- en letterkunde: Germaanse Talen"). I'm currently teaching courses on Statistics, Corpus Linguistics, Historical English Linguistics, and Iconicity. I'm also involved various research methodology courses. I've also been teaching the art of karate at my Seikan Dojo for over 20 years, and I'm ranked shidoin in Koryu Uchinadi Kenpo-Jutsu under hanshi Patrick McCarthy (10th dan Koryu Uchinadi Kenpo-Jutsu).
+
+![Kwantitatieve onderzoekstechnieken taalwetenschap: Ludovic De Cuypere - © UGent, foto Christophe Vander Eecken](teaching_kwan_ugent.jpg)
+
+
+
+
+
 

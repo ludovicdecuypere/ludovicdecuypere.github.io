@@ -1,5 +1,17 @@
 ---
 title: "Talks & Workshops"
-format: html
+subtitle: "The things I tell you will not be wrong"
+listing:
+  contents: Talks
+  sort: date-modified
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
-

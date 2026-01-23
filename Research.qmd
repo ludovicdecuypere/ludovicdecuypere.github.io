@@ -1,0 +1,53 @@
+---
+title: "Research"
+subtitle: "Books, articles, datasets, protocols, ... As open as possible, as closed as necessary" 
+listing:
+  contents: Research
+  type: table
+title-block-banner: true
+---
+
+Never been a one-trick pony. I have always been blessed with colleagues who generously allowed me to play in their backyards. Collaboration, streamlining ideas and projects, creating synergy, and trying to add a piece to the research puzzle that creates more than the sum total of the individual pieces -- this is what fuels my passion as a researcher and research consultant. My personal line of research has always been -- and always will be -- diverse. Optionality and serendipity are what drive me forward. One price to pay in today's super-organized and tightly planned research culture is a loss of serendipity: so many beautiful young minds following the protocol and not having time to mess around. 
+
+## Iconicity
+
+My PhD involved an epistemological study of iconicity in language, the results of which were published in Limiting the Iconic (Benjamins, 2008). Building on views by E. Coseriu, U. Eco, G. Sonesson, K. Willems, and S. Levinson, my main idea is that a principled distinction must be made between similarity and iconicity. I believe this is a fundamental epistemological distinction that has not yet been fully appreciated in the literature. I got to summarize this idea in the chapter "The explanatory power of iconicity in language" in **The Oxford Handbook of Iconicity in Language** (Oxford University Press, 2026).
+
+## Syntactic alternations
+
+My second line of research deals with alternating constructions, or so-called "unfree variation" (A. Zwicky). This involves the study of optionality in language: formal differences that do not seem to be make any obvious semantic difference. I have studied phenomena such as: The dative and ditransitive alternations, Zero-that complementizer alternation, Differential infinitive marking, Ergativity and the passive alternation, English modal verbs. With my many collaborators, I examined these phenomena in various languages and from multiple  perspectives (diachrony, first and second, language acquisition). Methodologically, I've mainly followed a corpus-based approach. 
+
+Theoretically, my work is situated in the functional-structuralist tradition (Saussure, Humboldt, Coseriu, Willems). My "thematic" (G. Holton) or "axiomatic" presuppositions include: The existence of a language system of signs or constructions; the sign is fundamentally arbitrary; a principled distinction between semantics (monosemy) and pragmatics; the three layers of system, norm, and usage; language ís cognition; speaking is a creative activity, and corpus data is the product of that activity. 
+
+## Salience
+
+Together with co-supervisors Esli Struys and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, I am involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as *-olp* or *-u*) to English test sentences and track participants' eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025).
+
+## Misc. 
+
+My published work also covers: exaptation, sign theory (Artistotle), prepositional semantics (English preposition **to**), constructional semantics, Charles Sanders Peirce, negation, professional sub-editing...      
+
+## Open science
+
+I use the curated repository TROLLing to publish datasets, R-code, and output: [shared data](https://dataverse.no/dataverse/trolling;jsessionid=aceae0984f3ace7d5e10f73fc2d8?q=&fq2=authorName_ss%3A%22De+Cuypere%2C+Ludovic%22&fq0=subtreePaths%3A%22%2F3%22&fq1=dvObjectType%3A%28dataverses+OR+datasets%29&types=dataverses%3Adatasets&sort=dateSort&order=). I highly recommend this repository -- big shout-out to the curators! 
+
+Open Science is a work in progress and I'm happy to be part of this movement. My plan is to expand my Open Science pipeline with OSF (for preregistration, power analyses, project admin, ethics, etc.), protocols.io for methodological standard operating procedures, and github for reproducible code.  
+
+# Publications
+
+## In preparation 
+
+## Forthcoming
+
+## Books 
+
+## Articles
+
+## Chapters
+
+
+
+
+
+
+

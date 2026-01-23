@@ -5,12 +5,17 @@ project:
 website:
   title: "Ludovic De Cuypere"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - Talks.qmd
       - Teaching.qmd
+      - Research.qmd
+  page-footer: 
+    background: light
+    left: © 2026 Ludovic De Cuypere
+    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
