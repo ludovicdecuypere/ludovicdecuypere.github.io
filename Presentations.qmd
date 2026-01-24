@@ -1,8 +1,8 @@
 ---
-title: "Talks & Workshops"
+title: "Presentations"
 subtitle: "The things I tell you will not be wrong"
 listing:
-  contents: Talks
+  contents: Presentations
   sort: date-modified
   type: grid
   grid-item-border: true

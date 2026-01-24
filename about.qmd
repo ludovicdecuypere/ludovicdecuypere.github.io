@@ -1,5 +1,6 @@
 ---
-title: "Professional bio"
+title: "About"
+subtitle: "Professional bio"
 image: ldc_pic.jpg
 about: 
   template: trestles

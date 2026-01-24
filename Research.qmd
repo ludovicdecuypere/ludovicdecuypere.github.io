@@ -1,9 +1,6 @@
 ---
 title: "Research"
 subtitle: "Books, articles, datasets, protocols, ... As open as possible, as closed as necessary" 
-listing:
-  contents: Research
-  type: table
 title-block-banner: true
 ---
 
@@ -32,6 +29,9 @@ My published work also covers: exaptation, sign theory (Artistotle), preposition
 I use the curated repository TROLLing to publish datasets, R-code, and output: [shared data](https://dataverse.no/dataverse/trolling;jsessionid=aceae0984f3ace7d5e10f73fc2d8?q=&fq2=authorName_ss%3A%22De+Cuypere%2C+Ludovic%22&fq0=subtreePaths%3A%22%2F3%22&fq1=dvObjectType%3A%28dataverses+OR+datasets%29&types=dataverses%3Adatasets&sort=dateSort&order=). I highly recommend this repository -- big shout-out to the curators! 
 
 Open Science is a work in progress and I'm happy to be part of this movement. My plan is to expand my Open Science pipeline with OSF (for preregistration, power analyses, project admin, ethics, etc.), protocols.io for methodological standard operating procedures, and github for reproducible code.  
+
+## Research Projects
+
 
 # Publications
 

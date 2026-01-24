@@ -7,11 +7,9 @@
     ]
   },
   {
-    "listing": "/Research.html",
-    "items": []
-  },
-  {
     "listing": "/Talks.html",
-    "items": []
+    "items": [
+      "/talks/2026-2-Toronto/Index.html"
+    ]
   }
 ]

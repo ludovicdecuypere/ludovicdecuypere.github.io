@@ -14,6 +14,41 @@
     "text": "Test\n\n\ntest\n\nThis is very much an ongoing work in-progress, but the first version included a “Gear Garage” for tracking mileage on my hiking boots and bike, an activity heat map of all recorded hikes, bike rides, and walks, visualizations for exploring activity distance and elevation gain, and an interactive table of the raw data."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prof. Dr. Ludovic De Cuypere",
+    "section": "",
+    "text": "Welcome! My name is Ludovic De Cuypere [lydovik də kœyːpərə] and I’m an Associate Professor in English Linguitics at Vrije Universiteit Brussel and a Research Consultant at the Linguistics Department of Ghent University. It’s my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. Outside work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Dr. Ludovic DE CUYPERE currently holds the positions of Associate Professor of English Linguistics at Vrije Universiteit Brussel and of Research Support Officer at the Linguistics Department of Ghent University. He completed his MA in Germanic Languages and Literature from UGent in 2001, followed by a PhD in Germanic Languages and Literature from the same university in 2007.\nHis doctoral dissertation, published in 2008 as Limiting the Iconic with John Benjamins, involved an epistemological investigation of iconicity in language. He served as a postdoctoral fellow with the Research Foundation Flanders (FWO) from 2007 until 2013, working on a corpus-based investigation of the history of the English dative alternation.\nHis research has focused on alternating syntactic constructions, which he has studied from multiple perspectives and in various languages. He has contributed to theoretical and epistemological aspects of linguistic debate, such as the application of evolutionary theory concepts to language change (exaptation), the conceptual nature of (prepositional) semantics, iconicity as a functional explanation, and the grammatical status of alternating syntactic constructions. He has further contributed to the methodological design and statistical analysis of multiple studies. An advocate of Open Science, he has published various datasets on TROLLing, a curated repository under DataverseNo."
+  },
+  {
+    "objectID": "about.html#academic-positions",
+    "href": "about.html#academic-positions",
+    "title": "About",
+    "section": "Academic positions",
+    "text": "Academic positions\n\nCurrent\n\nsince ???: Research consultant (UGent)\nsince ???: present: Associate professor (VUB)\n\n\n\nPast\n\n…\n…\n…"
+  },
+  {
+    "objectID": "about.html#academic-degrees",
+    "href": "about.html#academic-degrees",
+    "title": "About",
+    "section": "Academic degrees",
+    "text": "Academic degrees\n\n2003 – 2007: Phd in Languages and Literary studies: Germanic Languages (UGent).\n\n\nPhD Dissertation: Limiting the iconic: from the metatheoretical foundations to the creative possibilities of iconicity in language.\n\n\n2001 – 2003: Teacher training accredition (UGent)\n1999 – 2001: Master of arts (licentiaat) in Germanic Languages (UGent)\n1996 – 1999: Bachelor of arts (kandidaat) in Germanic Languages (UGent)"
+  },
+  {
+    "objectID": "about.html#organisation",
+    "href": "about.html#organisation",
+    "title": "About",
+    "section": "Organisation",
+    "text": "Organisation\nI’ve co-organized multiple scientific conferences, but I am most proud of being the co-organizer (alongside Koen Plevoets) of the annual summer school, Methods in Language Sciences (MILS), held at Ghent University each July. We have hosted this succesful summer school since 2020. The summer school usually offers 10 or more 15 hour courses. Every year, we have welcomed over a hundred participants from around the globe. In 2025, we hosted 114 participants from 42 universities across 19 countries. We are currently preparing for MILS 2026 and have an excellent lineup of courses already confirmed. More details will be available soon at MILS2026."
+  },
+  {
     "objectID": "Research.html",
     "href": "Research.html",
     "title": "Research",
@@ -56,6 +91,13 @@
     "text": "Open science\nI use the curated repository TROLLing to publish datasets, R-code, and output: shared data. I highly recommend this repository – big shout-out to the curators!\nOpen Science is a work in progress and I’m happy to be part of this movement. My plan is to expand my Open Science pipeline with OSF (for preregistration, power analyses, project admin, ethics, etc.), protocols.io for methodological standard operating procedures, and github for reproducible code."
   },
   {
+    "objectID": "Research.html#research-projects",
+    "href": "Research.html#research-projects",
+    "title": "Research",
+    "section": "Research Projects",
+    "text": "Research Projects"
+  },
+  {
     "objectID": "Research.html#in-preparation",
     "href": "Research.html#in-preparation",
     "title": "Research",
@@ -91,46 +133,11 @@
     "text": "Chapters"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
-    "section": "",
-    "text": "Dr. Ludovic DE CUYPERE currently holds the positions of Associate Professor of English Linguistics at Vrije Universiteit Brussel and of Research Support Officer at the Linguistics Department of Ghent University. He completed his MA in Germanic Languages and Literature from UGent in 2001, followed by a PhD in Germanic Languages and Literature from the same university in 2007.\nHis doctoral dissertation, published in 2008 as Limiting the Iconic with John Benjamins, involved an epistemological investigation of iconicity in language. He served as a postdoctoral fellow with the Research Foundation Flanders (FWO) from 2007 until 2013, working on a corpus-based investigation of the history of the English dative alternation.\nHis research has focused on alternating syntactic constructions, which he has studied from multiple perspectives and in various languages. He has contributed to theoretical and epistemological aspects of linguistic debate, such as the application of evolutionary theory concepts to language change (exaptation), the conceptual nature of (prepositional) semantics, iconicity as a functional explanation, and the grammatical status of alternating syntactic constructions. He has further contributed to the methodological design and statistical analysis of multiple studies. An advocate of Open Science, he has published various datasets on TROLLing, a curated repository under DataverseNo."
-  },
-  {
-    "objectID": "about.html#academic-positions",
-    "href": "about.html#academic-positions",
-    "title": "about",
-    "section": "Academic positions",
-    "text": "Academic positions"
-  },
-  {
-    "objectID": "about.html#academic-degrees",
-    "href": "about.html#academic-degrees",
-    "title": "about",
-    "section": "Academic degrees",
-    "text": "Academic degrees\n\n2003 – 2007: Phd in Languages and Literary studies: Germanic Languages (Ghent University).\n\n\nPhD Dissertation: Limiting the iconic: from the metatheoretical foundations to the creative possibilities of iconicity in language.\n\n\n2001 – 2003: Teacher training accredition (Ghent University)\n1999 – 2001: Master of arts (licentiaat) in Germanic Languages (Ghent University)\n1996 – 1999: Bachelor of arts (kandidaat) in Germanic Languages (Ghent University)"
-  },
-  {
-    "objectID": "about.html#organisation",
-    "href": "about.html#organisation",
-    "title": "about",
-    "section": "Organisation",
-    "text": "Organisation\nI’ve co-organized multiple scientific conferences, but I am most proud of being the co-organizer (alongside Koen Plevoets) of the annual summer school, Methods in Language Sciences (MILS), held at Ghent University each July. We have hosted this succesful summer school since 2020. The summer school usually offers 10 or more 15 hour courses. Every year, we have welcomed over a hundred participants from around the globe. In 2025, we hosted 114 participants from 42 universities across 19 countries. We are currently preparing for MILS 2026 and have an excellent lineup of courses already confirmed. More details will be available soon at MILS2026."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Prof. Dr. Ludovic De Cuypere",
-    "section": "",
-    "text": "Welcome! My name is Ludovic De Cuypere [lydovik də kœyːpərə] and I’m an Associate Professor in English Linguitics at Vrije Universiteit Brussel and a Research Consultant at the Linguistics Department of Ghent University. It’s my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. Outside work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!"
-  },
-  {
     "objectID": "Talks.html",
     "href": "Talks.html",
     "title": "Talks & Workshops",
     "section": "",
-    "text": "No matching items"
+    "text": "Toronto\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Teaching/2026-Study-salience/Index.html",
