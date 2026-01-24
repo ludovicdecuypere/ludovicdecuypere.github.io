@@ -16,12 +16,14 @@ page-layout: full
 title-block-banner: true
 ---
 
-I've been a teacher for most of my professional life. Before starting my phd studies in 2003, I briefly worked as a teacher in secondary/high school teaching courses in Dutch and General studies ("Project Algemene Vakken"). I also obtained my teacher accreditation in 2003 from UGent. I'm currently teaching courses on Statistics, Corpus Linguistics, Historical English Linguistics, and Iconicity. I'm also involved in various courses related to research methodology. Outside academia, I've been teaching the art of karate at my Seikan Dojo for over 20 years. I'm ranked shidoin in Koryu Uchinadi Kenpo-Jutsu under hanshi Patrick McCarthy (10th dan Koryu Uchinadi Kenpo-Jutsu).
+I have been a teacher for most of my professional life. Before starting my phd studies in 2003, I briefly worked as a teacher in secondary/high school teaching courses in Dutch and General studies ("Project Algemene Vakken"). I also obtained my teacher accreditation from Ghent University in 2003. Currently, I'm teach courses on Statistics, Corpus Linguistics, Historical English Linguistics, and Iconicity. And I'm also involved in various courses related to research methodology, language variation and change and general linguistics. Outside academia, I've been teaching the art of karate at my Seikan Dojo for over 20 years. I'm ranked shidoin in Koryu Uchinadi Kenpo-Jutsu under hanshi Patrick McCarthy (10th dan Koryu Uchinadi Kenpo-Jutsu). Teaching is who I am or what I've become.
 
 ![Kwantitatieve onderzoekstechnieken taalwetenschap: Ludovic De Cuypere - © UGent, foto Christophe Vander Eecken](teaching_kwan_ugent.jpg)
 
+A pedagogical reflection. One distinction that I've come to appreciate deeply is the one between teaching and lecturing. Presenting a slide deck or reading course notes in front of an audience is pretty easy; teaching is hard. Setting goals, designing lesson plans, and trying to get the best out of every student requires a deep commitment and is best fostered through years of experience.
 
+The key ingredients that have worked best for me are having a clear overall structure, well-defined learning goals, and a challenging yet safe learning context. My teaching is interactive, task-based, and incorporates lots of pair work in class. And just being able to tell a good story, arguably the most underrated teaching skill in the age of PPT.
 
-
+Over the years, I've also witnessed so-called "grade inflation." Call me naive -- I'll happily trade any cynicism for some youthful naïveté -- but my gut-based Bayesian a priori explanation for this (undeniable) trend is that university education has improved, not because expectations have lowered.   
 
 

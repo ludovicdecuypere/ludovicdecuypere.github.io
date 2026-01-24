@@ -1,6 +1,8 @@
 ---
-title: "about"
-subtitle: "Professional bio"
+title: "Professional bio"
+image: ldc_pic.jpg
+about: 
+  template: trestles
 title-block-banner: true
 ---
 
@@ -11,23 +13,32 @@ His doctoral dissertation, published in 2008 as *Limiting the Iconic* with John 
 His research has focused on alternating syntactic constructions, which he has studied from multiple perspectives and in various languages. He has contributed to theoretical and epistemological aspects of linguistic debate, such as the application of evolutionary theory concepts to language change (exaptation), the conceptual nature of (prepositional) semantics, iconicity as a functional explanation, and the grammatical status of alternating syntactic constructions. He has further contributed to the methodological design and statistical analysis of multiple studies. 
 An advocate of Open Science, he has published various datasets on TROLLing, a curated repository under DataverseNo.
 
-## Positions
+## Academic positions
 
+### Current
 
+- since ???: Research consultant (UGent)
+- since ???: present: Associate professor (VUB)
 
-## Degrees
+### Past
 
-- 2003 -- 2007: Phd in Languages and Literary studies: Germanic Languages (Ghent University). 
+- ...
+- ...
+- ...
+
+## Academic degrees
+
+- 2003 -- 2007: Phd in Languages and Literary studies: Germanic Languages (UGent). 
 
 > PhD Dissertation: Limiting the iconic: from the metatheoretical foundations to the creative possibilities of iconicity in language.   
 
-- 2001 -- 2003: Teacher training accredition
-- 1999 -- 2001: Master of arts (licentiaat) in Germanic Languages (Ghent University)
-- 1996 -- 1999: Bachelor of arts (kandidaat) in Germanic Languages (Ghent University)
+- 2001 -- 2003: Teacher training accredition (UGent)
+- 1999 -- 2001: Master of arts (licentiaat) in Germanic Languages (UGent)
+- 1996 -- 1999: Bachelor of arts (kandidaat) in Germanic Languages (UGent)
 
 ## Organisation
 
-I’ve organized multiple scientific conferences, but I am most proud of being the co-organizer (alongside Koen Plevoets) of the annual summer school, Methods in Language Sciences (MILS), held at Ghent University each July. We have hosted this summer school since 2020, and in recent years, we have welcomed over a hundred participants from around the globe. In 2025, we hosted 114 participants from 42 universities across 19 countries. We are currently preparing for MILS 2026 and have an excellent lineup of courses already confirmed. More details will be available soon at [MILS2026](https://www.mils.ugent.be/).
+I’ve co-organized multiple scientific conferences, but I am most proud of being the co-organizer (alongside Koen Plevoets) of the annual summer school, **Methods in Language Sciences** (MILS), held at Ghent University each July. We have hosted this succesful summer school since 2020. The summer school usually offers 10 or more 15 hour courses. Every year, we have welcomed over a hundred participants from around the globe. In 2025, we hosted 114 participants from 42 universities across 19 countries. We are currently preparing for MILS 2026 and have an excellent lineup of courses already confirmed. More details will be available soon at [MILS2026](https://www.mils.ugent.be/).
 
 
 
