@@ -6,22 +6,22 @@ website:
   title: "Ludovic De Cuypere"
   navbar:
     right:
-      - href: index.qmd
-        text: Home
       - about.qmd
       - Presentations.qmd
       - Teaching.qmd
       - Research.qmd
+      - href: CV.pdf
+        text: CV
   page-footer: 
     background: light
     left: © 2026 Ludovic De Cuypere
-    right: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with (https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: lux
+      dark: darkly
     css: styles.css
     toc: true
 
