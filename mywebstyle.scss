@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+$teal: #064747;
+$sneeuwwit: #fffafa;
+$wit: #ffffff;
+$teallichter: #105151;
+$navbar-bg: $teal;
+$body-bg: $sneeuwwit;
+$navbar-fg: $wit;
+$headings-color: $teallichter; // This affects all headings (h1-h6)
+
+/*-- scss:rules --*/
+h1 {
+  letter-spacing: -0.02rem; // Subtle SCSS tweak
+}
