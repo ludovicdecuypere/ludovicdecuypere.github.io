@@ -1,0 +1,86 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;600&display=swap');
+
+// Streamlined Palette
+$black: #1a1a1a; // Slightly softer black for better reading
+$white: #ffffff;
+$light-gray: #eeeeee;
+$medium-gray: #444444; // Darker than before for better accessibility
+
+// Font Variables
+$font-family-serif: "EB Garamond", serif;
+$font-family-sans-serif: "Inter", sans-serif;
+
+// Quarto/Bootstrap font settings
+$body-family: $font-family-sans-serif;
+$headings-font-family: $font-family-sans-serif;
+
+$navbar-bg: $white; // Switched to white for a cleaner, airy feel
+$body-bg: $light-gray;
+$navbar-fg: $black;
+$headings-color: $black;
+$link-color: $black;
+
+/*-- scss:rules --*/
+
+// 1. Clean, Compact Navigation
+.navbar-brand,
+.navbar-title,
+.nav-link {
+font-family: $font-family-sans-serif;
+font-weight: 300;
+font-size: 0.70rem;
+}
+
+.navbar {
+border-bottom: 1px solid $light-gray;
+padding-top: 0.5rem; // Reduced from 1.2rem
+padding-bottom: 0.5rem;
+}
+
+// 2. Approachable Headings
+h1, h2, h3, h4 {
+font-family: $font-family-sans-serif;
+font-weight: 500; // Less bulky than 800
+text-transform: none; // Removed uppercase for a friendlier tone
+margin-top: 1.5rem; // Tighter vertical flow
+margin-bottom: 0.75rem;
+}
+
+h1 {
+font-size: 2rem;// Scaled down from 3.2rem
+line-height: 1.2;
+border-top: none; // Removed the heavy top border
+padding-top: 0;
+}
+
+// 3. Optimized Reading Body
+body {
+line-height: 1.4; // Slightly tighter for a "blog" feel
+color: $medium-gray;
+font-size: 1rem; // Slightly larger for serif legibility
+-webkit-font-smoothing: antialiased;
+}
+
+blockquote {
+font-family: $font-family-serif;
+font-style: italic;
+font-size: 1.2rem;
+color: $medium-gray;
+border-left: 3px solid $light-gray;
+padding: 0.5rem 1.5rem;
+margin: 1.5rem 0;
+}
+
+// 4. Simple Links
+a:not(.nav-link):not(.navbar-brand) {
+color: $black;
+text-decoration: underline; // Standard and clear
+text-underline-offset: 3px;
+text-decoration-color: $light-gray;
+
+&:hover {
+text-decoration-color: $black;
+}
+}

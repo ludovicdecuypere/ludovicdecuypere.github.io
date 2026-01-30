@@ -1,5 +1,6 @@
 ---
-title: "Prof. Dr. Ludovic De Cuypere"
+title: "Ludovic De Cuypere"
+subtitle: "Language · Research · Communication"
 image: ldc_pic.jpg
 links:
     - icon: envelope
@@ -11,10 +12,10 @@ links:
     - text: orcid
       href: https://orcid.org/0000-0002-0050-1097
 about: 
-  template: jolla
+  template: solana
   image-shape: round
-  image-width: 20em
+  image-width: 24em
+page-layout: full
 ---
-        
 
-Welcome! My name is Ludovic De Cuypere [lydovik də kœyːpərə] and I'm an Associate Professor in English Linguitics at Vrije Universiteit Brussel and a Research Consultant at the Linguistics Department of Ghent University. It's my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. Outside work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!
+Welcome! My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I'm an Associate Professor in English Linguitics at Vrije Universiteit Brussel and a Research Consultant at the Linguistics Department of Ghent University. It's my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. Outside work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!

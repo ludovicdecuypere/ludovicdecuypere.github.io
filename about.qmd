@@ -1,6 +1,6 @@
 ---
 title: "About"
-subtitle: "Professional bio"
+subtitle: "Professional bio & CV"
 title-block-banner: true
 ---
 

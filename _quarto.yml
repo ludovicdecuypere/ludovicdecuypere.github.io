@@ -3,15 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Ludovic De Cuypere"
+  title: "LDC"
   navbar:
+    logo: mylogo_website_simple.png
     right:
       - about.qmd
-      - Presentations.qmd
-      - Teaching.qmd
       - Research.qmd
-      - href: CV.pdf
-        text: CV
+      - Teaching.qmd
+      - Publications.qmd
+      - posts.qmd
+      - Contact.qmd
   page-footer: 
     background: light
     left: © 2026 Ludovic De Cuypere
@@ -21,9 +22,9 @@ format:
   html:
     theme: 
       - lux
-      - mywebstyle.scss
+      - mystyle_main.scss
     mainfont: EB+Garamond
-    fontsize: 1.2em
+    fontsize: 1.1em
     toc: true
 
 

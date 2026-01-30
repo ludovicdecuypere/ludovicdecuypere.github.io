@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "0pen source course materials" 
+subtitle: "Open source course materials" 
 listing:
   contents: Teaching
   sort: date-modified
@@ -22,8 +22,6 @@ I have been a teacher for most of my professional life. Before starting my phd s
 
 A pedagogical reflection. One distinction that I've come to appreciate deeply is the one between teaching and lecturing. Presenting a slide deck or reading course notes in front of an audience is pretty easy; teaching is hard. Setting goals, designing lesson plans, and trying to get the best out of every student requires a deep commitment and is best fostered through years of experience.
 
-The key ingredients that have worked best for me are having a clear overall structure, well-defined learning goals, and a challenging yet safe learning context. My teaching is interactive, task-based, and incorporates lots of pair work in class. And just being able to tell a good story, arguably the most underrated teaching skill in the age of PPT.
+The key ingredients that have worked best for me are having a clear overall structure, well-defined learning goals, and a challenging yet safe learning environment. My teaching is mostly interactive, task-based, with lots of pair work. 
 
-Over the years, I've also witnessed so-called "grade inflation." Call me naive -- I'll happily trade any cynicism for some youthful naïveté -- but my gut-based Bayesian a priori explanation for this (undeniable) trend is that university education has improved, not because expectations have lowered.   
-
-
+And just being able to tell a good story, arguably the most underrated teaching skill in the age of slide deck teaching. I mostly agree with the claim that "PowerPoint is the coward's choice" (Clifford Stoll, 1999, Hight Tech Heretic. Doubleday. p. 180), Slides are useful visualisation tools, but terrible when read as mere bullet lists.

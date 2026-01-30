@@ -1,14 +1,34 @@
 ---
 title: "Research"
-subtitle: "Books, articles, datasets, protocols, ... As open as possible, as closed as necessary" 
+subtitle: "As open as possible, as closed as necessary" 
 title-block-banner: true
 ---
 
-Never been a one-trick pony. I have always been blessed with colleagues who generously allowed me to play in their backyards. Collaboration, streamlining ideas and projects, creating synergy, and trying to add a piece to the research puzzle that creates more than the sum total of the individual pieces -- this is what fuels my passion as a researcher and research consultant. My personal line of research has always been -- and always will be -- diverse. Optionality and serendipity are what drive me forward. One price to pay in today's super-organized and tightly planned research culture is a loss of serendipity: so many beautiful young minds following the protocol and not having time to mess around. 
+Never been a one-trick pony. And I've always been blessed with colleagues who generously allowed me to play in their backyard. 
+
+Collaboration, creating synergy, and trying to add a piece to the research puzzle that creates more than the sum total of the individual pieces -- this is what fuels my passion as a researcher and research consultant. 
+
+Diversification, optionality, and serendipity are also what drives me forward in my personal lines of research. My published work covers topics such as exaptation, sign theory (Artistotle), prepositional and constructional semantics, semiotics, Charles Sanders Peirce, and multiple negation. Two major topics that I've worked on extensively are iconicity and alternating constructions.     
 
 ## Iconicity
 
 My PhD research involved an epistemological study of iconicity in language, the results of which were published in Limiting the Iconic (Benjamins, 2008). Building on views by E. Coseriu, U. Eco, G. Sonesson, K. Willems, and S. Levinson, my main idea is that a principled distinction must be made between similarity and iconicity. I believe this is a fundamental epistemological distinction that has not yet been fully appreciated in the literature. I got to summarize this idea in the chapter "The explanatory power of iconicity in language" in **The Oxford Handbook of Iconicity in Language** (Oxford University Press, 2026).
+
+
+::: {#fig-books layout-ncol=3}
+
+![De Cuypere (2008)](LimitingTheIconic_Front.jpg){#fig-lim height=300}
+
+![Willems & De Cuypere (2008)](NatIcon_front.png){#fig-NatIcon height=300}
+
+![Fischer et al. (2026)](OUP_Handbook_front.jpg){#fig-OUP_handbook height=300}
+
+From left to right: my published PhD dissertation, a volume co-edited with Klaas Willems, and the OUP Handbook on Iconicity in which I contributed Chapter 7: **The explanatory power of iconicity in language**. 
+:::
+
+Rong Chen (California State University, San Bernardino) wrote the following appreciation in his review of **Limiting the Iconic** (Linguist List 20-1353, 2009)
+
+> Growing out of the author's dissertation, this book [Limiting the Iconic, LDC] reads every bit like a monograph by a seasoned linguist. The survey of the literature on the topic is thorough and the author's critiques of previous scholars' theories and constructs are detailed, careful, and balanced. Of all the chapters, Chapter 5 strikes this reviewer as the most substantive and impressive: De Cuypere analyzes major works on iconicity to argue that most of these authors are off the mark. You think hard and eventually agree that he makes sense. At the end of the book, you think hard again and decide that he is largely right. Then you realize that you have read a very good book, a very important book, a book that you would come back to for information and inspiration later in your work.
 
 ## Syntactic alternations
 
@@ -18,23 +38,21 @@ Theoretically, my work is situated in the functional-structuralist tradition (Sa
 
 ## Salience
 
-Together with co-supervisors Esli Struys and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, I am involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as *-olp* or *-u*) to English test sentences and track participants' eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025).
+Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, I am involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as *-olp* or *-u*) to English test sentences and track participants' eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025).
 
 ## Misc. 
 
-My published work also covers: exaptation, sign theory (Artistotle), prepositional semantics (English preposition **to**), constructional semantics, Charles Sanders Peirce, negation, professional sub-editing...      
 
-## Open science
 
-I use the curated repository TROLLing to publish datasets, R-code, and output: [shared data](https://dataverse.no/dataverse/trolling;jsessionid=aceae0984f3ace7d5e10f73fc2d8?q=&fq2=authorName_ss%3A%22De+Cuypere%2C+Ludovic%22&fq0=subtreePaths%3A%22%2F3%22&fq1=dvObjectType%3A%28dataverses+OR+datasets%29&types=dataverses%3Adatasets&sort=dateSort&order=). I highly recommend this repository -- big shout-out to the curators! 
+## Ongoing Research Projects
 
-Open Science is a work in progress and I'm happy to be part of this movement. My plan is to expand my Open Science pipeline with OSF (for preregistration, power analyses, project admin, ethics, etc.), protocols.io for methodological standard operating procedures, and github for reproducible code.  
+Salience
 
-## Research Projects
+Prodictivity at work
 
-### Ongoing
+### Past Research Projects
 
-### Past
+...
 
 
 
