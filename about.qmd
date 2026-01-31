@@ -2,11 +2,17 @@
 title: "About"
 subtitle: "Professional bio & CV"
 title-block-banner: true
+image: ldc_pic.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 24em
+page-layout: full
 ---
 
 Dr. Ludovic DE CUYPERE currently holds the positions of Associate Professor of English Linguistics at Vrije Universiteit Brussel and of Research Support Officer at the Linguistics Department of Ghent University. He completed his MA in Germanic Languages and Literature from UGent in 2001, followed by a PhD in Germanic Languages and Literature from the same university in 2007.
 
-His doctoral dissertation, published in 2008 as *Limiting the Iconic* with John Benjamins, involved an epistemological investigation of iconicity in language. He served as a postdoctoral fellow with the Research Foundation Flanders (FWO) from 2007 until 2013, working on a corpus-based investigation of the history of the English dative alternation.
+His doctoral dissertation, published in 2008 as **Limiting the Iconic** with John Benjamins, involved an epistemological investigation of iconicity in language. He served as a postdoctoral fellow with the Research Foundation Flanders (FWO) from 2007 until 2013, working on a corpus-based investigation of the history of the English dative alternation.
 
 His research has focused on alternating syntactic constructions, which he has studied from multiple perspectives and in various languages. He has contributed to theoretical and epistemological aspects of linguistic debate, such as the application of evolutionary theory concepts to language change (exaptation), the conceptual nature of (prepositional) semantics, iconicity as a functional explanation, and the grammatical status of alternating syntactic constructions. He has further contributed to the methodological design and statistical analysis of multiple studies. 
 

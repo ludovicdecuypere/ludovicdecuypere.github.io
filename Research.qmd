@@ -4,6 +4,10 @@ subtitle: "As open as possible, as closed as necessary"
 title-block-banner: true
 ---
 
+Here you may find an overview of my research topics, the research projects I been involved with as a research or as a co-supervisor, and my publications. 
+
+# Research Topics
+
 Never been a one-trick pony. And I've always been blessed with colleagues who generously allowed me to play in their backyard. 
 
 Collaboration, creating synergy, and trying to add a piece to the research puzzle that creates more than the sum total of the individual pieces -- this is what fuels my passion as a researcher and research consultant. 
@@ -13,7 +17,6 @@ Diversification, optionality, and serendipity are also what drives me forward in
 ## Iconicity
 
 My PhD research involved an epistemological study of iconicity in language, the results of which were published in Limiting the Iconic (Benjamins, 2008). Building on views by E. Coseriu, U. Eco, G. Sonesson, K. Willems, and S. Levinson, my main idea is that a principled distinction must be made between similarity and iconicity. I believe this is a fundamental epistemological distinction that has not yet been fully appreciated in the literature. I got to summarize this idea in the chapter "The explanatory power of iconicity in language" in **The Oxford Handbook of Iconicity in Language** (Oxford University Press, 2026).
-
 
 ::: {#fig-books layout-ncol=3}
 
@@ -40,26 +43,37 @@ Theoretically, my work is situated in the functional-structuralist tradition (Sa
 
 Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, I am involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as *-olp* or *-u*) to English test sentences and track participants' eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025).
 
-## Misc. 
+# Research Projects
 
+- Salience
+- Prodictivity at work
+- German ditransitive 1
+- German ditransitive 2
+- A diachronic analysis of the English dative altenration (my FWO postdoc project)
 
+# Publications
 
-## Ongoing Research Projects
-
-Salience
-
-Prodictivity at work
-
-### Past Research Projects
+## Monographs
 
 ...
 
+## Edited books
 
+...
 
+## Articles
 
+...
 
+## Book Chapters
 
+...
 
+## Datasets
+
+...
+
+For a full list of publications see: Google Scholar, UGent, VUB
 
 
 

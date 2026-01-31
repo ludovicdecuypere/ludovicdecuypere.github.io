@@ -9,8 +9,7 @@ website:
     right:
       - about.qmd
       - Research.qmd
-      - Teaching.qmd
-      - Publications.qmd
+      - Talks_and_Workshops.qmd
       - posts.qmd
       - Contact.qmd
   page-footer: 

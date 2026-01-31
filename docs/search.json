@@ -14,53 +14,11 @@
     "text": "Test\n\n\ntest\n\nThis is very much an ongoing work in-progress, but the first version included a “Gear Garage” for tracking mileage on my hiking boots and bike, an activity heat map of all recorded hikes, bike rides, and walks, visualizations for exploring activity distance and elevation gain, and an interactive table of the raw data."
   },
   {
-    "objectID": "Presentations.html",
-    "href": "Presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Toronto\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 29, 2026\n\n\nVDAB vacatures 2025\n\n\nLudovic De Cuypere\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ludovic De Cuypere",
-    "section": "",
-    "text": "Welcome! My name is Ludovic De Cuypere [lydovik də kœyːpərə] and I’m an Associate Professor in English Linguitics at Vrije Universiteit Brussel and a Research Consultant at the Linguistics Department of Ghent University. It’s my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. Outside work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Dr. Ludovic DE CUYPERE currently holds the positions of Associate Professor of English Linguistics at Vrije Universiteit Brussel and of Research Support Officer at the Linguistics Department of Ghent University. He completed his MA in Germanic Languages and Literature from UGent in 2001, followed by a PhD in Germanic Languages and Literature from the same university in 2007.\nHis doctoral dissertation, published in 2008 as Limiting the Iconic with John Benjamins, involved an epistemological investigation of iconicity in language. He served as a postdoctoral fellow with the Research Foundation Flanders (FWO) from 2007 until 2013, working on a corpus-based investigation of the history of the English dative alternation.\nHis research has focused on alternating syntactic constructions, which he has studied from multiple perspectives and in various languages. He has contributed to theoretical and epistemological aspects of linguistic debate, such as the application of evolutionary theory concepts to language change (exaptation), the conceptual nature of (prepositional) semantics, iconicity as a functional explanation, and the grammatical status of alternating syntactic constructions. He has further contributed to the methodological design and statistical analysis of multiple studies.\nTogether with co-supervisors Esli Struys and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, he’s currently involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as -olp or -u) to English test sentences and track participants’ eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025)."
-  },
-  {
-    "objectID": "Contact.html",
-    "href": "Contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact me if you have any questions or if you wish to collaborate. I’m always interested in prospective phd students or postdocs who share similar research interests. Or maybe you have a good idea that we might be able to streamline into a research project?\n\nVrije Universiteit Brussel (VUB)\n\nCenter for Languages and Linguistics (CLIN)\nBrussels Center for Language Studies (BCLS)\nPleinlaan 2, 1050 Elsene, Gebouw B.\nRoom B5.17\nLudovic.De.Cuypere at vub.be\n\n\n\nGhent University (UGent)\n\nDepartment of Linguistics\nBlandijnberg 2, 9000 Gent\nRoom 100.052\nLudovic.DeCuypere at ugent.be"
-  },
-  {
-    "objectID": "posts/2026-01-29-datavis_vdab/index.html",
-    "href": "posts/2026-01-29-datavis_vdab/index.html",
-    "title": "VDAB vacatures 2025",
-    "section": "",
-    "text": "Datawrapper is een gebruiksvriendelijke online visualisatietool die ik soms gebruik om eenvoudige figuren te maken. Hier heb ik de ontvangen VDAB-vacatures voor 2025 gevisualiseerd. Alhoewel het relatief eenvoudig is om een dergelijke figuur te maken, moet de data in het juiste formaat ingegeven worden. In deze blog ga ik niet in op de praktische stappen in Datawrapper – die zijn vrij gemakkelijk te volgen. De grootste uitdaging om data te visualiseren is meestal het correcte dataformaat, en dat is zeker het geval bij online tools (zoals datawrapper, maar ook flourish, e.d.). Een cruciaal verschil dat je moet begrijpen om je data te visualiseren is tussen het lange “tidy” formaat en samengevatte of geaggregeerde data. Onder de figuur geef wat toelichting bij dit onderscheid.\n\nOm een deze figuur te maken, creëerde ik eerst een tabel met met het online dashboard van Arvastat. Vervolgens exporteerde ik de tabel naar een Excel werkblad. Die gegevens heb ik verder opgemaakt om te uploaden in Datawrapper.\nHet klaar maken van de data ter voorbereiding van de visualisatie is allicht de moeilijkste stap in het visualisatieproces.\nBovenstaande figuur is gebaseerd op samengevatte of geaggregeerde data in tabelvorm, zoals weergegeven in Table 1. Deze tabel bestaat uit twee kolommen:\n\n\n\nTable 1: Tabel die klaar is om te kopiëren naar Datawrapper\n\n\n\n\n\nBeroep\nAantal\n\n\n\n\nHuishoudhulp-poetshulp\n17403\n\n\nLeerkracht secundair onderwijs\n12055\n\n\nVerpleegkundige\n10676\n\n\n…\n…\n\n\n\n\n\n\nDe data werd hier samengevat op het niveau van beroep. Met andere woorden, voor elk beroep hebben we in de volgende kolom het aantal vacatures. De data wordt in dit formaat aangeleverd in het online dashboard van de VDAB.\nMaar stel dat we zouden beginnen van het niveau van de vacatures zelf, dan zouden we starten van een dataset zoals in Table 2:\n\n\n\nTable 2: Een dataset met vacatureberichten en informatie over het gevraagde beroep in het lange dataformaat.\n\n\n\n\n\nVacature\nBeroep\n\n\n\n\nvacaturebericht 1\nLeerkracht secundair onderwijs\n\n\nvacaturebericht 2\nLeerkracht secundair onderwijs\n\n\nvacaturebericht 3\nhuishoudhulp\n\n\nvacaturebericht 4\nhuishoudhulp\n\n\nvacaturebericht 5\nhuishoudhulp\n\n\n…\n…\n\n\n\n\n\n\nIn deze dataset hebben we 1 rij voor elke vacature. Elke vacature is geannoteerd voor beroep.\nDit is het zogenaamde lange dataformaat (ook wel het “tidy” dataformaat genoemd), waarbij elke observatie 1 rij heeft in de dataset.\nOm tot de eerdere geaggregeerde dataset te komen, moeten we het lange dataformaat samenvatten waarbij we voor elk beroep het aantal vacatures optellen (de optelling is hier dus de samenvatting).\nIn Excel kunnen we de voor elk beroep de aantallen samentellen aan de hand van een draaitabel. In R (2025) zouden we de table() functie kunnen gebruiken.\nDe grootste uitdaging bij het visualiseren van data is het omzetten van de data naar het juiste formaat. In datawrapper is het bijvoorbeeld niet mogelijk om het lange dataformaat in te geven en om vervolgens de staafdiagram te maken. Je hebt het geaggregeerde dataformaat nodig.\nIn het Engels spreekt men van “data wrangling”; je worstelt, wringt, en kneedt de data in de juiste vorm – soms met veel geduld, altijd zonder geweld.\nMits het juiste dataformaat is het visualiseren van de data kinderspel. Met een online omgeving als datawrapper kun je op een vrij gebruiksvriendelijze mooie visualisaties maken. Het enige nadeel is dat je als gebruiker wat meer gebonden bent aan bepaalde standaardinstellingen dan wanneer je andere software gebruikt.\nHappy data visualisation!\n\n\n\n\nReferences\n\nR Core Team. 2025. “R: A Language and Environment for Statistical Computing.” https://www.R-project.org/.\n\nCitationBibTeX citation:@online{de_cuypere2026,\n  author = {De Cuypere, Ludovic},\n  title = {VDAB Vacatures 2025},\n  date = {2026-01-29},\n  url = {https://ludovicdecuypere.github.io/posts/2026-01-24-datavis_vdab/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nDe Cuypere, Ludovic. 2026. “VDAB Vacatures 2025.” January\n29, 2026. https://ludovicdecuypere.github.io/posts/2026-01-24-datavis_vdab/."
-  },
-  {
     "objectID": "Research.html",
     "href": "Research.html",
     "title": "Research",
     "section": "",
-    "text": "Never been a one-trick pony. And I’ve always been blessed with colleagues who generously allowed me to play in their backyard.\nCollaboration, creating synergy, and trying to add a piece to the research puzzle that creates more than the sum total of the individual pieces – this is what fuels my passion as a researcher and research consultant.\nDiversification, optionality, and serendipity are also what drives me forward in my personal lines of research. My published work covers topics such as exaptation, sign theory (Artistotle), prepositional and constructional semantics, semiotics, Charles Sanders Peirce, and multiple negation. Two major topics that I’ve worked on extensively are iconicity and alternating constructions."
+    "text": "Here you may find an overview of my research topics, the research projects I been involved with as a research or as a co-supervisor, and my publications."
   },
   {
     "objectID": "Research.html#iconicity",
@@ -84,18 +42,81 @@
     "text": "Salience\nTogether with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, I am involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as -olp or -u) to English test sentences and track participants’ eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025)."
   },
   {
-    "objectID": "Research.html#misc.",
-    "href": "Research.html#misc.",
+    "objectID": "Research.html#monographs",
+    "href": "Research.html#monographs",
     "title": "Research",
-    "section": "Misc.",
-    "text": "Misc."
+    "section": "Monographs",
+    "text": "Monographs\n…"
   },
   {
-    "objectID": "Research.html#ongoing-research-projects",
-    "href": "Research.html#ongoing-research-projects",
+    "objectID": "Research.html#edited-books",
+    "href": "Research.html#edited-books",
     "title": "Research",
-    "section": "Ongoing Research Projects",
-    "text": "Ongoing Research Projects\nSalience\nProdictivity at work\n\nPast Research Projects\n…"
+    "section": "Edited books",
+    "text": "Edited books\n…"
+  },
+  {
+    "objectID": "Research.html#articles",
+    "href": "Research.html#articles",
+    "title": "Research",
+    "section": "Articles",
+    "text": "Articles\n…"
+  },
+  {
+    "objectID": "Research.html#book-chapters",
+    "href": "Research.html#book-chapters",
+    "title": "Research",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n…"
+  },
+  {
+    "objectID": "Research.html#datasets",
+    "href": "Research.html#datasets",
+    "title": "Research",
+    "section": "Datasets",
+    "text": "Datasets\n…\nFor a full list of publications see: Google Scholar, UGent, VUB"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nAuthor\n\n\n\n\n\n\n\n\nJan 29, 2026\n\n\nVDAB vacatures 2025\n\n\nLudovic De Cuypere\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ludovic De Cuypere",
+    "section": "",
+    "text": "Welcome to my forest. My name is Ludovic De Cuypere [lydovik də kœyːpərə] and I combine two academic positions. I am an Associate Professor in English Linguitics at Vrije Universiteit Brussel where I teach courses on Historical English Linguistics, Corpus Linguistics, Iconicity in Language. I am also a Research Consultant at the Linguistics Department of Ghent University, where I teach a course on statistics for linguists and where I offer methodological support to students and researchers.\nIt’s my pleasure to share some of my academic research and teaching materials in the spirit of Open Science.\nOutside work, you may find me amongst friends and family, lifting a barbell, or in the Seikan Dojo. Enjoy the walk!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Dr. Ludovic DE CUYPERE currently holds the positions of Associate Professor of English Linguistics at Vrije Universiteit Brussel and of Research Support Officer at the Linguistics Department of Ghent University. He completed his MA in Germanic Languages and Literature from UGent in 2001, followed by a PhD in Germanic Languages and Literature from the same university in 2007.\nHis doctoral dissertation, published in 2008 as Limiting the Iconic with John Benjamins, involved an epistemological investigation of iconicity in language. He served as a postdoctoral fellow with the Research Foundation Flanders (FWO) from 2007 until 2013, working on a corpus-based investigation of the history of the English dative alternation.\nHis research has focused on alternating syntactic constructions, which he has studied from multiple perspectives and in various languages. He has contributed to theoretical and epistemological aspects of linguistic debate, such as the application of evolutionary theory concepts to language change (exaptation), the conceptual nature of (prepositional) semantics, iconicity as a functional explanation, and the grammatical status of alternating syntactic constructions. He has further contributed to the methodological design and statistical analysis of multiple studies.\nTogether with co-supervisors Esli Struys and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, he’s currently involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as -olp or -u) to English test sentences and track participants’ eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025)."
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact me if you have any questions or if you wish to collaborate. I’m always interested in prospective phd students or postdocs who share similar research interests. Or maybe you have a good idea that we might be able to streamline into a research project?\n\nVrije Universiteit Brussel (VUB)\n\nCenter for Languages and Linguistics (CLIN)\nBrussels Center for Language Studies (BCLS)\nPleinlaan 2, 1050 Elsene, Gebouw B.\nRoom B5.17\nLudovic.De.Cuypere at vub.be\n\n\n\nGhent University (UGent)\n\nDepartment of Linguistics\nBlandijnberg 2, 9000 Gent\nRoom 100.052\nLudovic.DeCuypere at ugent.be"
+  },
+  {
+    "objectID": "posts/2026-01-29-datavis_vdab/index.html",
+    "href": "posts/2026-01-29-datavis_vdab/index.html",
+    "title": "VDAB vacatures 2025",
+    "section": "",
+    "text": "Datawrapper is een gebruiksvriendelijke online visualisatietool die ik soms gebruik om eenvoudige figuren te maken. Hier heb ik de ontvangen VDAB-vacatures voor 2025 gevisualiseerd. Alhoewel het relatief eenvoudig is om een dergelijke figuur te maken, moet de data in het juiste formaat ingegeven worden. In deze blog ga ik niet in op de praktische stappen in Datawrapper – die zijn vrij gemakkelijk te volgen. De grootste uitdaging om data te visualiseren is meestal het correcte dataformaat, en dat is zeker het geval bij online tools (zoals datawrapper, maar ook flourish, e.d.). Een cruciaal verschil dat je moet begrijpen om je data te visualiseren is tussen het lange “tidy” formaat en samengevatte of geaggregeerde data. Onder de figuur geef wat toelichting bij dit onderscheid.\n\nOm een deze figuur te maken, creëerde ik eerst een tabel met met het online dashboard van Arvastat. Vervolgens exporteerde ik de tabel naar een Excel werkblad. Die gegevens heb ik verder opgemaakt om te uploaden in Datawrapper.\nHet klaar maken van de data ter voorbereiding van de visualisatie is allicht de moeilijkste stap in het visualisatieproces.\nBovenstaande figuur is gebaseerd op samengevatte of geaggregeerde data in tabelvorm, zoals weergegeven in Table 1. Deze tabel bestaat uit twee kolommen:\n\n\n\nTable 1: Tabel die klaar is om te kopiëren naar Datawrapper\n\n\n\n\n\nBeroep\nAantal\n\n\n\n\nHuishoudhulp-poetshulp\n17403\n\n\nLeerkracht secundair onderwijs\n12055\n\n\nVerpleegkundige\n10676\n\n\n…\n…\n\n\n\n\n\n\nDe data werd hier samengevat op het niveau van beroep. Met andere woorden, voor elk beroep hebben we in de volgende kolom het aantal vacatures. De data wordt in dit formaat aangeleverd in het online dashboard van de VDAB.\nMaar stel dat we zouden beginnen van het niveau van de vacatures zelf, dan zouden we starten van een dataset zoals in Table 2:\n\n\n\nTable 2: Een dataset met vacatureberichten en informatie over het gevraagde beroep in het lange dataformaat.\n\n\n\n\n\nVacature\nBeroep\n\n\n\n\nvacaturebericht 1\nLeerkracht secundair onderwijs\n\n\nvacaturebericht 2\nLeerkracht secundair onderwijs\n\n\nvacaturebericht 3\nhuishoudhulp\n\n\nvacaturebericht 4\nhuishoudhulp\n\n\nvacaturebericht 5\nhuishoudhulp\n\n\n…\n…\n\n\n\n\n\n\nIn deze dataset hebben we 1 rij voor elke vacature. Elke vacature is geannoteerd voor beroep.\nDit is het zogenaamde lange dataformaat (ook wel het “tidy” dataformaat genoemd), waarbij elke observatie 1 rij heeft in de dataset.\nOm tot de eerdere geaggregeerde dataset te komen, moeten we het lange dataformaat samenvatten waarbij we voor elk beroep het aantal vacatures optellen (de optelling is hier dus de samenvatting).\nIn Excel kunnen we de voor elk beroep de aantallen samentellen aan de hand van een draaitabel. In R (2025) zouden we de table() functie kunnen gebruiken.\nDe grootste uitdaging bij het visualiseren van data is het omzetten van de data naar het juiste formaat. In datawrapper is het bijvoorbeeld niet mogelijk om het lange dataformaat in te geven en om vervolgens de staafdiagram te maken. Je hebt het geaggregeerde dataformaat nodig.\nIn het Engels spreekt men van “data wrangling”; je worstelt, wringt, en kneedt de data in de juiste vorm – soms met veel geduld, altijd zonder geweld.\nMits het juiste dataformaat is het visualiseren van de data kinderspel. Met een online omgeving als datawrapper kun je op een vrij gebruiksvriendelijze mooie visualisaties maken. Het enige nadeel is dat je als gebruiker wat meer gebonden bent aan bepaalde standaardinstellingen dan wanneer je andere software gebruikt.\nHappy data visualisation!\n\n\n\n\nReferences\n\nR Core Team. 2025. “R: A Language and Environment for Statistical Computing.” https://www.R-project.org/.\n\nCitationBibTeX citation:@online{de_cuypere2026,\n  author = {De Cuypere, Ludovic},\n  title = {VDAB Vacatures 2025},\n  date = {2026-01-29},\n  url = {https://ludovicdecuypere.github.io/posts/2026-01-24-datavis_vdab/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nDe Cuypere, Ludovic. 2026. “VDAB Vacatures 2025.” January\n29, 2026. https://ludovicdecuypere.github.io/posts/2026-01-24-datavis_vdab/."
+  },
+  {
+    "objectID": "Talks_and_Workshops.html",
+    "href": "Talks_and_Workshops.html",
+    "title": "Talks & Workshops",
+    "section": "",
+    "text": "to do\n\n\n\n\n\n\n\n\n\n\n\n\nToronto\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Teaching/2026-Study-salience/Index.html",

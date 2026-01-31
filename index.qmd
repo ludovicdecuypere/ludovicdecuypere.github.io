@@ -1,7 +1,7 @@
 ---
 title: "Ludovic De Cuypere"
 subtitle: "Language · Research · Communication"
-image: ldc_pic.jpg
+image: front_website.jpg
 links:
     - icon: envelope
       href: mailto:Ludovic.DeCuypere@UGent.be
@@ -14,8 +14,12 @@ links:
 about: 
   template: solana
   image-shape: round
-  image-width: 24em
+  image-width: 28em
 page-layout: full
 ---
 
-Welcome! My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I'm an Associate Professor in English Linguitics at Vrije Universiteit Brussel and a Research Consultant at the Linguistics Department of Ghent University. It's my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. Outside work, you may find me amongst friends and family or in the Seikan Dojo. Happy discoveries!
+Welcome to my forest. My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I combine two academic positions. I am an Associate Professor in English Linguitics at Vrije Universiteit Brussel where I teach courses on Historical English Linguistics, Corpus Linguistics, Iconicity in Language. I am also a Research Consultant at the Linguistics Department of Ghent University, where I teach a course on statistics for linguists and where I offer methodological support to students and researchers. 
+
+It's my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. 
+
+Outside work, you may find me amongst friends and family, lifting a barbell, or in the Seikan Dojo. Enjoy the walk!  
