@@ -20,12 +20,7 @@ website:
 
 format:
   html:
-    theme: 
-      - lux
-      - mystyle_main.scss
+    theme: [lux, mystyle_main.scss]
     mainfont: EB+Garamond
     fontsize: 1.1em
     toc: true
-
-
-

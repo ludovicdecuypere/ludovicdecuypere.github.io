@@ -63,24 +63,3 @@ font-size: 1rem; // Slightly larger for serif legibility
 -webkit-font-smoothing: antialiased;
 }
 
-blockquote {
-font-family: $font-family-serif;
-font-style: italic;
-font-size: 1.2rem;
-color: $medium-gray;
-border-left: 3px solid $light-gray;
-padding: 0.5rem 1.5rem;
-margin: 1.5rem 0;
-}
-
-// 4. Simple Links
-a:not(.nav-link):not(.navbar-brand) {
-color: $black;
-text-decoration: underline; // Standard and clear
-text-underline-offset: 3px;
-text-decoration-color: $light-gray;
-
-&:hover {
-text-decoration-color: $black;
-}
-}
