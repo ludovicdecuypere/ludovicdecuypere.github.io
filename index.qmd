@@ -2,15 +2,6 @@
 title: "Ludovic De Cuypere"
 subtitle: "Language · Research · Communication"
 image: front_website.jpg
-links:
-    - icon: envelope
-      href: mailto:Ludovic.DeCuypere@UGent.be
-    - icon: github
-      href: https://github.com/ludovicdecuypere
-    - text: scholar
-      href: https://scholar.google.com/citations?user=hxkUbXIAAAAJ&hl=nl   
-    - text: orcid
-      href: https://orcid.org/0000-0002-0050-1097
 about: 
   template: solana
   image-shape: round
@@ -18,8 +9,12 @@ about:
 page-layout: full
 ---
 
-Welcome to my forest. My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I combine two academic positions. I am an Associate Professor in English Linguitics at Vrije Universiteit Brussel where I teach courses on Historical English Linguistics, Corpus Linguistics, Iconicity in Language. I am also a Research Consultant at the Linguistics Department of Ghent University, where I teach a course on statistics for linguists and where I offer methodological support to students and researchers. 
+Welcome to my forest! My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I am an Associate Professor in English Linguitics at Vrije Universiteit Brussel (VUB) and  a Research Consultant at the Linguistics Department of Ghent University (UGent). 
 
-It's my pleasure to share some of my academic research and teaching materials in the spirit of Open Science. 
+As a researcher I've worked on various topics including iconicity, alternating constructions, constructional semantics, and salience. 
 
-Outside work, you may find me amongst friends and family, lifting a barbell, or in the Seikan Dojo. Enjoy the walk!  
+I teach courses on Historical English Linguistics (VUB), Corpus Linguistics (VUB), Iconicity in Language (VUB) and statistics (UGent). As a research consultant, I provide methodological support to students and researchers. I'm also the co-organiser of the summer school Methods in Language Sciences (UGent). 
+
+Outside work, you may find me amongst friends and family, or in the Seikan Dojo. 
+
+Happy discoveries!

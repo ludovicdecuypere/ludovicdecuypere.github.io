@@ -45,35 +45,202 @@ Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia 
 
 # Research Projects
 
-- Salience
-- Prodictivity at work
-- German ditransitive 1
-- German ditransitive 2
-- A diachronic analysis of the English dative altenration (my FWO postdoc project)
+- 2022 -- ongoing: *Eye-Catching - Investigating the link between salience, attention and awareness in the acquisition of grammatical morphology in a second language.*
+
+    - Senior Research Project
+    - Funding: Research Foundation Flanders (FWO)
+    - Supervisor: Alex Housen
+    - Co-supervisors: Elsi Struys and **Ludovic De Cuypere**
+    - Researcher: Saioa Cipitria
+
+- 2021 -- ongoing: *What the eyes don't see, the mind won't learn: Investigating the role of salience in the initial processing of morphology in SLA.*
+
+    - Phd Fellowship
+    - Funding: Research Foundation Flanders (FWO)
+    - Supervisor: Esli Struys
+    - Co-supervisors: Alex Housen and **Ludovic De Cuypere** 
+    - Phd-researcher: Georgia Knell
+
+- 2019 -- 2026: *Language productivity at work*
+
+    - Multiresearcher project
+    - Funding: BOF UGent
+    - Supervisors: Peter Lauwers (administrative main supervisor), Jóhanna Barthdal, Timothy Colleman, Renata Enghels, Miriam Taverniers
+    - Co-supervisors: **Ludovic De Cuypere**, Anne-Sophie Ghyselen
+    - Researchers: Mark Hoff, Emmaline Rice, Joren Somers, Margot Van den Heede, Anouk Van den Stock.
+
+- 2013 -- 2018: *A Corpus-Driven Study of the Structure of Noun Phrase in Nigerian English*
+
+    - Supervisor: Alex Housen
+    - Co-supervisor: Ludovic De Cuypere
+    - Researcher: Mayowa Akinlotan
+    
+- 2018 -- 2022: *Die Dativalternation in der Geschichte des Neuhochdeutschen. Eine historische und korpusbasierte Untersuchung*
+
+    - Phd Fellowship
+    - Funding: BOF UGent
+    - Supervisors: Klaas Willems & **Ludovic De Cuypere**
+    - Researcher: Evi Van Damme.
+
+- 2016 -- 2020: *The ditransitive alternation in present-day German. A corpus-based analysis*
+
+    - Phd Research project
+    - Funding: none
+    - Supervisors: Klaas Willems & **Ludovic De Cuypere**
+    - Researcher: Hilde De Vaere
+
+- 2012 -- 2014: *Case alternation in present-day German: a corpus-based analysis of the conditions of use of accusative and dative with non-transparant two-way prepositional verbs*
+
+    - Phd Fellowship
+    - Funding: Research Foundation Flanders (FWO)
+    - Supervisors: Klaas Willems & **Ludovic De Cuypere**
+    - Researcher: Jonah Rys
+    
+- 2010 -- 2013: *Ditransitivity from Old to Middle English* 
+
+    - Postdoctoral Fellowship
+    - Funding: Research Foundation Flanders (FWO)
+    - Supervisor: Klaas Willems (UGent)
+    - Researcher: Ludovic De Cuypere
+    
+- 2007 -- 2010: *A diachronic analysis of the English Dative Alternation*
+
+    - Postdoctoral Fellowship
+    - Funding: Research Foundation Flanders (FWO)
+    - Supervisor: Klaas Willems (UGent)
+    - Researcher: Ludovic De Cuypere
+    
+- 2003 -- 2007: *Een kritische analyse van de iconiciteitstheory*
+
+    - Research Project 
+    - Funding: Research Foundation Flanders (FWO)
+    - Supervisors: Klaas Willems, Johan Van der Auwera (UAntwerpen), Willy Van Langendonck (KULeuven)     - Researcher: Ludovic De Cuypere
+    
+## Doctoral Advisory Board
+
+I have served as an advisor in 16 doctoral advisory committees: Dr. Niek Van Wettere (UGent)
+2.	Dr. Justine Métairy (UGent), Dr. Kim Collewaert (VUB), Dr. Fien De Latte (UGent), Dr. Tom Bossuyt (UGent), Dr. Joren Somers (UGent), Dr. Alessandro Papini (UGent), Dr. Nele Van Den Driessche (UGent), Dr. Giang Hoang (UGent), Dr. Hilde De Vaere (UGent), Dr. Evi Van Damme (UGent), Dr. Thomas Belligh (UGent), Dr. Rachel Nye (VUB), Gil Verbeke (ongoing), Romeo De Timmerman (ongoing) (UGent), Jovana Stanojevic (ongoing) (VUB).
 
 # Publications
 
 ## Monographs
 
-...
+**De Cuypere, L.** (2008). *Limiting the iconic: from the metatheoretical foundations to the creative possibilities of iconicity in language*. Benjamins. https://doi.org/10.1075/ill.6
 
 ## Edited books
 
-...
+Depraetere, I., Cappelle B., Hilpert M., **De Cuypere L.**, Dehouck M., Denis P., Flach S., Grabar N., Grandin C., Hamon T., Hufeld C., Leclercq B. and Hans-Jörg Schmid (eds.)(2023) *Models of Modals. From Pragmatics and Corpus Linguistics to Machine Learning.* de Gruyter. 
+
+**De Cuypere, L.**, Vanderschueren, C., & De Sutter, G. (Eds.). (2017). *Current trends in analyzing syntactic variation.* Benjamins.
+
+Willems, K., & **De Cuypere, L.** (Eds.). (2008). *Naturalness and iconicity in language.* Amsterdam: John Benjamins. https://doi.org/10.1075/ill.7
+
+Colleman, T., **De Cuypere, L.**, De Vogelaer, G., & Rawoens, G. (Eds.). (2007). *Studies van de Belgische Kring voor Linguïstiek*. Belgische Kring voor Linguïstiek.
+
 
 ## Articles
 
-...
+Somers, J., Leuschner, T., **De Cuypere, L.**, & Barðdal, J. (2025). A corpus-based analysis of the dat-nom/nom-dat alternation in German. *Zeitschrift für Sprachwissenschaft*, 44(2). https://doi.org/10.18148/zs/2025-2009
+
+Knell, G., Cipitria, S., **De Cuypere, L.**, Housen, A., & Struys, E. (2025). Stand-out: a systematic review of the role of salience in second language acquisition. *Journal of the European Second Language Association, 9(1)*, 1–18. https://doi.org/10.22599/jesla.131
+
+Ponnet, A. & **De Cuypere, L.** (2024). The acquisition of Hindi split-ergativity and differential object marking by Dutch L1 speakers: systematicity and variation. *Language Acquisition 31(2)*, 145–176. https://doi.org/10.1080/10489223.2023.2195390
+
+De Timmerman, R., **De Cuypere, L.**, & Slembrouck, S. (2024). The globalization of local indexicalities through music: African-American English and the blues. *Journal of Sociolinguistics 28(1)*, 3–25. https://doi.org/10.1111/josl.12616
+
+Verbeke, G., Simon, E., Hartsuiker, R., Mitterer, H., & **De Cuypere, L.** (2024). Perceptie van een anderstalig accent: een experimentele studie naar de perceptieve aanpassing aan een exogeen geaccentueerd Nederlands klinkercontrast. *Handelingen - Koninklijke Zuid-Nederlandse maatschappij voor taal- en letterkunde en geschiedenis 76*, 225–252. doi: https://doi.org/10.21825/kzm.90450
+
+Ponnet, A., & **De Cuypere, L.** (2023). The acquisition of Differential Object Marking : a longitudinal study on L1 Dutch learners of Hindi as a foreign language. *Linguistica e Filologigia 43*, 217–255. https://doi.org/10.13122/LeF_43_p217
+
+Belligh, T., **De Cuypere, L.**, & Crocco, C. (2023). Alternating Italian thetic and sentence-focus constructions: a case study. *Revue Romane, 58(2)*, 246–277. https://doi.org/10.1075/rro.16006.bel
+
+Verroens, F. & **De Cuypere, L.** (2023). French ingressives and (phasal) aspect: a frame-semantic corpus-based analysis. *Canadian Journal of Linguistics-Revue Canadienne de Linguistique, 68(3)*, 435–461. https://doi.org/10.1017/cnj.2023.19
+
+Hoang, T. H.-G., Baten, K., **De Cuypere, L.**, Hoang, T. T., & Taverniers, M. (2021). An exploratory study of predictors of vocabulary knowledge of Vietnamese preschool-age children in a city. *Dutch Journal of Applied Linguistics, 10*. https://doi.org/10.51751/dujal9538
+
+De Vaere, H., **De Cuypere, L.**, & Willems, K. (2021). Alternating constructions with ditransitive geben in present-day German. *Corpus Linguistics and Linguistic Theory, 17(1)*, 73–107. https://doi.org/10.1515/cllt-2017-0072
+
+Baten, K., Van Hiel, S., & **De Cuypere, L.** (2020). Vocabulary development in a CLIL context: a comparison between French and English L2. *Studies in Second Language Learning and Teaching, 10(2)*, 307–336. https://doi.org/10.14746/ssllt.2020.10.2.5
+
+De Vaere, H., **De Cuypere, L.**, & Willems, K. (2020). Constructional variation with two near-synonymous verbs: the case of schicken and senden in present-day German. *Language Sciences, 83*. https://doi.org/10.1016/j.langsci.2020.101313
+
+Lybaert, C., De Clerck, B., Saelens, J., & **De Cuypere, L.** (2019). A corpus-based analysis of V2 variation in West Flemish and French Flemish dialects. *Journal of Germanic Linguistics, 31(1)*, 43–100. https://doi.org/10.1017/S1470542718000028
+
+Vermote, T., Lauwers, P., & **De Cuypere, L.** (2017). Transcending the lexical vs grammatical divide regarding the mass/count distinction: lessons from corpus studies and acceptability surveys in French and Dutch. *Language Sciences*, 62, 37–51. https://doi.org/10.1016/j.langsci.2017.02.002
+
+Blondeel, J., **De Cuypere, L.**, & Willems, K. (2017). Nominal word formations and syntagms with super. A corpus-based investigation. *Deutsche Sprache*, 45(1), 53–77.
+
+Simon, E., Lima Jr, R., & **De Cuypere, L.** (2016). Acquiring non-native speech through early media exposure: Belgian children’s productions of English vowels. *Poznan Studies in Contemporary Linguistics 52(4)*, 719–743. https://doi.org/10.1515/psicl-2016-0028
+
+**De Cuypere, L.** (2015). The Old English to-dative construction. *English Language and Linguistics, 19(1)*, 1–26. https://doi.org/10.1017/s1360674314000276
+
+**De Cuypere, L.** (2015). A multivariate analysis of the Old English ACC+DAT double object alternation. *Corpus Linguistics and Linguistic Theory 11(2)*, 225–254. https://doi.org/10.1515/cllt-2014-0011
+
+Vandendaele, A., **De Cuypere, L.**, & Van Praet, E. (2015). Beyond “Trimming the fat”: the sub-editing stage of newswriting. *Written Communication, 32(4)*, 368–395. https://doi.org/10.1177/0741088315599391
+
+Verbeke, S., & **De Cuypere, L.** (2015). Differential subject marking in Nepali imperfective constructions: a probabilistic grammar approach. *Studies in Language, 39(1)*, 1–23. https://doi.org/10.1075/sl.39.1.01ver
+
+Rys, J., & **De Cuypere, L.** (2014). Variable satellite placement in spoken Dutch: a corpus study of the role of the proximity principle. *International Journal of Corpus Linguistics 19(4)*, 548–569. https://doi.org/10.1075/ijcl.19.4.05rys
+
+**De Cuypere, L.**, De Coster, E., & Baten, K. (2014). The acquisition of the English dative alternation by Russian foreign language learners. *Phrasis (Gent): Studies in Language and Literature 2*, 187–212.
+
+**De Cuypere, L.**, Baten, K., & Rawoens, G. (2014). A corpus-based analysis of the Swedish passive alternation. *Nordic Journal of Linguistics, 37(2)*, 199–223. https://doi.org/10.1017/S0332586514000183
+
+Baten, K., & **De Cuypere, L. (2014). The dative alternation in L2 German? Conceptualization transfer from L1 Dutch. *VIAL-VIGO International Journal of Applied Linguistics, 11*, 9–40.
+
+Vanderschueren, C., & **De Cuypere, L.** (2014). The inflected/non-inflected infinitive alternation in Portuguese adverbial clauses: a corpus analysis. *Language Sciences, 41*, 153–174. https://doi.org/10.1016/j.langsci.2013.08.016
+
+**De Cuypere, L.** (2013). Debiasing semantic analysis: the English preposition to. *Language Sciences*, 37, 122–135. https://doi.org/10.1016/j.langsci.2012.12.002
+
+**De Cuypere, L.**, & Verbeke, S. (2013). Dative alternation in Indian English: a corpus-based study. *World Englishes, 32(2)*, 169–184. https://doi.org/10.1111/weng.12017
+
+De Backer, M., & **De Cuypere, L.** (2012). The interpretation of masculine personal nouns in German and Dutch: a comparative experimental study. *Language Sciences, 34(3)*, 253–268. https://doi.org/10.1016/j.langsci.2011.10.001
+
+**De Cuypere, L.** (2010). The Old English double object alternation : a discourse-based approach. *Sprachwissenschaft, 35(3)*, 337–368.
+
+Verbeke, S., & **De Cuypere, L.** (2009). The rise of ergativity in Hindi: assessing the role of grammaticalization. *Folia Linguistica Historica, 30(1)*, 367–389. https://doi.org/10.1515/flih.2009.004
+
+**De Cuypere, L.**, & Willems, K. (2008). Meaning and Reference in Aristotle’s Concept of the Linguistic Sign. *Foundations of Science, 13(3–4)*, 307–324. https://doi.org/10.1007/s10699-008-9134-y
+
+Van der Gucht, F., Willems, K., & **De Cuypere, L.** (2007). The iconicity of embodied meaning. Polysemy of spatial prepositions in the cognitive framework. *Language Sciences 29(6)*, 733–754.
+
+**De Cuypere, L.** (2006). Iconiciteit in taal: evolutionarisme en creativiteit. *Studies van de BKL*, 1.
+
+**De Cuypere, L.** (2005). Exploring exaptation in language change. FOLIA LINGUISTICA HISTORICA, 26(1–2), 13–26.
 
 ## Book Chapters
 
-...
+**De Cuypere, L.** (2026). In O. Fischer, K. Akita, & P. Perniss (Eds.), *The Oxford Handbook on iconicity in language* (Chapter 7). Oxford. https://doi.org/10.1093/oxfordhb/9780192849489.013.0008
 
-## Datasets
+Capelle, B., **De Cuypere, L.**, Depraetere, I., Grandin, C., & Leclercq, B. (2023). Possibility modals: which conditions make them possible? In I. Depraetere, B. Capelle, & M. Hilpert (Eds.), *Models of modals: from pragmatics and corpus linguistics to machine learning* (pp. 93–117). https://doi.org/10.1515/9783110734157-004
 
-...
+Van Damme, E., **De Cuypere, L.**, & Willems, K. (2022). Die Dativalternation im 18. Jahrhundert : eine vergleichende Fallstudie zu den Verben “senden” und “verkaufen.” In A. Havinga & B. Lindner-Bornemann (Eds.), *Deutscher Sprachgebrauch im 18. Jahrhundert: Sprachmentalität, Sprachwirklichkeit, Sprachreichtum* (pp. 135–165). Heidelberg: Universitätsverlag Winter.
 
-For a full list of publications see: Google Scholar, UGent, VUB
+Van Damme, E., **De Cuypere, L.**, & Willems, K. (2020). The ditransitive alternation in the history of German: the case of verkaufen ('sell’). In C. Fedriani & M. Napoli (Eds.), *The diachrony of ditransitives* (pp. 197–228). https://doi.org/10.1515/9783110701371-007
+
+Bossuyt, T., **De Cuypere, L.**, & Leuschner, T. (2018). Emergence phenomena in German W-immer/auch-subordinators. In E. Fuß, M. Konopka, B. Trawiński, & U. H. Waßner (Eds.), *Grammar and Corpora 2016* (pp. 97–120). https://doi.org/10.17885/HEIUP.361.509
+
+Willems, K., **De Cuypere, L.**, & Rys, J. (2018). Case alternation in argument structure constructions with prepositional verbs: a case study in corpus-based constructional analysis. In H. C. Boas & A. Ziem (Eds.), *Constructional approaches to syntactic structures in German* (pp. 85–130). https://doi.org/10.1515/9783110457155-003
+
+**De Cuypere, L.**, & De Sutter, G. (2017). Introduction: current trends in analyzing syntactic variation. *Belgian Journal of Linguistics, 31(1)*, 1–7. https://doi.org/10.1075/bjl.00013.dec
+
+Simoens, H., Housen, A., & **De Cuypere, L.** (2017). The effect of perceptual salience on processing L2 inflectional morphology. In S. Gass, P. Spinner, & J. Behney (Eds.), *Salience in second language acquisition* (pp. 107–130). Routledge. https://doi.org/10.4324/9781315399027-6
+
+Simon, E., Lima Jr, R., & **De Cuypere, L.** (2015). No immersion, no instruction: children’s non-native vowel productions in a foreign language context. In E. Babatsouli & D. Ingram (Eds.), *Proceedings of the International Symposium on Monolingual and Bilingual Speech*.
+
+Rys, J., Willems, K., & **De Cuypere, L.** (2014). Akkusativ und Dativ nach Wechselpräpositionen im Deutschen: eine Korpusanalyse von “versinken”, “versenken”, “einsinken.” In I. Doval & B. Lübke (Eds.), *Raumlinguistik und Sprachkontrast: neue Beiträge zu spatialen Relationen im Deutschen, Englischen und Spanischen* (pp. 217–234). München, Deutschland: Iudicium.
+
+**De Cuypere, L.**, & Willems, K. (2008). Introduction: naturalness and iconicity in language. In K. Willems & L. De Cuypere (Eds.), *Naturalness and iconicity in language* (pp. 1–23). Benjamins. https://doi.org/10.1075/ill.7.03de
+
+**De Cuypere, L.**, Van der Auwera, J., & Willems, K. (2007). Double negation and iconicity. In  E. Tabakowska, C. Ljungberg, & O. Fischer (Eds), *Insistent images* (pp. 301–320). Benjamins.
+
+Van der Auwera, J., **De Cuypere, L.**, & Neuckermans, A. (2006). Negative indefinites: a typological and diachronic perspective on a Brabantic construction. In T. Nevalainen, J. Klemola, & M. Laitinen (Eds.), *Types of variation: diachronic, dialectal and typological interfaces* (pp. 305–319). Benjamins.
+
+**De Cuypere, L.**, & Willems, K. (2006). Charles Sanders Peirce. In: K. Brown (Ed.), *Encyclopedia of language and linguistics*. Vol. 9. p.256-257. Elsevier.
+
+Willems, K., Van der Gucht, F., & **De Cuypere, L.** (2004). Semantische inclusie, variabele valentie en iconiciteit. In J. De Caluwe, M. Devos, J. Van Keymeulen, & G. De Schutter (Eds.), *Taeldeman, man van de taal, schatbewaarder van de taal: liber amicorum Johan Taeldeman* (pp. 1061–1078). Academia Press.
+
+
 
 
 

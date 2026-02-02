@@ -2,7 +2,7 @@
 title: "Talks & Workshops"
 subtitle: "The things I tell you will not be wrong"
 listing:
-  contents: Presentations
+  contents: talks_workshops
   sort: date-modified
   type: grid
   grid-item-border: true

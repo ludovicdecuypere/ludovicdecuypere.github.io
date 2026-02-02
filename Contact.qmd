@@ -4,19 +4,23 @@ subtitle: "Let's connect!"
 title-block-banner: true
 ---
 
-Contact me if you have any questions or if you wish to collaborate. I'm always interested in prospective phd students or postdocs who share similar research interests. Or maybe you have a good idea that we might be able to streamline into a research project?   
+Contact me if you have any questions or if you wish to collaborate. 
 
-#### Vrije Universiteit Brussel (VUB)
+I'm always interested in prospective phd students or postdocs who share similar research interests. Or maybe you have a good idea that we might be able to streamline into a research project?   
 
-- Center for Languages and Linguistics (CLIN)
-- Brussels Center for Language Studies (BCLS)
-- Pleinlaan 2, 1050 Elsene, Gebouw B. 
-- Room B5.17
-- Ludovic.De.Cuypere at vub.be
+**VUB**
 
-#### Ghent University (UGent)
+Linguistics and Literary Studies (LW-LIST)
+Vrije Universiteit Brussel
+Pleinlaan 2
+1050 Brussel (BE)
+Room B5.17
+![VUB email](Ludovic.De.Cuypere@vub.be)
 
-- Department of Linguistics
-- Blandijnberg 2, 9000 Gent
-- Room 100.052
-- Ludovic.DeCuypere at ugent.be
+**UGent**
+
+Department of Linguistics
+Blandijnberg 2
+9000 Gent
+Room 100.052
+![UGent email](Ludovic.DeCuypere@ugent.be)

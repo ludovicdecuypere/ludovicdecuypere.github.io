@@ -10,7 +10,7 @@ draft: false
 bibliography: references.bib
 format:
   html:
-    theme: [lux, mystyle_main.scss, mystyle_blog.scss]
+    mainfont: sans-serif
 ---
 
 Datawrapper is een gebruiksvriendelijke online visualisatietool die ik soms gebruik om eenvoudige figuren te maken. Hier heb ik de ontvangen VDAB-vacatures voor 2025 gevisualiseerd. Alhoewel het relatief eenvoudig is om een dergelijke figuur te maken, moet de data in het juiste formaat ingegeven worden. In deze blog ga ik niet in op de praktische stappen in Datawrapper -- die zijn vrij gemakkelijk te volgen. De grootste uitdaging om data te visualiseren is meestal het correcte dataformaat, en dat is zeker het geval bij online tools (zoals datawrapper, maar ook flourish, e.d.). Een cruciaal verschil dat je moet begrijpen om je data te visualiseren is tussen het lange "tidy" formaat en samengevatte of geaggregeerde data. Onder de figuur geef wat toelichting bij dit onderscheid.

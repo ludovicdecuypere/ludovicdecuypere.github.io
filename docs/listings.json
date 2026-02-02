@@ -7,15 +7,15 @@
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/Talks_and_Workshops.html",
     "items": [
-      "/posts/2026-01-29-datavis_vdab/index.html"
+      "/talks_workshops/2025-Bordeaux/Index.html"
     ]
   },
   {
-    "listing": "/Talks_and_Workshops.html",
+    "listing": "/posts.html",
     "items": [
-      "/Presentations/2026-2-Toronto/Index.html"
+      "/posts/2026-01-29-datavis_vdab/index.html"
     ]
   }
 ]

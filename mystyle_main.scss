@@ -6,7 +6,7 @@
 $black: #0f0f0f;      // Deep charcoal/black
 $white: #ffffff;
 $soft-gray: #f8f8f8;  // Very clean background
-$medium-gray: #666666;
+$medium-gray: #515151;
 
 // Font Variables
 $font-family-serif: "EB Garamond", serif;
@@ -24,7 +24,7 @@ $link-color: $black;
 
 /*-- scss:rules --*/
 
-// 1. Sleek Navigation (The "Jaguar" look + Reactive Underline)
+// 1. Sleek Navigation
 .navbar-brand, 
 .navbar-title {
   font-family: $font-family-sans-serif !important;
@@ -65,7 +65,7 @@ $link-color: $black;
   }
 }
 
-// 2. Edgy Headings (The "Ogilvy" look)
+// 2. Edgy Headings
 h1, h2, h3, h4 {
   font-family: $font-family-sans-serif;
   font-weight: 800;
@@ -81,9 +81,9 @@ h1 {
   padding-top: 1rem;
 }
 
-// 3. Elegant Body Text (The "Tom Ford" look)
+// 3. Elegant Body Text
 body {
-  line-height: 1.7;
+  line-height: 1.5;
   color: $medium-gray;
   -webkit-font-smoothing: antialiased;
 }
@@ -118,4 +118,16 @@ a:not(.nav-link):not(.navbar-brand) {
     border-bottom: 1px solid $black;
     color: $black;
   }
+}
+
+// Fix for Quarto Boldface
+strong, b {
+  font-weight: 600;   // This pulls the weight you imported from Google Fonts
+  color: $black;      // This makes bold text darker than the medium-gray body for "pop"
+}
+
+// Optional: If you want bold Inter (sans-serif) to be extra punchy
+.sans-serif-bold {
+  font-family: $font-family-sans-serif;
+  font-weight: 700;
 }
