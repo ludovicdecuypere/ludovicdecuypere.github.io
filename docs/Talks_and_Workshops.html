@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -203,7 +203,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uc3RydWN0aW9uYWwlMjBtZWFuaW5n">constructional meaning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VtYW50aWNz">semantics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGhyZWUlMjBsYXllciUyMG1vZGVs">three layer model <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -211,29 +211,41 @@ window.Quarto = {
 
 
 
-<p>to do</p>
+<p>Here I’m sharing the materials for some of my talks and workshops.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1769962144815" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="g-col-1" data-index="0" data-categories="c2VtYW50aWNzJTJDdGhyZWUlMjBsYXllciUyMG1vZGVsJTJDY29uc3RydWN0aW9uYWwlMjBtZWFuaW5n" data-listing-date-sort="1645138800000" data-listing-file-modified-sort="1770208781860" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="584">
 <a href="./talks_workshops/2025-Bordeaux/Index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<p class="card-img-top">
+<img loading="lazy" src="./talks_workshops/2025-Bordeaux/bordeaux_image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Bordeaux 2025
+A three-layer analysis of the English dative alternation
 </h5>
-<div class="card-text listing-description delink">
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('c2VtYW50aWNz'); return false;">semantics</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('dGhyZWUlMjBsYXllciUyMG1vZGVs'); return false;">three layer model</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29uc3RydWN0aW9uYWwlMjBtZWFuaW5n'); return false;">constructional meaning</div>
 
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-text listing-description delink">
+<p>talk delivered at SLE 2025 in Bordeaux</p>
+</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
-Ludovic De Cuypere
+Ludovic De Cuypere, Klaas Willems
+</div>
+<div class="listing-date">
+Feb 18, 2022
 </div>
 </div>
 </div>
