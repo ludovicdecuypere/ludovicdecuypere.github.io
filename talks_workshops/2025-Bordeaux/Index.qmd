@@ -1,13 +1,97 @@
 ---
-title: "Bordeaux 2025"
-format: html
+title: "A three-layer analysis of the English dative alternation"
+description: |
+  talk delivered at SLE 2025 in Bordeaux
+author:
+  - name: Ludovic De Cuypere
+    url: https://ludovicdecuypere.github.io/
+    affiliation: Vrije Universiteit Brussel & Ghent University
+  - name: Klaas Willems
+    affiliation: Ghent University
+date: 2022-02-18
+slug: ldcbordeaux2025
+categories: [semantics, three layer model, constructional meaning]
+image: bordeaux_image.png
 ---
 
-## Details
 
-## Abstract
+<br>
 
-## Extra
+<div class="container">
+<div class="center">
+<button type="button" class="button-styling" onclick=window.location.href='https://ucsb-meds.github.io/shiny-workshop/#1'>{{< fa tv title="A television screen" >}} slides</button>
+<button type="button" class="button-styling" onclick=window.location.href='https://github.com/ludovicdecuypere/2025_Bordeaux_Talk/blob/main/SLE_DeCuypereWillems_2025.html'>{{< fa code title="A symbol for code, </>" >}} source code</button> 
+</div>
+</div>
 
-## Slides
+# Audience
 
+This talk was delivered at SLE 2025 in Bordeaux: ![](https://societaslinguistica.eu/sle2025/)
+
+# Abstract
+
+The relationship between pervasive variability and the structuralist “one-form-one-meaning” 
+principle, a postulate endorsed across various theoretical frameworks, continues to spark debate. In 
+an earlier chapter of this debate, Newmeyer (1983: 116) astutely observed that much of the debate 
+hinges on how the notion of “meaning” is conceptualized (cf. Weber & Kopf 2023: 3). Newmeyer’s
+observation remains pertinent, and we accordingly aim to advance the discussion by offering a more 
+theoretical contribution.
+
+Specifically, we advocate for a "Three-Layer Approach" to meaning, a framework rooted in Coserian 
+structural-functional linguistics and neo-Gricean pragmatics (Coseriu 1989, Levinson 2000, Belligh & 
+Willems 2021). This approach differentiates between (i) encoded language-specific meanings, (ii) 
+conventionalized senses, and (iii) specific readings in discourse. Furthermore, we draw on Coseriu’s 
+(1989) distinction between polyvalence (a single expression with multiple senses) and polymorphy
+(“grammatical synonymy”, i.e. more than one expression for a single encoded meaning). 
+
+We elaborate on De Vaere’s (2023) analysis of the German dative alternation and explore its 
+applicability to the English dative alternation. The German and English alternations are illustrated 
+below:
+
+(1) a. Er schickt seiner Mutter einen Brief. (IOC)
+    b. Er schickt einen Brief an seine Mutter. (POC)
+(2) a. He sends his mother a letter. (DOC)
+    b. He sends a letter to his mother. (POC)
+
+The German and English ditransitive alternation are similar. Both involve a RECIPIENT that can be 
+expressed with or without a preposition. Corpus evidence further indicates that both alternations 
+are also associated with similar motivating factors related to the THEME and RECIPIENT (pronominality, definiteness, length, etc.) (De Vaere 2023: 95). However, there is an important formal difference. 
+
+The German alternants are “indirective constructions” (Malchukov, Haspelmath, & Comrie 2010):
+the German non-prepositional alternant is not a Double Object Construction (DOC) but an Indirect 
+Object Construction (IOC), sharing its alignment pattern with the Prepositional Object Construction 
+(POC).
+
+The three-layer analysis conceptualizes the German ditransitive construction as an overarching 
+AGENT-THEME-GOAL (ATG) constructeme, with IOC and POC as two “allostructions”. A distributional 
+analysis indicates that neither IOC nor POC are confined to a CAUSED POSSESSION and CAUSED MOTION
+meaning, respectively. The difference between IOC and POC involves polymorphy of the GOAL
+argument within the constructeme. A similar analysis applies to the English dative alternation, but in 
+English the polymorphy of the GOAL argument coincides with two alternating word order patterns to 
+a much larger extent than in a case language such as German.
+
+References
+
+Belligh, T., & Willems, K. (2021). What's in a code? The code-inference distinction in Neo-Gricean 
+Pragmatics, Relevance Theory, and Integral Linguistics. Language Sciences, 83, 101310. 
+https://doi.org/10.1016/j.langsci.2020.101310
+
+Coseriu, E. (1989). Principes de syntaxe fonctionnelle. In G. Kleiber & G. Roques (Eds.), Travaux de 
+linguistique et de philologie (Vol. XXVII, pp. 5–46). Klincksieck.
+
+De Vaere, H. (2023). The ditransitive alternation in present-day German: A corpus-based analysis. 
+John Benjamins. https://doi.org/10.1075/sigl.6
+
+Levinson, S. C. (2000). Presumptive meanings: The theory of generalized conversational implicature. 
+MIT Press.
+
+Malchukov, A., Haspelmath, M., & Comrie, B. (2010). Ditransitive constructions: A typological 
+overview. In A. Malchukov, M. Haspelmath, & B. Comrie (Eds.), Studies in ditransitive 
+constructions: A comparative handbook (pp. 1–64). De Gruyter Mouton.
+
+Newmeyer, F. J. (1983). Grammatical theory: Its limits and its possibilities. University of Chicago 
+Press.
+
+Weber, T., & Kopf, K. (2023). Chapter 1. Free variation, unexplained variation? In K. Kopf & T. Weber 
+(Eds.), Free variation in grammar: Empirical and theoretical approaches (pp. 1–20). John 
+Benjamins. https://doi.org/10.1075/slcs.234.01we

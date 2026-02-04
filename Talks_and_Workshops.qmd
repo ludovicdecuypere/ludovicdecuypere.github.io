@@ -16,4 +16,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-to do
+Here I'm sharing the materials for some of my talks and workshops.
