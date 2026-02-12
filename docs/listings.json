@@ -1,19 +1,12 @@
 [
   {
-    "listing": "/Teaching.html",
-    "items": [
-      "/Teaching/2026-Bordeau/Index.html",
-      "/Teaching/2026-Study-salience/Index.html"
-    ]
-  },
-  {
     "listing": "/Talks_and_Workshops.html",
     "items": [
       "/talks_workshops/2025-Bordeaux/Index.html"
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/Posts.html",
     "items": [
       "/posts/2026-01-29-datavis_vdab/index.html"
     ]

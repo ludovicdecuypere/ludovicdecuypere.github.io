@@ -1,14 +1,14 @@
 ---
 title: "Research"
-subtitle: "As open as possible, as closed as necessary" 
+subtitle: "Topics, Projects, and Publications" 
 title-block-banner: true
+page-layout: full
+toc: true
 ---
-
-Here you may find an overview of my research topics, the research projects I been involved with as a research or as a co-supervisor, and my publications. 
 
 # Research Topics
 
-Never been a one-trick pony. And I've always been blessed with colleagues who generously allowed me to play in their backyard. 
+Never been a one-trick pony. And always been blessed with colleagues who generously allowed me to play in their backyard. 
 
 Collaboration, creating synergy, and trying to add a piece to the research puzzle that creates more than the sum total of the individual pieces -- this is what fuels my passion as a researcher and research consultant. 
 
@@ -16,7 +16,7 @@ Diversification, optionality, and serendipity are also what drives me forward in
 
 ## Iconicity
 
-My PhD research involved an epistemological study of iconicity in language, the results of which were published in Limiting the Iconic (Benjamins, 2008). Building on views by E. Coseriu, U. Eco, G. Sonesson, K. Willems, and S. Levinson, my main idea is that a principled distinction must be made between similarity and iconicity. I believe this is a fundamental epistemological distinction that has not yet been fully appreciated in the literature. I got to summarize this idea in the chapter "The explanatory power of iconicity in language" in **The Oxford Handbook of Iconicity in Language** (Oxford University Press, 2026).
+My PhD research involved an epistemological study of iconicity in language, the results of which were published in Limiting the Iconic (Benjamins, 2008). Building on views by E. Coseriu, U. Eco, G. Sonesson, K. Willems, and S. Levinson, my main idea is that a principled distinction must be made between similarity and iconicity. I believe this is a fundamental epistemological distinction that has not yet been fully appreciated in the literature. I got to summarize this idea in the chapter "The explanatory power of iconicity in language" in *The Oxford Handbook of Iconicity in Language* (Oxford University Press, 2026).
 
 ::: {#fig-books layout-ncol=3}
 
@@ -43,9 +43,9 @@ Theoretically, my work is situated in the functional-structuralist tradition (Sa
 
 Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia Knell and Saioa Cipitria, I am involved in two research projects studying the effect of saliency in language acquisition. In these studies, we add artificial markers (such as *-olp* or *-u*) to English test sentences and track participants' eye movements to examine how these markers influence attention, and how this affects awareness and acquisition. Several papers from this project are currently under review. A systematic review has already been published as Knell et al. (2025).
 
-# Research Projects
+# Projects
 
-- 2022 -- ongoing: *Eye-Catching - Investigating the link between salience, attention and awareness in the acquisition of grammatical morphology in a second language.*
+- 2022 -- ongoing: **Eye-Catching - Investigating the link between salience, attention and awareness in the acquisition of grammatical morphology in a second language.**
 
     - Senior Research Project
     - Funding: Research Foundation Flanders (FWO)
@@ -53,7 +53,7 @@ Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia 
     - Co-supervisors: Elsi Struys and **Ludovic De Cuypere**
     - Researcher: Saioa Cipitria
 
-- 2021 -- ongoing: *What the eyes don't see, the mind won't learn: Investigating the role of salience in the initial processing of morphology in SLA.*
+- 2021 -- ongoing: **What the eyes don't see, the mind won't learn: Investigating the role of salience in the initial processing of morphology in SLA.**
 
     - Phd Fellowship
     - Funding: Research Foundation Flanders (FWO)
@@ -61,7 +61,7 @@ Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia 
     - Co-supervisors: Alex Housen and **Ludovic De Cuypere** 
     - Phd-researcher: Georgia Knell
 
-- 2019 -- 2026: *Language productivity at work*
+- 2019 -- 2026: **Language productivity at work**
 
     - Multiresearcher project
     - Funding: BOF UGent
@@ -69,27 +69,27 @@ Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia 
     - Co-supervisors: **Ludovic De Cuypere**, Anne-Sophie Ghyselen
     - Researchers: Mark Hoff, Emmaline Rice, Joren Somers, Margot Van den Heede, Anouk Van den Stock.
 
-- 2013 -- 2018: *A Corpus-Driven Study of the Structure of Noun Phrase in Nigerian English*
+- 2013 -- 2018: **A Corpus-Driven Study of the Structure of Noun Phrase in Nigerian English**
 
     - Supervisor: Alex Housen
-    - Co-supervisor: Ludovic De Cuypere
+    - Co-supervisor: **Ludovic De Cuypere**
     - Researcher: Mayowa Akinlotan
     
-- 2018 -- 2022: *Die Dativalternation in der Geschichte des Neuhochdeutschen. Eine historische und korpusbasierte Untersuchung*
+- 2018 -- 2022: **Die Dativalternation in der Geschichte des Neuhochdeutschen. Eine historische und korpusbasierte Untersuchung**
 
     - Phd Fellowship
     - Funding: BOF UGent
     - Supervisors: Klaas Willems & **Ludovic De Cuypere**
     - Researcher: Evi Van Damme.
 
-- 2016 -- 2020: *The ditransitive alternation in present-day German. A corpus-based analysis*
+- 2016 -- 2020: **The ditransitive alternation in present-day German. A corpus-based analysis**
 
     - Phd Research project
     - Funding: none
     - Supervisors: Klaas Willems & **Ludovic De Cuypere**
     - Researcher: Hilde De Vaere
 
-- 2012 -- 2014: *Case alternation in present-day German: a corpus-based analysis of the conditions of use of accusative and dative with non-transparant two-way prepositional verbs*
+- 2012 -- 2014: **Case alternation in present-day German: a corpus-based analysis of the conditions of use of accusative and dative with non-transparant two-way prepositional verbs*
 
     - Phd Fellowship
     - Funding: Research Foundation Flanders (FWO)
@@ -101,25 +101,25 @@ Together with Esli Struys (VUB) and Alex Housen (VUB), and PhD students Georgia 
     - Postdoctoral Fellowship
     - Funding: Research Foundation Flanders (FWO)
     - Supervisor: Klaas Willems (UGent)
-    - Researcher: Ludovic De Cuypere
+    - Researcher: **Ludovic De Cuypere**
     
 - 2007 -- 2010: *A diachronic analysis of the English Dative Alternation*
 
     - Postdoctoral Fellowship
     - Funding: Research Foundation Flanders (FWO)
     - Supervisor: Klaas Willems (UGent)
-    - Researcher: Ludovic De Cuypere
+    - Researcher: **Ludovic De Cuypere**
     
 - 2003 -- 2007: *Een kritische analyse van de iconiciteitstheory*
 
     - Research Project 
     - Funding: Research Foundation Flanders (FWO)
-    - Supervisors: Klaas Willems, Johan Van der Auwera (UAntwerpen), Willy Van Langendonck (KULeuven)     - Researcher: Ludovic De Cuypere
+    - Supervisors: Klaas Willems, Johan Van der Auwera (UAntwerpen), Willy Van Langendonck (KULeuven)     
+    - Researcher: **Ludovic De Cuypere**
     
 ## Doctoral Advisory Board
 
-I have served as an advisor in 16 doctoral advisory committees: Dr. Niek Van Wettere (UGent)
-2.	Dr. Justine Métairy (UGent), Dr. Kim Collewaert (VUB), Dr. Fien De Latte (UGent), Dr. Tom Bossuyt (UGent), Dr. Joren Somers (UGent), Dr. Alessandro Papini (UGent), Dr. Nele Van Den Driessche (UGent), Dr. Giang Hoang (UGent), Dr. Hilde De Vaere (UGent), Dr. Evi Van Damme (UGent), Dr. Thomas Belligh (UGent), Dr. Rachel Nye (VUB), Gil Verbeke (ongoing), Romeo De Timmerman (ongoing) (UGent), Jovana Stanojevic (ongoing) (VUB).
+To date I have served as an advisor in 16 doctoral advisory committees: Dr. Niek Van Wettere (UGent),	Dr. Justine Métairy (UGent), Dr. Kim Collewaert (VUB), Dr. Fien De Latte (UGent), Dr. Tom Bossuyt (UGent), Dr. Joren Somers (UGent), Dr. Alessandro Papini (UGent), Dr. Nele Van Den Driessche (UGent), Dr. Giang Hoang (UGent), Dr. Hilde De Vaere (UGent), Dr. Evi Van Damme (UGent), Dr. Thomas Belligh (UGent), Dr. Rachel Nye (VUB), Gil Verbeke (ongoing), Romeo De Timmerman (ongoing) (UGent), Jovana Stanojevic (ongoing) (VUB).
 
 # Publications
 

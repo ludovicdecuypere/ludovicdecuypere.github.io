@@ -16,4 +16,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-Here I'm sharing the materials for some of my talks and workshops.
+This page contains the source code, materials, and slides for a selection of workshops, talks, and presentations that I have. Research presentations given at conferences are provided in their repositories on GitHub

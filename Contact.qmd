@@ -4,23 +4,8 @@ subtitle: "Let's connect!"
 title-block-banner: true
 ---
 
-Contact me if you have any questions or if you wish to collaborate. 
+Contact me if you have any questions or if you wish to collaborate.
 
-I'm always interested in prospective phd students or postdocs who share similar research interests. Or maybe you have a good idea that we might be able to streamline into a research project?   
+I'm always interested in prospective phd students or postdocs who share similar research interests. Or maybe you have a good idea that we might be able to streamline into a research project?
 
-**VUB**
-
-Linguistics and Literary Studies (LW-LIST)
-Vrije Universiteit Brussel
-Pleinlaan 2
-1050 Brussel (BE)
-Room B5.17
-![VUB email](Ludovic.De.Cuypere@vub.be)
-
-**UGent**
-
-Department of Linguistics
-Blandijnberg 2
-9000 Gent
-Room 100.052
-![UGent email](Ludovic.DeCuypere@ugent.be)
+-   [Ludovic.De.Cuypere\@vub.be](Ludovic.De.Cuypere@vub.be)

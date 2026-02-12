@@ -5,15 +5,15 @@ image: front_website.jpg
 about: 
   template: solana
   image-shape: round
-  image-width: 28em
+  image-width: 24em
 page-layout: full
 ---
 
-Welcome to my forest! My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I am an Associate Professor in English Linguitics at Vrije Universiteit Brussel (VUB) and  a Research Consultant at the Linguistics Department of Ghent University (UGent). 
+Welcome to my forest! 
 
-As a researcher I've worked on various topics including iconicity, alternating constructions, constructional semantics, and salience. 
+My name is Ludovic De Cuypere \[lydovik də kœyːpərə\] and I am an Associate Professor in English Linguitics at Vrije Universiteit Brussel (VUB) and  a Research Consultant at the Linguistics Department of Ghent University (UGent). 
 
-I teach courses on Historical English Linguistics (VUB), Corpus Linguistics (VUB), Iconicity in Language (VUB) and statistics (UGent). As a research consultant, I provide methodological support to students and researchers. I'm also the co-organiser of the summer school Methods in Language Sciences (UGent). 
+As a researcher I've worked on various topics including iconicity, alternating constructions, constructional semantics, and salience. I teach courses on Historical English Linguistics (VUB), Corpus Linguistics (VUB), Iconicity in Language (VUB) and Statistics and Research Methodology (UGent). As a research consultant, I provide methodological support to students and researchers. I'm also the co-organiser of the summer school Methods in Language Sciences (UGent). 
 
 Outside work, you may find me amongst friends and family, or in the Seikan Dojo. 
 

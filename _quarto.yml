@@ -3,14 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "LDC"
+  title: "Ludovic De Cuypere"
+  description: "Personal website of Ludovic De Cuypere"
   navbar:
-    logo: mylogo_website_simple.png
     right:
-      - about.qmd
+      - About.qmd
       - Research.qmd
       - Talks_and_Workshops.qmd
-      - posts.qmd
+      - Teaching.qmd
+      - Posts.qmd
       - Contact.qmd
   page-footer: 
     background: light
@@ -19,7 +20,12 @@ website:
 
 format:
   html:
-    theme: [lux, mystyle_main.scss]
+    theme: [Journal, mystyle_main.scss]
     mainfont: EB+Garamond
-    fontsize: 1.1em
     toc: true
+    toc-depth: 2
+    toc-title: "Contents"
+    toc-font-size: 0.9rem
+
+execute:
+  freeze: auto

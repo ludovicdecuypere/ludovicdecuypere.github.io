@@ -2,11 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:wght@300;400;600;800&display=swap');
 
-// The "Monochrome Luxury" Palette
-$black: #0f0f0f;      // Deep charcoal/black
+// The Palette
+$black: #0f0f0f;      
 $white: #ffffff;
-$soft-gray: #f8f8f8;  // Very clean background
-$medium-gray: #515151;
+$soft-gray: #f8f8f8;  
+$medium-gray: #484848;
+$vuborange: #FF6600;
 
 // Font Variables
 $font-family-serif: "EB Garamond", serif;
@@ -16,20 +17,19 @@ $font-family-sans-serif: "Inter", sans-serif;
 $body-family: $font-family-serif;
 $headings-font-family: $font-family-sans-serif;
 
-$navbar-bg: $black;
+$navbar-bg: $vuborange;
 $body-bg: $white;
 $navbar-fg: $white;
-$headings-color: $black;
+$headings-color: black;
 $link-color: $black;
 
 /*-- scss:rules --*/
 
-// 1. Sleek Navigation
+// Navigation
 .navbar-brand, 
 .navbar-title {
   font-family: $font-family-sans-serif !important;
   text-transform: uppercase;
-  letter-spacing: 0.1rem;
   font-weight: 400;
   font-size: 0.75rem;
 }
@@ -65,69 +65,25 @@ $link-color: $black;
   }
 }
 
-// 2. Edgy Headings
+// Headings
 h1, h2, h3, h4 {
   font-family: $font-family-sans-serif;
   font-weight: 800;
   text-transform: uppercase;
-  letter-spacing: -0.04rem;
 }
 
 h1 {
-  font-size: 3.2rem;
-  line-height: 1;
+  font-size: 3rem;
+  line-height: 1.2;
   margin-bottom: 1.5rem;
-  border-top: 4px solid $black;
   padding-top: 1rem;
 }
 
-// 3. Elegant Body Text
+// Body Text
 body {
-  line-height: 1.5;
+  font-size: 1.1rem;
+  line-height: 1.2;
   color: $medium-gray;
   -webkit-font-smoothing: antialiased;
 }
 
-blockquote {
-  font-family: $font-family-serif;
-  font-style: italic;
-  font-size: 1.4rem;
-  color: $black;
-  border-left: 2px solid $black;
-  padding: 1rem 2rem;
-  margin: 2rem 0;
-}
-
-// 4. Sharp Navbar
-.navbar {
-  border-bottom: 1px solid $black;
-  box-shadow: none;
-  padding-top: 1.2rem;
-  padding-bottom: 1.2rem;
-}
-
-// 5. Minimalist Link Treatment (Standard Links)
-// Note: We use :not(.nav-link) so this doesn't interfere with the navbar
-a:not(.nav-link):not(.navbar-brand) {
-  color: $black;
-  text-decoration: none;
-  border-bottom: 1px solid rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-
-  &:hover {
-    border-bottom: 1px solid $black;
-    color: $black;
-  }
-}
-
-// Fix for Quarto Boldface
-strong, b {
-  font-weight: 600;   // This pulls the weight you imported from Google Fonts
-  color: $black;      // This makes bold text darker than the medium-gray body for "pop"
-}
-
-// Optional: If you want bold Inter (sans-serif) to be extra punchy
-.sans-serif-bold {
-  font-family: $font-family-sans-serif;
-  font-weight: 700;
-}

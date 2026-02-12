@@ -1,27 +1,224 @@
 ---
 title: "Teaching"
-subtitle: "Open source course materials" 
-listing:
-  contents: Teaching
-  sort: date-modified
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  categories: numbered
-  sort-ui: false
-  filter-ui: false
+subtitle: "What I am become" 
 page-layout: full
 title-block-banner: true
+toc: true
 ---
 
-I have been a teacher for most of my professional life. Before starting my phd studies in 2003, I briefly worked as a teacher in secondary/high school teaching courses in Dutch and General studies ("Project Algemene Vakken"). I also obtained my teacher accreditation from Ghent University in 2003. Currently, I'm teach courses on Statistics, Corpus Linguistics, Historical English Linguistics, and Iconicity. And I'm also involved in various courses related to research methodology, language variation and change and general linguistics. Outside academia, I've been teaching the art of karate at my Seikan Dojo for over 20 years. I'm ranked shidoin in Koryu Uchinadi Kenpo-Jutsu under hanshi Patrick McCarthy (10th dan Koryu Uchinadi Kenpo-Jutsu). Teaching is who I am or what I've become.
+Having obtained my teacher accreditation from Ghent University in 2003, I have been a teacher for most of my professional life. Over the years, I have taught dozens of courses at various levels and institutions. 
+
+Currently I'm teaching courses on Statistics, Corpus Linguistics, Historical English Linguistics, and Iconicity. I'm also involved in various courses related to research methodology, language variation and change and general linguistics. 
+
+Outside academia, I enjoy teaching the martial art of karate at my Seikan Dojo (est. 2005). I'm a shidoin-level instructor in Koryu Uchinadi Kenpo-Jutsu under hanshi Patrick McCarthy (10th dan Koryu Uchinadi Kenpo-Jutsu). 
 
 ![Kwantitatieve onderzoekstechnieken taalwetenschap: Ludovic De Cuypere - © UGent, foto Christophe Vander Eecken](teaching_kwan_ugent.jpg)
 
-A pedagogical reflection. One distinction that I've come to appreciate deeply is the one between teaching and lecturing. Presenting a slide deck or reading course notes in front of an audience is pretty easy; teaching is hard. Setting goals, designing lesson plans, and trying to get the best out of every student requires a deep commitment and is best fostered through years of experience.
+One distinction that I've come to appreciate deeply is the one between teaching and lecturing. Presenting a slide deck or reading course notes in front of an audience is pretty straightforward. But good teaching is hard. Setting goals, designing lesson plans, and trying to get the best out of every student requires a deep commitment and is best fostered through years of experience.
 
-The key ingredients that have worked best for me are having a clear overall structure, well-defined learning goals, and a challenging yet safe learning environment. My teaching is mostly interactive, task-based, with lots of pair work. 
+The key ingredients that have worked best for me are having a clear overall structure, with well-defined learning goals and assesment criteria, and establishing a challenging yet safe learning environment. My teaching is mostly interactive and task-based. 
 
-And just being able to tell a good story, arguably the most underrated teaching skill in the age of slide deck teaching. I mostly agree with the claim that "PowerPoint is the coward's choice" (Clifford Stoll, 1999, Hight Tech Heretic. Doubleday. p. 180), Slides are useful visualisation tools, but terrible when read as mere bullet lists.
+And just being able to tell a good story, arguably the most underrated teaching skill in the age of slide deck teaching. 
+
+## Current courses
+
+- Kwantitatieve onderzoekstechnieken in de taalwetenschap (UGent, BA3, 5 ECTS)
+- Historical English Linguistics (VUB, MA, 6 ECTS)
+- Variation and Change in English (VUB, BA3, 3 ECTS)
+- Advanced English Linguistics (VUB, MA, 6 ECTS)
+
+## Past courses
+
+Here is my full list of courses, short courses and workshops. Courses where I act as coordinator and/or convenor or where I only deliver one workshops or an introduction are not included. 
+
+### Academic year 2024 - 2025
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Jan - July | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Febr - July | 5 ECTS | NA |
+| Variation and Change in English | course | lecturer | VUB | BA3 | Jan - July | 3 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Introduction to R | short course | lecturer | UGent | doctoral | July | 15 hrs | Summer school: Methods in Language Sciences |
+| Taalvariatie en taalverandering | course | co-lecturer | VUB | BA3 | Oct - Jan | 4 hrs | NA |
+| Language Variation and Language Change | course | co-lecturer | VUB | BA3 | Oct - Jan | 3 ECTS | NA |
+| Taalvariatie en taalverandering | course | co-lecturer | VUB | BA3 | Oct - Jan | 3 ECTS | NA |
+
+: {.sm .hover}
+
+### Academic year 2023 - 2024
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Febr - June | 5 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | UNamur | doctoral | September | 15 hrs | FLAMES Summer school |
+| Introduction to statistics with R | short course | lecturer | UGent | doctoral | July | 15 hrs | Summer school: Methods in Language Sciences | Introduction to statistics for human sciences | short course | co-lecturer | VUB | BA3 | Febr - June | 12 hrs | Talent voor onderzoek |
+
+: {.sm .hover}
+
+### Academic year 2022 - 2023
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Febr - June | 5 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | KULeuven | doctoral | September | 15 hrs | FLAMES Summer school |
+| Introduction to statistics with R | short course | lecturer | UGent | doctoral | July | 15 hrs | Summer school: Methods in Language Sciences | Introduction to statistics for human sciences | short course | co-lecturer | VUB | BA3 | Febr - June | 12 hrs | Talent voor onderzoek |
+
+: {.sm .hover}
+
+### Academic year 2021 - 2022
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Febr - June | 5 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | UAntwerpen | doctoral | September | 15 hrs | FLAMES Summer school |
+| Introduction to statistics with R | short course | lecturer | UGent | doctoral | July | 15 hrs | Summer school: Methods in Language Sciences |
+| Introduction to statistics for human sciences | short course | co-lecturer | VUB | BA3 | Febr - June | 12 hrs | Talent voor onderzoek |
+
+: {.sm .hover}
+
+### Academic year 2020 - 2021
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Febr - June | 5 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | UHasselt | doctoral | September | 15 hrs | FLAMES Summer school |
+| Introduction to statistics with R | short course | lecturer | UGent | doctoral | July | 15 hrs | Summer school: Methods in Language Sciences |
+| Introduction to statistics for human sciences | short course | co-lecturer | VUB | BA3 | Febr - June | 12 hrs | Talent voor onderzoek |
+
+: {.sm .hover}
+
+### Academic year 2019 - 2020
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Febr - June | 5 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | Online | doctoral | September | 15 hrs | FLAMES Summer school |
+
+: {.sm .hover}
+
+### Academic year 2018 - 2019
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Onderzoeksmethodologie: Taalkunde | course | lecturer | VUB | MA | Oct - June | 3 ECTS | NA |
+| Research methodology: Linguistics | course | lecturer | VUB | MA | Oct - June | 3 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | VUB | doctoral | September | 15 hrs | FLAMES Summer school |
+| Onderzoeksmethodologie taal- en letterkunde | course | co-lecturer | VUB | BA2 | Oct - June | 4 ECTS | NA |
+
+: {.sm .hover}
+
+### Academic year 2017 - 2018
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Advanced English Linguistics | course | lecturer | VUB | MA | Febr - June | 6 ECTS | NA |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| English Linguistics II | course | lecturer | VUB | BA2 | Febr - June | 6 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 5 ECTS | NA |
+| Onderzoeksmethodologie: Taalkunde | course | lecturer | VUB | MA | Oct - June | 3 ECTS | NA |
+| Research methodology: Linguistics | course | lecturer | VUB | MA | Oct - June | 3 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | KULeuven - Campus Odisee | doctoral | September | 15 hrs | FLAMES Summer school |
+| Onderzoeksmethodologie taal- en letterkunde | course | co-lecturer | VUB | BA2 | Oct - June | 4 ECTS | NA |
+
+: {.sm .hover}
+
+### Academic year 2016 - 2017
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| English Linguistics II | course | lecturer | VUB | BA2 | Febr - June | 6 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 6 ECTS | NA |
+| Historical English Linguistics | course | lecturer | VUB | Ma | Oct - Jan | 6 ECTS | NA |
+| Onderzoeksmethodologie: Taalkunde | course | lecturer | VUB | MA | Oct - June | 3 ECTS | NA |
+| Research methodology: Linguistics | course | lecturer | VUB | MA | Oct - June | 3 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | UAntwerpen | doctoral | September | 15 hrs | FLAMES Summer school |
+| Onderzoeksmethodologie taal- en letterkunde | course | co-lecturer | VUB | BA2 | Oct - June | 4 ECTS | NA |
+
+: {.sm .hover}
+
+### Academic year 2015 - 2016
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| English Linguistics II | course | lecturer | VUB | BA2 | Febr - June | 6 ECTS | NA |
+| Synchronic Study of English | course | lecturer | VUB | BA3 | Oct - Jan | 3 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | UHasselt | doctoral | September | 15 hrs | FLAMES Summer school |
+| Algemene Taalwetenschap | course | co-lecturer | UGent | Ma | Febr - June | 5 ECTS | NA |
+
+: {.sm .hover}
+
+### Academic year 2014 - 2015
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Kwantitatieve onderzoekstechnieken in de taalwetenschap | course | lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| Introduction to Practical Statistics | short course | lecturer | VUB | doctoral | September | 15 hrs | FLAMES Summer school |
+| Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| Inleiding tot Taal- en Tekststructuren |	course | lecturer |	UGent |	BA1 |	Febr - June |	5 ECTS | NA |
+
+: {.sm .hover}
+
+### Before 2014
+
+| Name | Type | Role | University | Level | Period | Weight | Extra |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2013-14 | Statistics for Linguistics | short course | lecturer | UGent | ManaMa | NA | NA | NA |
+| 2013-14 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| 2012-13 | Zakelijke Communicatie Nederlands | course | lecturer | KULeuven - Campus Odisee | BA2 | 26/10/2013 - 20/12/2013 | NA | NA |
+| 2012-13 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| 2012-13 | Algemene Taalwetenschap | course | co-lecturer | UGent | Ma | Febr - June | 5 ECTS | NA |
+| 2011-12 | Masterclass Statistics | workshop | lecturer | UGent | BA3 | NA | NA | NA |
+| 2011-12 | Algemene Taalwetenschap | course | co-lecturer | UGent | Ma | Febr - June | 5 ECTS | NA |
+| 2011-12 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| 2010-11 | Algemene Taalwetenschap | course | co-lecturer | UGent | Ma | Febr - June | 5 ECTS | NA |
+| 2010-11 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| 2009-10 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| 2008-09 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+| 2007-08 | Seminarie Taalkunde | course | co-lecturer | UGent | BA3 | Oct - June | 5 ECTS | NA |
+
+: {.sm .hover}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

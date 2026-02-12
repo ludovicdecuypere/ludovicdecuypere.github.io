@@ -1,7 +1,7 @@
 ---
 title: "A three-layer analysis of the English dative alternation"
 description: |
-  talk delivered at SLE 2025 in Bordeaux
+  Executive summary: This talk was delivered at the 58th Annual Meeting of the Societas Linguistica Europaea, 26 – 29 August 2025, Université Bordeaux Montaigne. We argued that the English dative alternation involves one construction with one meaning, but two allostructions with multiple senses. 
 author:
   - name: Ludovic De Cuypere
     url: https://ludovicdecuypere.github.io/
@@ -10,25 +10,17 @@ author:
     affiliation: Ghent University
 date: 2026-02-04
 slug: ldcbordeaux2025
-categories: [semantics, three layer model, constructional meaning]
+categories: [dative alternation, ditransitive alternation, English, German, semantics, three layer model, constructional meaning]
 image: bordeaux_image.png
 ---
 
+### Slides
 
-<br>
+```{=html}
+<iframe width="780" height="500" src="SLE_DeCuypereWillems_2025.html" title="Bordeaux talk"></iframe>
+```
 
-<div class="container">
-<div class="center">
-<button type="button" class="button-styling" onclick=window.location.href='https://ucsb-meds.github.io/shiny-workshop/#1'>{{< fa tv title="A television screen" >}} slides</button>
-<button type="button" class="button-styling" onclick=window.location.href='https://github.com/ludovicdecuypere/2025_Bordeaux_Talk/blob/main/SLE_DeCuypereWillems_2025.html'>{{< fa code title="A symbol for code, </>" >}} source code</button> 
-</div>
-</div>
-
-# Audience
-
-This talk was delivered at SLE 2025 in Bordeaux: ![](https://societaslinguistica.eu/sle2025/)
-
-# Abstract
+### Abstract
 
 The relationship between pervasive variability and the structuralist “one-form-one-meaning” 
 principle, a postulate endorsed across various theoretical frameworks, continues to spark debate. In 
