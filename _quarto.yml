@@ -7,11 +7,11 @@ website:
   description: "Personal website of Ludovic De Cuypere"
   navbar:
     right:
-      - About.qmd
+      - about.qmd
       - Research.qmd
       - Talks_and_Workshops.qmd
       - Teaching.qmd
-      - Posts.qmd
+      - posts.qmd
       - Contact.qmd
   page-footer: 
     background: light
