@@ -18,7 +18,7 @@ $body-family: $font-family-serif;
 $headings-font-family: $font-family-sans-serif;
 
 $navbar-bg: $vuborange;
-$body-bg: $white;
+$body-bg: #fff5ee;
 $navbar-fg: $white;
 $headings-color: black;
 $link-color: $black;
@@ -87,3 +87,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.subtitle {
+  font-size: 2.3rem; 
+}
