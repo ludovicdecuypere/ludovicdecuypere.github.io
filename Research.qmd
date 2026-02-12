@@ -33,7 +33,7 @@ Rong Chen (California State University, San Bernardino) wrote the following appr
 
 > Growing out of the author's dissertation, this book [Limiting the Iconic, LDC] reads every bit like a monograph by a seasoned linguist. The survey of the literature on the topic is thorough and the author's critiques of previous scholars' theories and constructs are detailed, careful, and balanced. Of all the chapters, Chapter 5 strikes this reviewer as the most substantive and impressive: De Cuypere analyzes major works on iconicity to argue that most of these authors are off the mark. You think hard and eventually agree that he makes sense. At the end of the book, you think hard again and decide that he is largely right. Then you realize that you have read a very good book, a very important book, a book that you would come back to for information and inspiration later in your work.
 
-## Syntactic alternations
+## Alternations
 
 My second line of research deals with alternating constructions, or so-called "unfree variation" (A. Zwicky). This involves the study of optionality in language: formal differences that do not seem to be make any obvious semantic difference. I have studied phenomena such as: The dative and ditransitive alternations, Zero-that complementizer alternation, Differential infinitive marking, Ergativity and the passive alternation, English modal verbs. With my many collaborators, I examined these phenomena in various languages and from multiple  perspectives (diachrony, first and second, language acquisition). Methodologically, I've mainly followed a corpus-based approach. 
 
