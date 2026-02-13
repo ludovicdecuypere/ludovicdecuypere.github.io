@@ -22,7 +22,7 @@ And just being able to tell a good story, arguably the most underrated teaching 
 
 ## Current courses
 
-- Kwantitatieve onderzoekstechnieken in de taalwetenschap (UGent, BA3, 5 ECTS)
+- Kwantitatieve onderzoekstechnieken in de taalwetenschap (UGent, BA3, 5 ECTS). Here is the website I wrote for this course: [Handboek](https://handboekstatistiektaalwetenschap.netlify.app/).
 - Historical English Linguistics (VUB, MA, 6 ECTS)
 - Variation and Change in English (VUB, BA3, 3 ECTS)
 - Advanced English Linguistics (VUB, MA, 6 ECTS)

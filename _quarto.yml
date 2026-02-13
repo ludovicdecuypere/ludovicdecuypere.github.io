@@ -27,6 +27,8 @@ format:
     toc-depth: 2
     toc-title: "Contents"
     toc-font-size: 0.9rem
+    link-external-icon: true
+    link-external-newwindow: true
 
 execute:
   freeze: auto
