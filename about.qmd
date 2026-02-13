@@ -35,6 +35,8 @@ toc: true
 
 ## Teaching
 
+I currently teach the following courses. A full list of the courses I have taught can be found  [here](https://ludovicdecuypere.github.io/Teaching.html)
+
 ::: {.d-flex .justify-content-between}
 ::: {}
 **Kwantitatieve onderzoekstechnieken in de Taalwetenschap**  

@@ -140,7 +140,7 @@ Colleman, T., **De Cuypere, L.**, De Vogelaer, G., & Rawoens, G. (Eds.). (2007).
 
 ## Articles
 
-Somers, J., Leuschner, T., **De Cuypere, L.**, & Barðdal, J. (2025). A corpus-based analysis of the dat-nom/nom-dat alternation in German. *Zeitschrift für Sprachwissenschaft*, 44(2). https://doi.org/10.18148/zs/2025-2009
+Somers, J., Leuschner, T., **De Cuypere, L.**, & Barðdal, J. (2025). A corpus-based analysis of the dat-nom/nom-dat alternation in German. *Zeitschrift für Sprachwissenschaft*, 44(2). https://doi.org/10.18148/zs/2025-2009 -- [DATASET](https://doi.org/10.18710/CRSJLY)
 
 Knell, G., Cipitria, S., **De Cuypere, L.**, Housen, A., & Struys, E. (2025). Stand-out: a systematic review of the role of salience in second language acquisition. *Journal of the European Second Language Association, 9(1)*, 1–18. https://doi.org/10.22599/jesla.131
 
