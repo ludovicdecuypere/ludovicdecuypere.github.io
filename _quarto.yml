@@ -13,6 +13,7 @@ website:
       - Teaching.qmd
       - posts.qmd
       - Contact.qmd
+      
   page-footer: 
     background: light
     left: © 2026 Ludovic De Cuypere

@@ -15,7 +15,10 @@ toc: true
 2024 - present
 :::
 :::
+
+::: {style="margin-top: -0.7em;"}
 *Vrije Universiteit Brussel*
+:::
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -25,7 +28,10 @@ toc: true
 2018 - present
 :::
 :::
+
+::: {style="margin-top: -0.7em;"}
 *Ghent University*
+:::
 
 ## Teaching
 
@@ -37,7 +43,9 @@ toc: true
 2014 - present
 :::
 :::
+::: {style="margin-top: -0.7em;"}
 *Ghent University*
+:::
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -47,7 +55,10 @@ toc: true
 2024 - present
 :::
 :::
+
+::: {style="margin-top: -0.7em;"}
 *Vrije Universiteit Brussel*
+:::
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -57,7 +68,10 @@ toc: true
 2016 - present
 :::
 :::
+
+::: {style="margin-top: -0.7em;"}
 *Vrije Universiteit Brussel*
+:::
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -67,7 +81,10 @@ toc: true
 2017 - present
 :::
 :::
+
+::: {style="margin-top: -0.7em;"}
 *Vrije Universiteit Brussel*
+:::
 
 ## Education
 
@@ -79,7 +96,10 @@ toc: true
 2003 - 2007
 :::
 :::
-*Ghent University*
+
+::: {style="margin-top: -0.7em;"}
+*Vrije Universiteit Brussel*
+:::
 
 **Dissertation:** *Limiting the iconic: from the metatheoretical foundations to the creative possibilities of iconicity in language.*
 **Committee:** Prof. Dr. Luc De Grauwe (chair), Tom Zwaenepoel (secretary), Klaas Willems (promotor), Olga Fisher (Universiteit van Amsterdam), Johan Van der Auwera (UAntwerpen), Anne-Marie Vandenbergen (UGent)
@@ -92,7 +112,11 @@ toc: true
 2001 - 2003
 :::
 :::
-*Ghent University*
+
+::: {style="margin-top: -0.7em;"}
+*Vrije Universiteit Brussel*
+:::
+
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -102,7 +126,10 @@ toc: true
 1999 - 2001
 :::
 :::
-*Ghent University*
+
+::: {style="margin-top: -0.7em;"}
+*Vrije Universiteit Brussel*
+:::
 
 ::: {.d-flex .justify-content-between}
 ::: {}
@@ -112,7 +139,10 @@ toc: true
 1996 - 1999
 :::
 :::
-*Ghent University*
+
+::: {style="margin-top: -0.7em;"}
+*Vrije Universiteit Brussel*
+:::
 
 ## Bio
 
