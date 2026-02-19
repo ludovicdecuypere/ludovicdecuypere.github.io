@@ -11,7 +11,6 @@ format:
   html:
     mainfont: sans-serif
 ---
-
 Today marks the tenth anniversary of the passing of Umberto Eco.
 
 Eco is perhaps best known for novels like *Foucault's Pendulum* and *The Name of the Rose*. Complicated narrative universes, full of intertextual references, pastiche and parody, showcasing both an unrivalled erudition and unmatched eloquence.
@@ -20,26 +19,24 @@ But to me, Eco was first and foremost a semiotician.
 
 Semiotics involves the study of signs. Semioticians ask seemingly useless but nonetheless valuable questions about how we humans, but also other living organisms, experience and communicate with our environment.
 
-How do our senses detect signals in the surrounding noise; how do we recognize a face, a smell, or not? Semiotics also studies deep questions about how fiction depicts, obfuscates, or transcends reality, or about how language reflects reality, or not. The latter was the driving question in my book *Limiting the Iconic*.
+How do our senses detect signals in the surrounding noise; how do we recognize a face, a smell? Semiotics also studies deep questions about how fiction depicts, obfuscates, or transcends reality, or how language reflects reality. The latter was the driving question in my book *Limiting the Iconic*.
 
-Some of the "strange" questions that Eco tried to answer include: when you look at yourself in the mirror, do you see yourself or a picture of yourself? If you look at a painting, is there a point where there is no longer any distinction between the sign(s)—the painting itself—and the object represented by or referred to by the signs inside the painting? What is the difference between what is real and fake? How do scientists find a name for something that they never encountered, a "platypus", for instance (cf. his book *Kant and the Platypus*)? And one of my favourite questions: do we really recognize Mickey Mouse as a mouse (nature), or do we simply know that it is a mouse (culture)?
+Some of the "stranger" questions that Eco sought to answer include: when you look at yourself in the mirror, do you see yourself or do you see a picture of yourself? If you look at a painting, is there a point where there is no longer any distinction between the sign(s) - the painting itself - and the object represented by or referred to by the signs? How do scientists find a name for something that they never encountered, a "platypus", for instance (cf. his book *Kant and the Platypus*)? And one of my favourite questions: do we really recognize Mickey Mouse as a mouse (nature), or do we simply know that it is a mouse (culture)? Eco often reflected on what is real and what is fake; needless to say how relevant this is - or remains - in today's world.
 
-All these questions have something to do with iconicity and iconic signs. An iconic sign is a sign that refers to an object based on similarity. A painting of a girl wearing an earring refers to a girl wearing an earring based on our recognition of a similarity between the object referred to and the painting. This seems rather self-evident, one might object. But it is not.
+The questions above all deal with iconicity and iconic signs. An iconic sign is a sign that refers to an object based on similarity. A painting of a girl wearing an earring refers to a girl wearing an earring based on our recognition of a similarity between the object referred to and the painting. This seems rather self-evident, one might object. But it is not.
 
 Eco argued in his early works that we interpret pictures based on culturally acquired rules, by which he opposed the so-called iconists who believed that our interpretation of pictures is based on resemblance. In his later works, he changed his mind, and he did come to accept that our interpretation of pictures is indeed based on similarity. In Kant and the Platypus, he gives an in-depth discussion of different kinds and levels of resemblance. For instance, a vase with fake flowers might be mistaken for some real flowers, and that is based on their similarity. Similarly, a photograph of some flowers may be mistaken for the real thing, yet one might agree that the similarity of a photograph and of the fake flowers is not of the same kind. Yet the effect both have on our interpretation seems to be the same. Why is that?
 
-I can't help but wonder what Eco would have thought of genAI and Large Language Models. That he would have been intrigued is a matter of fact. He already marvels at computer programming and word processing in *Foucault's Pendulum*, where "Abulafia" - the computer (program) of one of the main characters, Jacopo Belbo, is used to permutate letters, thus imitating the Kabbalah mystical practice of *tzerufim*. Eco was also highly intrigued by word processing functions like the "find and replace", which must have been quite magic to early adopters who made the transition from typewriters to word processors.
+I can't help but wonder what Eco would have thought of genAI and Large Language Models. That he would have been intrigued is a matter of fact. He already marvels at computer programming and word processing in *Foucault's Pendulum*, where "Abulafia" - the computer of one of the main characters, Jacopo Belbo, is used to permutate letters, thus imitating the Kabbalah mystical practice of *tzerufim*. Eco was also highly intrigued by word processing functions like the "find and replace", which must have been quite magic to early adopters of word processors.
 
-The basic plot of *Foucault's Pendulum* involves a who's who of mysticism, esotery, pseudoscience, and medieval works and scholars that only an erudite like Eco would have heard of and could have combined into a fictional narrative. The book is basically a pastiche, an exaggerated copy (there we have that similarity and iconicity again), of the conspiracy theory as a narrative type. But - spoiler alert - in *Foucault's Pendulum* the narrative becomes reality; the confabulated, or indeed generated, story becomes alive. The word becomes reality.
+The basic plot of *Foucault's Pendulum* involves a who's who of mysticism, esotery, pseudoscience, medieval works and scholars that only an erudite like Eco would have heard of and could have combined into a fictional narrative. The novel is basically a pastiche, an exaggerated copy (there we have that similarity and iconicity again), of the conspiracy theory as a narrative type. But - spoiler alert - in *Foucault's Pendulum* the narrative becomes reality; the confabulated, or indeed generated, story becomes alive. The word becomes reality.
 
-LLMs are based on huge amounts of existing corpus data. What LLMs produce based on prompts is language recombined; it's not based on permutation but on but next-word prediction.
+LLMs are based on huge amounts of existing corpus data. What LLMs produce based on prompts is language recombined; it's not based on permutation but on but next-word prediction. Which begs the question: do LLMs generate real language, or are we led to believe that the fake is actually real?
 
-Which begs the question: do LLMs generate real language, or are we led to believe that the fake is actually real?
-
-Does abulafia "hallucinate"? That misnomer of a word that is used in the context of LLMs. LLMs don't hallucinate; they (re)produce text based on gargantuan input. Neither Abulafia, nor LLMs create human text, they both reproduce human-like texts. As argued by Quattrociocchi et al. [@Quattrociocchi2026]:
+Does Abulafia "hallucinate"? That misnomer of a word that is used in the context of LLMs. Neither Abulafia nor LLMs hallucinate; they (re)produce text based on input. And neither Abulafia, nor LLMs create human text, they both reproduce human-like texts. As argued by Quattrociocchi et al. [@Quattrociocchi2026]:
 
 > Large language models (LLMs) can reproduce patterns from existing data and close variations thereof. But this does not mean that they use the same kind of cognition as humans do.
 
-Again we are misled by iconic signs and unfaithful resemblances between the sign and the object, between generated text - that looks like natural language -, and real language.
+Again we are misled by iconic signs and unfaithful resemblances between the sign and the object, between the fake and the real, between generated text and real language.
 
 I never had the pleasure of meeting Umberto Eco in reality. But we still meet in a shared narrative universe. One that's as real as it gets.
