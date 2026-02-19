@@ -33,7 +33,7 @@ The basic plot of *Foucault's Pendulum* involves a who's who of mysticism, esote
 
 LLMs are based on huge amounts of existing corpus data. What LLMs produce based on prompts is language recombined; it's not based on permutation but on but next-word prediction. Which begs the question: do LLMs generate real language, or are we led to believe that the fake is actually real?
 
-Does Abulafia "hallucinate"? That misnomer of a word that is used in the context of LLMs. Neither Abulafia nor LLMs hallucinate; they (re)produce text based on input. And neither Abulafia, nor LLMs create human text, they both reproduce human-like texts. As argued by Quattrociocchi et al. [@Quattrociocchi2026]:
+Does Abulafia "hallucinate"? That misnomer of a word that is used in the context of LLMs. Neither Abulafia nor LLMs hallucinate; they (re)produce text based on input. And neither Abulafia, nor LLMs create human text, they both reproduce human-like texts. As argued by Quattrociocchi et al. [-@Quattrociocchi2026]:
 
 > Large language models (LLMs) can reproduce patterns from existing data and close variations thereof. But this does not mean that they use the same kind of cognition as humans do.
 
