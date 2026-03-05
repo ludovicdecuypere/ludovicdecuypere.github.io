@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ludovic De Cuypere">
+<meta name="dcterms.date" content="2026-03-05">
 
-<title>Blog – Ludovic De Cuypere</title>
+<title>From Dust to Bust – Ludovic De Cuypere</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +22,47 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-33443de7a2ecae56f60803953b2a1d08.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-db7c1956c9d3eec481db0bfbc3a586f3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,78 +90,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Ludovic De Cuypere</span>
     </a>
   </div>
@@ -152,27 +114,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Research.html"> 
+    <a class="nav-link" href="../../Research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Talks_and_Workshops.html"> 
+    <a class="nav-link" href="../../Talks_and_Workshops.html"> 
 <span class="menu-text">Talks &amp; Workshops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Teaching.html"> 
+    <a class="nav-link" href="../../Teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Contact.html"> 
+    <a class="nav-link" href="../../Contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -183,159 +145,113 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ZGF0YSUyMHdyYW5nbGluZw==">data wrangling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YXZpc3VhbGlzYXRpZQ==">datavisualisatie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YXdyYXBwZXI=">datawrapper <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHVzdA==">Dust <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHV0Y2g=">Dutch <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmFrZQ==">fake <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2VuQUk=">genAI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aWNvbmljJTIwc2lnbg==">iconic sign <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SWNvbmljaXR5">Iconicity <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TExN">LLM <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW92aWUlMjBwb3N0ZXI=">Movie poster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVhbA==">real <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VtaW90aWNz">Semiotics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW1iZXJ0byUyMEVjbw==">Umberto Eco <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmFjYXR1cmVjaWpmZXJz">vacaturecijfers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmRhYg==">vdab <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">From Dust to Bust</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Dust</div>
+    <div class="quarto-category">Movie poster</div>
+    <div class="quarto-category">Iconicity</div>
+    <div class="quarto-category">Semiotics</div>
+  </div>
+  </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://ludovicdecuypere.github.io/">Ludovic De Cuypere</a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            VUB &amp; UGent
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 5, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="RHVzdCUyQ01vdmllJTIwcG9zdGVyJTJDSWNvbmljaXR5JTJDU2VtaW90aWNz" data-listing-date-sort="1772665200000" data-listing-file-modified-sort="1772708271440" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="904">
-<a href="./posts/2026-03-05-dust/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-03-05-dust/DUST_poster.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-From Dust to Bust
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RHVzdA=='); return false;">Dust</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW92aWUlMjBwb3N0ZXI='); return false;">Movie poster</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SWNvbmljaXR5'); return false;">Iconicity</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VtaW90aWNz'); return false;">Semiotics</div>
-
+<p>Flanders Fields is famous for its Great War battlefields and rows of red poppies. But in the nineties, Ypres was also the epicenter of the emerging field of speech technology, with “Lernout &amp; Hauspie” (“L&amp;H) as the star company of”Flanders Language Valley”, a name coined to mimick “Silicon Valley”.</p>
+<p>The movie Dust (2026), directed by Anke Blondé and starring Arieh Worthalter and Jan Hammenecker, is an unofficial portrayal of the demise of Lernout &amp; Hauspie as it collapsed into bankruptcy in November 2000. The story that inspired <em>Dust</em> is clearly inspired by historical events, although there are no explicit historical references to L&amp;H. Yet, the iconic references are obvious to those who know the historical background.</p>
+<p>As I argue in my chapter for <em>The Oxford Handbook of Iconicity in Language</em> <span class="citation" data-cites="DeCuypere2026OUP">(<a href="#ref-DeCuypere2026OUP" role="doc-biblioref">De Cuypere 2026</a>)</span>, the distinction between similarity and iconicity is fundamental to understand how iconicity operates. If one doesn’t know anything about the historical events that the movie is based on, one can still enjoy and understand the movie. But the similarity between the movie and the historical events is there, and for those who do recognize the historical references, this similarity yields an effect. The cognitive act of recognition is essentially an iconic act. For instance, failing to recognize a face is because the similarity has no cognitive effect, not because there is no similarity. In other words, similarity is the resemblance between a sign and its object, whereas iconicity is the effect that this resemblance has on the interpretant of the sign.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="card-text listing-description delink">
-Flanders Fields is famous for its Great War battlefields and rows of red poppies. But in the nineties, Ypres was also the epicenter of the emerging field of speech…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Mar 5, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="VW1iZXJ0byUyMEVjbyUyQ0ljb25pY2l0eSUyQ0xMTSUyQ2dlbkFJJTJDaWNvbmljJTIwc2lnbiUyQ2Zha2UlMkNyZWFs" data-listing-date-sort="1771455600000" data-listing-file-modified-sort="1771511043360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="829">
-<a href="./posts/2026-02-19-eco/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-02-19-eco/Italiaanse_schrijver_Umberto_Eco,_portret.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Remembering Umberto Eco
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VW1iZXJ0byUyMEVjbw=='); return false;">Umberto Eco</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SWNvbmljaXR5'); return false;">Iconicity</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TExN'); return false;">LLM</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2VuQUk='); return false;">genAI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aWNvbmljJTIwc2lnbg=='); return false;">iconic sign</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZmFrZQ=='); return false;">fake</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVhbA=='); return false;">real</div>
-
-</div>
-<div class="card-text listing-description delink">
-Today marks the tenth anniversary of the passing of Umberto Eco.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Feb 19, 2026
+<div class="callout-title-container flex-fill">
+Note
 </div>
 </div>
+<div class="callout-body-container callout-body">
+<p>Some basic semiotic theory. An iconic sign is a sign that refers to something else, its referent, based on some kind of similarity between the sign and the referent. This is one of three kinds of signs distinguished in the semiotic theory developed by Charles Sanders Peirce (1839–1914). The other two signs are the “symbol” – a sign that refers to a referent based on some arbitrary convention – and the “index” – a sign that refers to a referent based on some causal or contiguous relationship.</p>
 </div>
-</div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="ZGF0YXZpc3VhbGlzYXRpZSUyQ2RhdGElMjB3cmFuZ2xpbmclMkNkYXRhd3JhcHBlciUyQ3ZhY2F0dXJlY2lqZmVycyUyQ3ZkYWIlMkNEdXRjaA==" data-listing-date-sort="1769641200000" data-listing-file-modified-sort="1769964664245" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="810">
-<a href="./posts/2026-01-29-datavis-vdab/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-01-29-datavis-vdab/2026-01-29-blog-image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-VDAB vacatures 2025
-</h5>
-<div class="listing-categories">
+<p>The poster of the movie is a semiotic gem, a feast of intertextual and iconic references.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="DUST_poster.jpg" class="img-fluid figure-img"></p>
+<figcaption>Movie poster for Dust</figcaption>
+</figure>
+</div>
+<p>The poster depicts the two middle-aged male protagonists. They look grumpy, wear dark suits and sport colorful ties; the sartorial 1990s CEO apparel, before techbros introduced jeans, sneakers, and the rolling collar or hoodie.</p>
+<p>The name “Dust” evokes “ashes to ashes, dust to dust.” <em>Dust</em> also reflects <em>(going) bust</em> or the <em>burst of a bubble</em>. Iconicity galore, and there’s more.</p>
+<p>The word <em>dust</em> is also the West-Flemish dialect word for the Dutch word <em>dorst</em> (West-Flemish is a dialect of Dutch). <em>Dorst</em> is the Dutch cognate of the English <em>thirst</em>; <em>thirsty for more</em>, the entrepreneurial spirit. In West Flanders, it is not uncommon to see a signpost at a gathering saying <em>we’n dust</em> – literally <em>we have thirst</em>. You wave it to call a waiter.</p>
+<p>At the bottom of the poster, a red line graph mimicks a fictional stock tracker. The red line climbs during the <em>thirsty</em> period and then falls as the company goes <em>bust</em>, or turns into <em>dust</em>.</p>
+<p>Notice that the red line goes completely flatline under the letter <em>T</em>. Is it my imagination, or can does one hear – or even phonotactically feel – the flatline in the pronunciation of the sound [t]? Is my interpretation “correct”? Or is this what Umberto Eco <span class="citation" data-cites="eco1992interpretation">(<a href="#ref-eco1992interpretation" role="doc-biblioref">1992</a>)</span> meant with “overinterpretation” ?</p>
+<p>My interpretation might only be in mine eye, with me as the beholder. I’m perfectly fine with that. However, it would be problematic to claim that my interpretation is part of the meaning of <em>dust</em>. And this is exactly the problem I have with psycholinguistic rating experiments that aim to measure the iconicity of the lexicon.</p>
+<p>The photograph of the two men on the poster can also be interpreted iconicially. Note that the photograph is ripped into pieces as if it went through a paper shredder. This might reflect the broken relationship between the two protagonists, the broken dreams of days gone by, or perhaps even the fragmented memories one has of historical events. The shredded picture could even suggest a kind of multiverse historical rendering: the past can only be reconstructed, and any reconstruction necessarily falls short of what really happened.</p>
+<p>Which brings me to the tagline at the bottom of the picture: <em>misschien is niets geheel waar, en zelfs dat niet</em>. This is a quote by the 19th-century Dutch writer Multatuli (the name is not explicitly mentioned on the poster). The line can be translated as: <em>Maybe nothing is completely true, and not even that</em>. There is no perfect rendering of reality. The perfect iconic sign does not exist. A picture can only be a two-dimensional rendering of the real thing. This relates to a very short story by Jorge Luis Borges (“Del rigor en la ciencia”), which argues that the perfect map of an empire would have to be the size of the empire itself, at which point the sign becomes the object. Asymptotically, the iconic sign is imperfect until it becomes the object it refers to; the paradox faced by any scientific model of reality!</p>
+<p>You might wonder what happened to the speech technology of those brave little Belgians who went from “dust to bust” (technology acquired by acquisition, I should add). It’s currently owned by Microsoft and worth billions. As we say in West-Flanders: <em>k’i der dust van gekrégn</em>, lit. “I have become thirsty of this” [OMG!].</p>
 
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YXZpc3VhbGlzYXRpZQ=='); return false;">datavisualisatie</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMHdyYW5nbGluZw=='); return false;">data wrangling</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YXdyYXBwZXI='); return false;">datawrapper</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('dmFjYXR1cmVjaWpmZXJz'); return false;">vacaturecijfers</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmRhYg=='); return false;">vdab</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RHV0Y2g='); return false;">Dutch</div>
-
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-DeCuypere2026OUP" class="csl-entry" role="listitem">
+De Cuypere, Ludovic. 2026. <span>“The Explanatory Power of Iconicity in Language.”</span> In <em>The Oxford Handbook of Iconicity in Language</em>. Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780192849489.013.0008">https://doi.org/10.1093/oxfordhb/9780192849489.013.0008</a>.
 </div>
-<div class="card-text listing-description delink">
-<p>Een visualisatie met Datawrapper van ontvangen vacatures door VDAB in 2025</p>
+<div id="ref-eco1992interpretation" class="csl-entry" role="listitem">
+Eco, Umberto. 1992. <em>Interpretation and Overinterpretation</em>. Tanner Lectures in Human Values. Cambridge: Cambridge University Press.
 </div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Jan 29, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{de_cuypere2026,
+  author = {De Cuypere, Ludovic},
+  title = {From {Dust} to {Bust}},
+  date = {2026-03-05},
+  url = {https://ludovicdecuypere.github.io/posts/2026-03-05-dust/},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-de_cuypere2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+De Cuypere, Ludovic. 2026. <span>“From Dust to Bust.”</span> March 5,
+2026. <a href="https://ludovicdecuypere.github.io/posts/2026-03-05-dust/">https://ludovicdecuypere.github.io/posts/2026-03-05-dust/</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
