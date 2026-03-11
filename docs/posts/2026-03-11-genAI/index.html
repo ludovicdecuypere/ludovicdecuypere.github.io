@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ludovic De Cuypere">
+<meta name="dcterms.date" content="2026-03-11">
 
-<title>Blog – Ludovic De Cuypere</title>
+<title>Effect van LLM op vraag naar taalprofessionals zichtbaar? – Ludovic De Cuypere</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +22,47 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-33443de7a2ecae56f60803953b2a1d08.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-db7c1956c9d3eec481db0bfbc3a586f3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,78 +90,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Ludovic De Cuypere</span>
     </a>
   </div>
@@ -152,27 +114,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Research.html"> 
+    <a class="nav-link" href="../../Research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Talks_and_Workshops.html"> 
+    <a class="nav-link" href="../../Talks_and_Workshops.html"> 
 <span class="menu-text">Talks &amp; Workshops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Teaching.html"> 
+    <a class="nav-link" href="../../Teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Contact.html"> 
+    <a class="nav-link" href="../../Contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -183,194 +145,99 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Blog</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="ZGF0YSUyMHZpc3VhbGlzYXRpZQ==">data visualisatie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YSUyMHdyYW5nbGluZw==">data wrangling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YXZpc3VhbGlzYXRpZQ==">datavisualisatie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0YXdyYXBwZXI=">datawrapper <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHVzdA==">Dust <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RHV0Y2g=">Dutch <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmFrZQ==">fake <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z2VuQUk=">genAI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="aWNvbmljJTIwc2lnbg==">iconic sign <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SWNvbmljaXR5">Iconicity <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TExN">LLM <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TW92aWUlMjBwb3N0ZXI=">Movie poster <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cmVhbA==">real <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VtaW90aWNz">Semiotics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VW1iZXJ0byUyMEVjbw==">Umberto Eco <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmFjYXR1cmVjaWpmZXJz">vacaturecijfers <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmFjYXR1cmVz">vacatures <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dmRhYg==">vdab <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Effect van LLM op vraag naar taalprofessionals zichtbaar?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">LLM</div>
+    <div class="quarto-category">genAI</div>
+    <div class="quarto-category">vacatures</div>
+    <div class="quarto-category">data visualisatie</div>
+  </div>
+  </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://ludovicdecuypere.github.io/">Ludovic De Cuypere</a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            VUB &amp; UGent
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 11, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="TExNJTJDZ2VuQUklMkN2YWNhdHVyZXMlMkNkYXRhJTIwdmlzdWFsaXNhdGll" data-listing-date-sort="1773183600000" data-listing-file-modified-sort="1773222960199" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
-<a href="./posts/2026-03-11-genAI/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-03-11-genAI/SIDIN.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Effect van LLM op vraag naar taalprofessionals zichtbaar?
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TExN'); return false;">LLM</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z2VuQUk='); return false;">genAI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmFjYXR1cmVz'); return false;">vacatures</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMHZpc3VhbGlzYXRpZQ=='); return false;">data visualisatie</div>
-
+<p>Tijdens de Studie-informatiedagen (SID-in) in Kortijk, waar ik de opleiding Taal- en letterkunde/Linguistics and Literary Studies mocht vertegenwoordigen voor de VUB, kreeg ik de onvermijdelijke vraag: “en wat kun je daar nu eigenlijk mee doen?”. Het bezorgde gezicht van de ouders klaarde meteen op na mijn geruststellende antwoord: als leerkacht heb je morgen werk.</p>
+<p>Zowat alle leerlingen vonden dat geen aantrekkelijk vooruitzicht, al wilden de meesten wel de optie openhouden. Het mooiste beroep van de wereld verkoopt zich tegenwoordig niet vanzelf.</p>
+<p>Er zijn uiteraard nog veel andere jobmogelijkheden voor masters taal- en letterkunde; volgens het schoolverlatersrapport van de VDAB <span class="citation" data-cites="VDABSchoolverlaters">(<a href="#ref-VDABSchoolverlaters" role="doc-biblioref">VDAB n.d.</a>)</span> was 5% van alle in 2024 afgestudeerde masters taal- en letterkunde na één jaar nog op zoek naar werk. Velen zullen nog een extra opleiding volgen (voor leerkracht bijvoorbeeld), maar de overgrote meerderheid vindt de weg op de arbeidsmarkt. Een tweede bezorgdheid die gedeeld werd tijdens de SID-in is het effect van genAI. Dat er een effect zal zijn, daar ben ik van overtuigd; LLMs zullen gebruikt worden door iedereen die teksten schrijft, vertalingen maakt en communicatieopdrachten uitvoert. Maar hoe sterk dat effect zal zijn, blijft voorlopig onduidelijk.</p>
+<p>Heeft genAI al een effect op de arbeidsmarkt? En kunnen we nu al het effect zien in de vacaturecijfers voor beroepen die doorgaans geassocieerd worden met taalprofessionals?</p>
+<p>Om dit na te gaan maakte ik een dataset op basis van het aantal vacatureberichten dat de VDAB ontvangen heeft in de voorbije tien jaar.</p>
+<iframe width="780" height="500" src="https://datawrapper.dwcdn.net/5CHPg/4/" title="Zien we de eerste effecten van genAI op de arbeidsmarkt voor taalprofessionals?">
+</iframe>
+<p>De cijfers tonen een opvallende daling van 29% tussen 2024 en 2025. Op basis daarvan zouden we een negatief effect kunnen zien. Maar de dalende trend was ook al eerder ingezet (-70% in de voorbije tien jaar), wat niet toe te schrijven kan zijn aan genAI. Benieuwd of de trend zich voortzet. Misschien geeft genAI net een boost aan de mens achter de knopjes? We weten het niet. En leerkracht blijft uiteraard een goeie optie én het mooiste beroep ter wereld.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="card-text listing-description delink">
-Tijdens de Studie-informatiedagen (SID-in) in Kortijk, waar ik de opleiding Taal- en letterkunde/Linguistics and Literary Studies mocht vertegenwoordigen voor de VUB, kreeg…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Mar 11, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="RHVzdCUyQ01vdmllJTIwcG9zdGVyJTJDSWNvbmljaXR5JTJDU2VtaW90aWNz" data-listing-date-sort="1772665200000" data-listing-file-modified-sort="1772722097859" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="975">
-<a href="./posts/2026-03-05-dust/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-03-05-dust/DUST_poster.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-From Dust to Bust
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RHVzdA=='); return false;">Dust</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW92aWUlMjBwb3N0ZXI='); return false;">Movie poster</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('SWNvbmljaXR5'); return false;">Iconicity</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('U2VtaW90aWNz'); return false;">Semiotics</div>
-
-</div>
-<div class="card-text listing-description delink">
-Flanders Fields is famous for its Great War battlefields and rows of red poppies. But in the nineties, Ypres was also the epicenter of the emerging field of speech…
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Mar 5, 2026
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Methodologische noot
 </div>
 </div>
+<div class="callout-body-container callout-body">
+<p>Ik gebruik hier de VDAB-cijfers als proxie voor “de vraag naar taalprofessionals” en ik heb daarbij slechts enkele beroepen gekozen. Men kan de vraag stellen of de cijfers een valide schatting toelaten. (Validiteit betekent: meet ik wat ik wil meten?) Allicht weerspiegelen de cijfers slechts gedeeltelijk de realiteit. Zelfstandigen, bijberoepers (en allicht wat niet-officiële arbeid) wordt in de cijfers niet meegerekend.</p>
 </div>
-</div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="VW1iZXJ0byUyMEVjbyUyQ0ljb25pY2l0eSUyQ0xMTSUyQ2dlbkFJJTJDaWNvbmljJTIwc2lnbiUyQ2Zha2UlMkNyZWFs" data-listing-date-sort="1771455600000" data-listing-file-modified-sort="1771511043360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="829">
-<a href="./posts/2026-02-19-eco/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-02-19-eco/Italiaanse_schrijver_Umberto_Eco,_portret.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Remembering Umberto Eco
-</h5>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('VW1iZXJ0byUyMEVjbw=='); return false;">Umberto Eco</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('SWNvbmljaXR5'); return false;">Iconicity</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('TExN'); return false;">LLM</div>
 
-<div class="listing-category" onclick="window.quartoListingCategory('Z2VuQUk='); return false;">genAI</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('aWNvbmljJTIwc2lnbg=='); return false;">iconic sign</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZmFrZQ=='); return false;">fake</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('cmVhbA=='); return false;">real</div>
-
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-VDABSchoolverlaters" class="csl-entry" role="listitem">
+VDAB. n.d. <span>“Schoolverlaters: Detail.”</span> Interactive dashboard. <a href="https://www.vdab.be/trendsdoc/schoolverlaters/detail/default.shtml">https://www.vdab.be/trendsdoc/schoolverlaters/detail/default.shtml</a>.
 </div>
-<div class="card-text listing-description delink">
-Today marks the tenth anniversary of the passing of Umberto Eco.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Feb 19, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="ZGF0YXZpc3VhbGlzYXRpZSUyQ2RhdGElMjB3cmFuZ2xpbmclMkNkYXRhd3JhcHBlciUyQ3ZhY2F0dXJlY2lqZmVycyUyQ3ZkYWIlMkNEdXRjaA==" data-listing-date-sort="1769641200000" data-listing-file-modified-sort="1769964664245" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="810">
-<a href="./posts/2026-01-29-datavis-vdab/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/2026-01-29-datavis-vdab/2026-01-29-blog-image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-VDAB vacatures 2025
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YXZpc3VhbGlzYXRpZQ=='); return false;">datavisualisatie</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YSUyMHdyYW5nbGluZw=='); return false;">data wrangling</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0YXdyYXBwZXI='); return false;">datawrapper</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmFjYXR1cmVjaWpmZXJz'); return false;">vacaturecijfers</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dmRhYg=='); return false;">vdab</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RHV0Y2g='); return false;">Dutch</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Een visualisatie met Datawrapper van ontvangen vacatures door VDAB in 2025</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere
-</div>
-<div class="listing-date">
-Jan 29, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{de_cuypere2026,
+  author = {De Cuypere, Ludovic},
+  title = {Effect van {LLM} Op Vraag Naar Taalprofessionals Zichtbaar?},
+  date = {2026-03-11},
+  url = {https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-de_cuypere2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+De Cuypere, Ludovic. 2026. <span>“Effect van LLM Op Vraag Naar
+Taalprofessionals Zichtbaar?”</span> March 11, 2026. <a href="https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/">https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
