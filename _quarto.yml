@@ -20,8 +20,7 @@ website:
       <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>      
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< https://github.com/ludovicdecuypere/ludovicdecuypere.github.io >}})</span>
-
+      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/ludovicdecuypere/ludovicdecuypere.github.io)</span>
   
 format:
   html:
