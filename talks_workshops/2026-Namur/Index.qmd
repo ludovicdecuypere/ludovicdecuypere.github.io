@@ -1,0 +1,32 @@
+---
+title: "Learning to Cross Boundaries: Motion Conceptualization in Turkish Learners of English"
+author:
+  - name: Aybike Canan
+    orcid: 0009-0007-0406-7105
+    affiliations: Vrije Universiteit Brussel
+  - name: Ludovic De Cuypere
+    orcid: 0000-0002-0050-1097
+    affiliations: Vrije Universiteit Brussel/Ghent University
+  - name: Esli Struys
+    orcid: 0000-0001-8093-3422
+    affiliations: Vrije Universiteit Brussel
+date: 2025-12-11
+slug: BAAHE2025
+categories: [English L2, Language acquisition, Turkish L1, Motion event expression, Boundary-crossing event expression, Thinking-for-Speaking, Picture Description Task]
+image: baahepic.jpg
+---
+
+### Slides
+
+```{=html}
+<iframe width="780" height="500" src="BAAHE_2025_CananDeCuypere_CrossBound.html" title="Namur BAAHE 2026 talk"></iframe>
+```
+
+### Abstract
+
+Languages differ typologically in how they encode motion (Talmy, 1985), especially in boundary-crossing (BC) contexts. Özçalışkan (2015) demonstrated striking differences between Turkish and English in expressing path and manner of motion. English, a satellite-framed language, typically uses a manner verb and a path satellite. Turkish, a verb-framed language, uses a path verb and expresses manner peripherally, often in a separate clause or omitted altogether. Özçalışkan (2015) also found that English tends to use compact clauses and explicitly marks BC, while Turkish often segments events into multiple clauses, expressing BC implicitly or omitting it. Such contrasts make Turkish and English an ideal pair for testing the Thinking-for-Speaking (TFS) hypothesis (Slobin, 2004), which maintains that language shapes conceptualization during speech. Bilingual
+and second-language (L2) speakers are particularly useful in studying this effect. Prior research (Brown & Gullberg, 2008, 2010, 2011; Alonso, 2013, 2016, 2020) shows that bilinguals often diverge from both of their monolingual baselines, reflecting cross-linguistic influence. Proficiency plays a key role—less proficient
+speakers rely more on L1 patterns, while more advanced learners may adopt L2-like structures (Cadierno, 2004; Hohenstein et al., 2006). However, little is known about how L2 proficiency affects motion event framing among Turkish-English bilinguals. This study investigates how L1 Turkish speakers at different English proficiency levels express BC motion events. We aimed to answer three questions: (1) How do Turkish learners
+of English express BC motion compared to English and Turkish monolinguals? (2) To what extent do L1 patterns persist in L2 production? (3) Does higher L2 proficiency promote more English-like framing? We used a Picture Description Task from Özçalışkan (2015), with twelve BC scenes. Participants included: (i) English monolinguals, (ii) Turkish monolinguals, (iii) beginner-intermediate Turkish learners of English, and (iv)
+advanced Turkish learners of English. Responses were analyzed for BC type (explicit vs. implicit), verb choice (manner vs. path), and segmentation (number of descriptive clauses). Findings revealed that learners diverged from both monolingual baselines. Learner output showed that while learners’ verb choices increasingly aligned with English speakers, BC type remained strongly influenced by their L1, even at advanced levels. No
+significant differences emerged in segmentation, likely due to the time constraint. This shows that lexical alignment occurs more easily and with less L1 influence compared to syntactic alignment in motion event expression. The results support the TFS hypothesis, suggesting that language-specific patterns continue to shape motion conceptualization in L2 output, even at higher proficiency levels. 
