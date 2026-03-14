@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ludovic De Cuypere">
+<meta name="dcterms.date" content="2026-03-14">
 
-<title>Talks &amp; Workshops – Ludovic De Cuypere</title>
+<title>pi – Ludovic De Cuypere</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,31 +22,84 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-36b265f297fc3cc9b327ef5bccd63a1f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-5c2e83f7e77cfae584ac2f7466811a7b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,35 +127,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -137,13 +163,13 @@ window.Quarto = {
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Ludovic De Cuypere</span>
     </a>
   </div>
@@ -154,27 +180,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Research.html"> 
+    <a class="nav-link" href="../../Research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./Talks_and_Workshops.html" aria-current="page"> 
+    <a class="nav-link" href="../../Talks_and_Workshops.html"> 
 <span class="menu-text">Talks &amp; Workshops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Teaching.html"> 
+    <a class="nav-link" href="../../Teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Contact.html"> 
+    <a class="nav-link" href="../../Contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -185,127 +211,126 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Talks &amp; Workshops</h1>
-            <p class="subtitle lead">The things I tell you will not be wrong</p>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta column-page-left">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Qm91bmRhcnktY3Jvc3NpbmclMjBldmVudCUyMGV4cHJlc3Npb24=">Boundary-crossing event expression <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29uc3RydWN0aW9uYWwlMjBtZWFuaW5n">constructional meaning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGF0aXZlJTIwYWx0ZXJuYXRpb24=">dative alternation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGl0cmFuc2l0aXZlJTIwYWx0ZXJuYXRpb24=">ditransitive alternation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RW5nbGlzaA==">English <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RW5nbGlzaCUyMEwy">English L2 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R2VybWFu">German <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGFuZ3VhZ2UlMjBhY3F1aXNpdGlvbg==">Language acquisition <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW90aW9uJTIwZXZlbnQlMjBleHByZXNzaW9u">Motion event expression <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGljdHVyZSUyMERlc2NyaXB0aW9uJTIwVGFzaw==">Picture Description Task <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2VtYW50aWNz">semantics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhpbmtpbmctZm9yLVNwZWFraW5n">Thinking-for-Speaking <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGhyZWUlMjBsYXllciUyMG1vZGVs">three layer model <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VHVya2lzaCUyMEwx">Turkish L1 <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">pi</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">pi</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">William Jones</div>
+  </div>
+  </div>
 
 
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Author</div>
+  <div class="quarto-title-meta-heading">Affiliation</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://ludovicdecuypere.github.io/">Ludovic De Cuypere</a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            VUB &amp; UGent
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 14, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
+</header>
 
 
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="ZGF0aXZlJTIwYWx0ZXJuYXRpb24lMkNkaXRyYW5zaXRpdmUlMjBhbHRlcm5hdGlvbiUyQ0VuZ2xpc2glMkNHZXJtYW4lMkNzZW1hbnRpY3MlMkN0aHJlZSUyMGxheWVyJTIwbW9kZWwlMkNjb25zdHJ1Y3Rpb25hbCUyMG1lYW5pbmc=" data-listing-date-sort="1770159600000" data-listing-file-modified-sort="1770218075605" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="554">
-<a href="./talks_workshops/2025-Bordeaux/Index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./talks_workshops/2025-Bordeaux/bordeaux_image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-A three-layer analysis of the English dative alternation
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGF0aXZlJTIwYWx0ZXJuYXRpb24='); return false;">dative alternation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGl0cmFuc2l0aXZlJTIwYWx0ZXJuYXRpb24='); return false;">ditransitive alternation</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RW5nbGlzaA=='); return false;">English</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('R2VybWFu'); return false;">German</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2VtYW50aWNz'); return false;">semantics</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGhyZWUlMjBsYXllciUyMG1vZGVs'); return false;">three layer model</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Y29uc3RydWN0aW9uYWwlMjBtZWFuaW5n'); return false;">constructional meaning</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Executive summary: This talk was delivered at the 58th Annual Meeting of the Societas Linguistica Europaea, 26 – 29 August 2025, Université Bordeaux Montaigne. We argued…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere, Klaas Willems
-</div>
-<div class="listing-date">
-Feb 4, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="RW5nbGlzaCUyMEwyJTJDTGFuZ3VhZ2UlMjBhY3F1aXNpdGlvbiUyQ1R1cmtpc2glMjBMMSUyQ01vdGlvbiUyMGV2ZW50JTIwZXhwcmVzc2lvbiUyQ0JvdW5kYXJ5LWNyb3NzaW5nJTIwZXZlbnQlMjBleHByZXNzaW9uJTJDVGhpbmtpbmctZm9yLVNwZWFraW5nJTJDUGljdHVyZSUyMERlc2NyaXB0aW9uJTIwVGFzaw==" data-listing-date-sort="1765407600000" data-listing-file-modified-sort="1773322763658" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="421">
-<a href="./talks_workshops/2026-Namur/Index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./talks_workshops/2026-Namur/baahepic.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Learning to Cross Boundaries: Motion Conceptualization in Turkish Learners of English
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RW5nbGlzaCUyMEwy'); return false;">English L2</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TGFuZ3VhZ2UlMjBhY3F1aXNpdGlvbg=='); return false;">Language acquisition</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VHVya2lzaCUyMEwx'); return false;">Turkish L1</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('TW90aW9uJTIwZXZlbnQlMjBleHByZXNzaW9u'); return false;">Motion event expression</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('Qm91bmRhcnktY3Jvc3NpbmclMjBldmVudCUyMGV4cHJlc3Npb24='); return false;">Boundary-crossing event expression</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('VGhpbmtpbmctZm9yLVNwZWFraW5n'); return false;">Thinking-for-Speaking</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGljdHVyZSUyMERlc2NyaXB0aW9uJTIwVGFzaw=='); return false;">Picture Description Task</div>
-
-</div>
-<div class="card-text listing-description delink">
-This talk was delivered at BAAHE 2025 - Language and literature across the lifespan. 11–12 Dec 2025, UNAmur.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Ludovic De Cuypere, Aybike Canan, Esli Struys
-</div>
-<div class="listing-date">
-Dec 11, 2025
+<p>Vandaag is het 14 maart 2026. Ook bekend als <span class="math inline">\(pi\)</span>-dag!</p>
+<p>Wat heeft <span class="math inline">\(pi\)</span> nu met taal te maken, hoor ik u denken?</p>
+<p>De Griekse letter Pi <span class="math inline">\(pi\)</span> is gekende symbool voor het getal <span class="math inline">\(3,1415...\)</span> enz.</p>
+<p><span class="math inline">\(pi\)</span> is gelijk aan de constante verhouding tussen de omtrek van een cirkel en de diameter ervan.</p>
+<p>De onderstaande figuur - met wat R-code voor de liefhebbers -, illustreert deze verhouding:</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(plotrix)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># lege ruimte maken</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">plot</span>(<span class="at">x =</span> <span class="dv">0</span><span class="sc">:</span><span class="dv">14</span>, <span class="at">ylim=</span><span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">7</span>), <span class="at">type=</span><span class="st">"n"</span>,<span class="at">xlab=</span><span class="st">""</span>,<span class="at">ylab=</span><span class="st">""</span>,<span class="at">main=</span><span class="st">""</span>)</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>r <span class="ot">&lt;-</span> <span class="fl">2.2</span> <span class="co"># straal = 2.2</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co"># cirkel tekenen</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="fu">draw.circle</span>(<span class="at">x =</span> <span class="dv">5</span>, <span class="at">y =</span> <span class="dv">5</span>,<span class="co"># middelpunt</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>            <span class="at">radius =</span> r, <span class="co"># straal = r</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>            <span class="at">border=</span><span class="st">"red"</span>,<span class="at">lty=</span><span class="dv">1</span>,<span class="at">lwd=</span><span class="dv">2</span>)</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># diameter in de cirkel  </span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">segments</span>(<span class="at">x0=</span><span class="dv">5</span><span class="sc">-</span>r, <span class="at">y0=</span><span class="dv">5</span>, <span class="at">x1=</span><span class="dv">5</span><span class="sc">+</span>r, <span class="at">y1=</span><span class="dv">5</span>, <span class="at">col=</span><span class="st">"blue"</span>, <span class="at">lwd=</span><span class="dv">2</span>) </span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co"># omtrek als apart lijnstuk</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="fu">segments</span>(<span class="at">x0=</span><span class="dv">2</span>, <span class="at">y0=</span><span class="dv">3</span>, <span class="at">x1=</span><span class="dv">2</span><span class="sc">*</span>r<span class="sc">*</span>pi, <span class="at">y1=</span><span class="dv">3</span>, <span class="at">col=</span><span class="st">"red"</span>, <span class="at">lwd=</span><span class="dv">2</span>) </span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># diameter als apart lijnstuk</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="fu">segments</span>(<span class="at">x0=</span><span class="dv">2</span>, <span class="at">y0=</span><span class="dv">2</span>, <span class="at">x1=</span><span class="dv">2</span><span class="sc">+</span><span class="dv">2</span><span class="sc">*</span>r, <span class="at">y1=</span><span class="dv">2</span>, <span class="at">col=</span><span class="st">"blue"</span>, <span class="at">lwd=</span><span class="dv">2</span>)            </span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co"># lengtes toevoegen als tekst</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="fu">text</span>(<span class="at">x =</span> <span class="dv">12</span>, <span class="at">y =</span> <span class="fl">2.8</span>, <span class="st">"omtrek = 13.82"</span>, <span class="at">col =</span> <span class="st">"red"</span>)</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">text</span>(<span class="at">x =</span> <span class="fl">4.8</span>, <span class="at">y =</span> <span class="fl">1.8</span>, <span class="st">"diameter = 4.4"</span>, <span class="at">col =</span> <span class="st">"blue"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="index_files/figure-html/unnamed-chunk-1-1.png" class="img-fluid figure-img" width="576"></p>
+</figure>
 </div>
 </div>
 </div>
-</div></a>
+<p>Voor elke cirkel geldt: de omtrek gedeeld door de diameter is gelijk aan <span class="math inline">\(pi\)</span>; in deze figuur is dit <span class="math inline">\(13.82/4.4=3.14\)</span>.</p>
+<p>Interessant, maar wat heeft dit met taal te maken?</p>
+<p>Waarom gebruiken we het symbool <span class="math inline">\(pi\)</span>?</p>
+<p>Welnu, <span class="math inline">\(pi\)</span> werd als wiskundig symbool voor het eerst gebruikt door William Jones in 1706 en later gepopulariseerd worden door Leonhard Euler <span class="citation" data-cites="Britannica2021">(<a href="#ref-Britannica2021" role="doc-biblioref">Britannica, T. Editors of Encyclopaedia 2021</a>)</span>.</p>
+<p>William Jones was niet enkel een wiskundige. In de taalwetenschap is Jones vooral bekend vanwege zijn inzichten in de taalverwantschap tussen Sanskriet, Latijn, Gothisch, Keltisch, enz. Jones was een van de eerste die opmerkelijke gelijkenissen vastgesteld heeft tussen deze talen.</p>
+<p>Ondertussen weten we dat deze talen evolutionair verwant zijn en dat deze talen behoren tot dezelfde taalfamilie, het Indo-Europees, en dat deze talen historisch terug te brengen zijn tot het Proto-Indo-Europees.</p>
+<p>Maar waarom gebruikte Jones de term <span class="math inline">\(pi\)</span>?</p>
+<p>Etymologisch blijkt dit verwant te zijn aan het Griekse <em>periphéreia</em> <span class="citation" data-cites="etymonline_pi">(<a href="#ref-etymonline_pi" role="doc-biblioref">Harper 2024</a>)</span>, wat we in het Nederlands ook kennen als “periferie”. <span class="math inline">\(pi\)</span> is dus een afkorting!</p>
+<p>En waarom gebruiken we in het Nederlands “omtrek” en niet “circumferentie”, zoals in veel andere talen die eerder Latijnse termen gebruiken (cf.&nbsp;Eng. “circumference”).</p>
+<p>Ook hiervoor hebben we een interessante taalwetenschappelijke verklaring.</p>
+<p>Het is een van de zovele wiskundige termen die “vernederlandst” werden door de Brugse wiskundige Simon Stevin <span class="citation" data-cites="kox1990stevin">(<a href="#ref-kox1990stevin" role="doc-biblioref">Kox 1990</a>)</span>.</p>
+<p>Stevin introduceerde heel wat neologismen (nieuwe woorden) als Nederlands alternatief voor Latijnse termen. “Omtrek” is dus ook een purisme, zoals <em>duimspijker</em> in plaats van <em>punaise</em>.</p>
+<p>Gelukkige pi-dag! Dat verdient een taartje (tiens, waarom geen “pie-tje”?)</p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-Britannica2021" class="csl-entry" role="listitem">
+Britannica, T. Editors of Encyclopaedia. 2021. <span>“Pi.”</span> <em>Encyclopedia Britannica</em>. <a href="https://www.britannica.com/science/pi-mathematics">https://www.britannica.com/science/pi-mathematics</a>.
 </div>
+<div id="ref-etymonline_pi" class="csl-entry" role="listitem">
+Harper, Douglas. 2024. <span>“Etymology of Pi.”</span> <em>Online Etymology Dictionary</em>. <a href="https://www.etymonline.com/search?q=pi">https://www.etymonline.com/search?q=pi</a>.
 </div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+<div id="ref-kox1990stevin" class="csl-entry" role="listitem">
+Kox, A. J., ed. 1990. <em>Van Stevin Tot Lorentz. Portretten van Achttien Nederlandse Natuurwetenschappers</em>. 2e herziene uitgave. Amsterdam: Bert Bakker.
+</div>
+</div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{de_cuypere2026,
+  author = {De Cuypere, Ludovic},
+  title = {Pi},
+  date = {2026-03-14},
+  url = {https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-de_cuypere2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+De Cuypere, Ludovic. 2026. <span>“Pi.”</span> March 14, 2026. <a href="https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/">https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

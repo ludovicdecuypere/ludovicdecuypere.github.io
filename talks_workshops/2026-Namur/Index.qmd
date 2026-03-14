@@ -16,6 +16,8 @@ categories: [English L2, Language acquisition, Turkish L1, Motion event expressi
 image: baahepic.jpg
 ---
 
+This talk was delivered at BAAHE 2025 - Language and literature across the lifespan. 11–12 Dec 2025, UNAmur. 
+
 ### Slides
 
 ```{=html}
