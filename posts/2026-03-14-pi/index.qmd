@@ -15,7 +15,7 @@ Vandaag is het 14 maart 2026. Ook bekend als $pi$-dag!
 
 Wat heeft $pi$ nu met taal te maken, hoor ik u denken? 
 
-De Griekse letter Pi $pi$ is gekende symbool voor het getal $3,1415...$ enz. 
+De Griekse letter Pi $pi$ is het gekende symbool voor het getal $3,1415...$. 
 
 $pi$ is gelijk aan de constante verhouding tussen de omtrek van een cirkel en de diameter ervan. 
 
@@ -49,11 +49,13 @@ Interessant, maar wat heeft dit met taal te maken?
 
 Waarom gebruiken we het symbool $pi$? 
 
-Welnu, $pi$ werd als wiskundig symbool voor het eerst gebruikt door William Jones in 1706 en later gepopulariseerd worden door Leonhard Euler [@Britannica2021].
+Welnu, $pi$ werd als wiskundig symbool voor het eerst gebruikt door William Jones in 1706. Het symbool zou later gepopulariseerd worden door Leonhard Euler [@Britannica2021].
 
-William Jones was niet enkel een wiskundige. In de taalwetenschap is Jones vooral bekend vanwege zijn inzichten in de taalverwantschap tussen Sanskriet, Latijn, Gothisch, Keltisch, enz. Jones was een van de eerste die opmerkelijke gelijkenissen vastgesteld heeft tussen deze talen.
+William Jones was een wiskundige, maar ook een van de eerste filologen. 
 
-Ondertussen weten we dat deze talen evolutionair verwant zijn en dat deze talen behoren tot dezelfde taalfamilie, het Indo-Europees, en dat deze talen historisch terug te brengen zijn tot het Proto-Indo-Europees. 
+In de taalwetenschap is William Jones vooral bekend vanwege zijn inzichten in de taalverwantschap tussen talen als Sanskriet, Latijn, Gothisch, Keltisch, enz. Jones was een van de eersten die opmerkelijke gelijkenissen vastgesteld heeft tussen deze talen.
+
+Ondertussen weten we dat deze talen evolutionair verwant zijn en dat deze talen behoren tot dezelfde taalfamilie, het Indo-Europees, en dat deze talen (incl. het Nederlands) historisch terug te brengen zijn tot het Proto-Indo-Europees. 
 
 Maar waarom gebruikte Jones de term $pi$? 
 
