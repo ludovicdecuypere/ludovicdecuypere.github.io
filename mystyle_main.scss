@@ -30,8 +30,8 @@ $link-color: $black;
 .navbar-title {
   font-family: $font-family-sans-serif !important;
   text-transform: uppercase;
-  font-weight: 400;
-  font-size: 0.75rem;
+  font-weight: 500;
+  font-size: 1.2rem;
 }
 
 .nav-link {
@@ -39,7 +39,7 @@ $link-color: $black;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-weight: 400;
-  font-size: 0.75rem;
+  font-size: 0.80rem;
   position: relative; // Context for the underline
   padding-bottom: 2px;
   margin-left: 5px;

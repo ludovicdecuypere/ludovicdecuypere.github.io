@@ -1,0 +1,122 @@
+---
+title: "genAI guidelines"
+date: 2026-04-30
+categories: [genAI, guidelines, education]
+citation:
+  url: https://ludovicdecuypere.github.io/posts/2026-04-30-genAI_guidelines/
+image: genaiguidelines.png
+draft: false
+format:
+  html:
+    mainfont: sans-serif
+---
+
+### Preamble
+
+Using OpenAi ChatGPT 4.0, I created a set of personal guidelines of what students are allowed to do with genAI and what is prohibited. This is obviously work in progress and I might change my mind later on.
+
+Providing detailed prompts and editorial directions, I reviewed and edited the responses and integrated with original material.
+
+The guiding principles behind these guidelines are intellectual **ownership**, **accountability**, and **responsibility**.
+
+As a general guideline, Generative Artificial Intelligence (genAI) or Large Language Models (LLM) may only serve as a language or thinking aid, never as a surrogate for scholarly authorship or reasoning.
+
+## Guidelines
+
+#### 1. Literature Review and Theoretical Framework
+
+-   Allowed:
+
+    -   Discovering relevant keywords.
+    -   Exploring possible search strategies.
+    -   Brainstorming relevant topics, theories, schools of thought, or authors.
+    -   Explaining complex concepts.
+
+-   Prohibited:
+
+    -   Writing the literature review or background section.
+    -   Synthesizing and comparing sources without direct engagement.
+
+#### 2. Study Design and Methodology
+
+-   Allowed:
+
+    -   Exploring different research designs or data collection strategies.
+    -   Asking for pros and cons of methods or instruments.
+    -   Refining research questions or hypotheses.
+
+-   Prohibited:
+
+    -   Relying on genAI to select methodology without student understanding.
+    -   Submitting AI-generated mock designs without adaptation by the student.
+
+#### 3. Data Analysis
+
+-   Allowed (Quantitative Research)
+
+    -   Exploring data analytic strategies.
+    -   Generating example code.
+    -   Data annotation (e.g., Part of Speech annotation)
+    -   Creating mock datasets for practice and understanding.
+    -   Assistance with the interpretation of code output.
+    -   Explaining statistical tests/models
+    -   Debugging code
+
+-   Prohibited (Quantitative Research)
+
+    -   Submitting analyses performed by genAI without verification.
+    -   Using genAI to interpret findings or draw conclusions without understanding.
+    -   Presenting statistical output without understanding its origin.
+
+-   Allowed (Qualitative Research)[^1]
+
+    -   Organizing field notes
+    -   Suggesting preliminary codes or patterns
+    -   Exploring thematic clusters
+    -   Drafting, editing, and tailoring questions or statements (survey/interview/focus groups)
+    -   Transcribing raw data (e.g., with Whisper)
+
+-   Prohibited (Qualitative Research)
+
+    -   Creating fake data (interview transcripts, fictional quotes, or made-up ethnographic observations)
+    -   Letting genAI interpret participant narratives without human oversight
+    -   Drawing conclusions or coding without researcher validation
+    -   Uploading sensitive transcripts to AI platforms without proper anonymization or consent
+    -   Use genAI when working with personal or protected data.
+    -   Presenting genAI summaries or visuals as original researcher insights
+
+[^1]: Qualitative data that involves personal data requires special care. The use of personal data should comply with GDPR.
+
+#### 4. GenAI Use in Academic Writing
+
+The guiding principle here is that students may only use genAI to correct or edit their own writings.
+
+-   Allowed
+
+    -   Editing and proofreading: grammar, spelling, punctuation, and word choice.
+    -   Stylistic refinement: improving clarity, tone, and register
+    -   Reordering content for readability or flow.
+
+-   Prohibited
+
+    -   Automated drafting and ghostwriting of full paragraphs or chapters.
+
+### Checklist for students
+
+-   I used genAI to explore keywords or source suggestions.
+-   I read and evaluated all sources myself.
+-   I wrote the literature review in my own words.
+-   I used genAI only to clarify difficult terms or theories.
+-   I wrote the theoretical background and conceptual explanations myself.
+-   I understand and can explain the theories or models I used.
+-   I used genAI only to brainstorm or compare possible research designs.
+-   I can explain why I chose a particular method or design.
+-   I used genAI to understand or debug data analysis code or concepts.
+-   I did not rely on genAI to perform the full analysis without review.
+-   I can justify every step of the analysis and explain the results.
+-   Any genAI-generated code was tested, modified, and understood by me.
+-   I wrote the results and discussion section myself.
+-   genAI only helped me edit or improve spelling, grammar, or clarity.
+-   I revised all genAI suggestions to ensure they reflect my thinking.
+-   I disclosed my use of genAI and retained records of genAI prompts and outputs.
+-   I understand everything in my thesis and can defend it independently.

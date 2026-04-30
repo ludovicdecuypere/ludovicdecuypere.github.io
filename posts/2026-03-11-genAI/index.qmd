@@ -1,7 +1,7 @@
 ---
 title: "Effect van genAI op arbeidsmarkt"
 date: 2026-03-11
-categories: [LLM, genAI, vacatures, data visualisatie]
+categories: [LLM, genAI, arbeidsmarkt, taalprofessional]
 citation:
   url: https://ludovicdecuypere.github.io/posts/2026-03-11-genAI/
 image: SIDIN.png
