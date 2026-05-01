@@ -13,13 +13,11 @@ format:
 
 ### Preamble
 
-Using OpenAi ChatGPT 4.0, I created a set of personal guidelines of what students are allowed to do with genAI and what is prohibited. This is obviously work in progress and I might change my mind later on.
-
-Providing detailed prompts and editorial directions, I reviewed and edited the responses and integrated with original material.
+Using OpenAi ChatGPT 4.0, I created a set of guidelines of what I believe students are allowed to do with genAI and what is prohibited. This is obviously work in progress and changes might be necessary as time goes by.
 
 The guiding principles behind these guidelines are intellectual **ownership**, **accountability**, and **responsibility**.
 
-As a general guideline, Generative Artificial Intelligence (genAI) or Large Language Models (LLM) may only serve as a language or thinking aid, never as a surrogate for scholarly authorship or reasoning.
+As a general guideline, Generative Artificial Intelligence (genAI) or Large Language Models (LLM) may only serve as a language or thinking *aid*, never as a surrogate for scholarly authorship or reasoning.
 
 ## Guidelines
 

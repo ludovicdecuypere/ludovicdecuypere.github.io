@@ -30,16 +30,16 @@ $link-color: $black;
 .navbar-title {
   font-family: $font-family-sans-serif !important;
   text-transform: uppercase;
-  font-weight: 500;
-  font-size: 1.2rem;
+  font-weight: 300;
+  font-size: 1.7rem;
 }
 
 .nav-link {
   font-family: $font-family-sans-serif !important;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  font-weight: 400;
-  font-size: 0.80rem;
+  font-weight: 300;
+  font-size: 1rem;
   position: relative; // Context for the underline
   padding-bottom: 2px;
   margin-left: 5px;
@@ -85,6 +85,11 @@ body {
   line-height: 1.2;
   color: $medium-gray;
   -webkit-font-smoothing: antialiased;
+}
+
+.title {
+  font-weight: 400;
+  font-size: 2rem; 
 }
 
 .subtitle {

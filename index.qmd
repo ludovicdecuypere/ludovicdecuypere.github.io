@@ -1,6 +1,5 @@
 ---
-title: "Ludovic De Cuypere"
-subtitle: "Language  Research  Communication"
+title: "Language  Research  Communication"
 image: front_website.jpg
 about: 
   template: solana

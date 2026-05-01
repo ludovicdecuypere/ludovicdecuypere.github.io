@@ -1,0 +1,90 @@
+---
+title: "Stay"
+date: 2026-05-01
+categories: [interpretation, Eco, Iconicity, Intertekstualiteit]
+citation:
+  url: https://ludovicdecuypere.github.io/posts/2026-05-01-stay/
+image: stay.png
+draft: false
+bibliography: references.bib
+format:
+  html:
+    mainfont: sans-serif
+---
+Het herbekijken van een film biedt soms onverwachte nieuwe inzichten. 
+
+Zo bekeken we onlangs met de kinderen de film *E.T.* van Steven Spielberg, een klassieker in het sciencefictiongenre uit 1982. Wat mij deze keer opviel, was hoe weinig Spielberg toont en hoeveel hij suggereert. De gezichten van een groep UFO-jagers komen pas helemaal op het einde van de film in beeld, maar toch gaat er een constante dreiging van hen uit. Zoals een vin glijdend door het wateroppervlak een dreigende haai voorstelt. Net door niet te tonen creëert Spielberg spanning, een filmtechniek die Spielberg geleerd heeft van de “master of suspence” Alfred Hitchcock. Suggereer en de fantasie vult aan.
+
+Maar nog het meest werd ik getroffen door de scène waarin E.T. afscheid neemt van Elliott. E.T. vraagt Elliott om mee te komen. Elliot antwoordt op zijn beurt dat E.T. moet blijven: 
+
+> **E.T.**: Come...
+> 
+> **Elliott**: [solemnly] Stay...
+>
+> **E.T.**: [puts his finger to his glowing heart] Ouch.
+>
+> **Elliott**: [mimics the same action, tearfully] Ouch.
+>
+> **E.T.**: [E.T. and Elliott embrace each other, then E.T. puts his glowing finger to Elliott's forehead] I'll... be... right... here.
+>
+> **Elliott**: [tearfully] ... bye.
+
+Een dialoog in woorden die we begrijpen als volledige zinnen. Zoals Spielbergs visuele taal, suggereert de gesproken taal hier veel meer dan er letterlijk gezegd wordt. 
+
+E.T. die naar zijn hart wijst en “ouch” zegt: we begrijpen onmiddellijk dat hij hartzeer heeft van het afscheid. Er wordt weinig gezegd en getoond, maar des te meer wordt er bedoeld. En de we vullen aan en begrijpen perfect wat er bedoeld wordt.
+
+In deze scene werd ik het meest getroffen getroffen – quasi Proustiaans – door het woord “stay”. "Stay" speelt immers ook een prominente rol in een andere klassieker uit het sciencefictiongenre: *Interstellar* van Christopher Nolan (2014). 
+
+Dochter Murphy heeft de geheime code gebroken van de “geest” in haar kamer. Dit “spook” – in werkelijkheid haar vader die contact maakt uit de toekomst – heeft in morsecode het woord “stay” geschreven: 
+
+> **Murphy**: I figured out the message. 
+>             One word. Know what it is? “Stay.”
+>             It says, “Stay,” Dad.
+>
+> **Cooper**: (whispers) Murph.
+>
+> **Murph**:  You don’t believe me. 
+>             Look at the books!
+>             Look at this. 
+>             It says, “Stay.” 
+>             Why… You’re not listening! 
+>             It says, “Stay!”
+
+Murphy heeft dus ontdekt dat “iemand” probeert duidelijk te maken dat haar vader moet blijven, wat hij uiteindelijk niet doet en waardoor Murphy haar vader een leven lang moet missen. 
+
+Zowel de stay-scene in *E.T.* als in *Interstellar* vormen een kantelpunt in de film en zijn zeer emotioneel geladen.
+
+In *Interstellar* wordt dit kantelpunt nog versterkt door de soundtrack, en meer bepaald door het nummer *S.T.A.Y.*. Ondertussen is dit nummer uitgegroeid tot een van de zovele iconische werken van Hans Zimmer. 
+
+Had Nolan *E.T.* in gedachten bij de creatie van *Interstellar*? Of zie ik spoken? 
+Mijn ervaring kan ik niet ontkennen. Deze ervaring - een effect op basis van gelijkenis - is wat ik als *iconiciteit* beschouw. De gelijkenis tussen de twee films, uitgedrukt in het woord “stay”, resoneert bij mij - en misschien nu ook bij de lezer - een iconisch effect.
+
+Dergelijke gelijkenissen tussen films, teksten en kunstwerken in het algemeen zijn natuurlijk geen spectaculair nieuw inzicht; kunstgeschiedenis is een weefsel van intertekstuele verbanden.
+
+*E.T.* vormt als het ware een omkering van het bekende thema uit de sciencefiction: gaan waar niemand ooit is geweest (“to boldly go where no one has gone before”). In *Interstellar* vertrekt Cooper uit noodzaak, niet omdat hij de ruimte wil verkennen. Eliott daarentegen blijft waar hij is. 
+
+Men kan de vraag stellen of deze intertekstuele interpretatie correct is. Dan moeten we eerst weten wat we bedoelen met een “correcte” interpretatie. Wat kunnen we als de correcte interpretatie van een kunstwerk beschouwen? Daarop kunnen verschillende antwoorden gegeven worden.
+
+Je kunt argumenteren dat het kunstwerk alle interpretaties toelaat en dat alle interpretaties per definitie dus “correct” zijn – het kunstwerk is dan "polyinterpretabel". Deze visie werd onder meer ontwikkeld door Umberto Eco, die in *Opera aperta* [@eco1962] argumenteert dat een kunstwerk “open” is en dat het de rol is van de lezer (of kijker) om het werk te interpreteren. Het kunstwerk als instigator van gedachten. Via tekens prikkelt het kunstwerk de toeschouwer om verder aan te vullen.   
+
+Interpretatie is hierbij een proces waarbij “tekens” (taaltekens, visuele tekens, geluiden en klanken) telkens nieuwe verbanden oproepen en naar andere tekens verwijzen: “stay” in *E.T.* verwijst naar “stay” uit *Interstellar*. *Interstellar* verwijst naar de ruimte, wat dan weer doet denken aan *Star Trek*, dat op zijn beurt doet denken aan warp speed, *Warp* is een muzieklabel, enzovoort. En de interpretatietrein is vertrokken. 
+
+Eco verfijnde deze zeer “open” visie op interpretatie in zijn later werk. Hij vond immers dat niet elke interpretatie evenwaardig is en dat het kunstwerk niet “alle mogelijke interpretaties” toelaat. Volgens Eco zijn er niet zozeer “incorrecte” interpretaties, maar wel “overintrepretaties”, waarbij er te veel in het kunstwerk geprojecteerd wordt door de lezer of de toeschouwer.
+
+In een lezingenreeks uit 1990 (beschikbaar als Eco [-@eco1992interpretation], stelt Eco dat de tekst een eigen “intentie” heeft. Hij maakt daarbij een onderscheid tussen drie soorten intenties.
+
+Eerst is er de intentie van de auteur (de *intentio auctoris*): wat was de bedoeling van de auteur? Je zou kunnen stellen dat de enige juiste interpretatie samenvalt met de oorspronkelijke bedoeling of betekenis die de maker van het kunstwerk in gedachten had. Het spreekt voor zich dat dit een vrij enge invulling wordt van wat als correct beschouwd mag worden.
+
+Ten tweede is er de intentie van de lezer (de *intentio lectoris*): dit omvat alle mogelijke interpretaties die lezers kunnen hebben Dit is de breedste invulling van het begrip interpretatie. Alles wat de lezer ziet of toevoegt is correct, of dat nu zo bedoelt was door de auteur of niet is irrelevant.
+
+De derde intentie is die van de tekst zelf (de *intentio operis*) en die situeert zich volgens Eco tussen die van de auteur en die van de lezer.
+
+Niet alle interpretaties zijn volgens Eco correct in relatie tot de tekst, al zijn er wel meer interpretaties mogelijk dan wat de auteur oorspronkelijk in gedachten had. 
+
+De intentie van de tekst is een complex concept, maar het komt erop neer dat een geldige interpretatie coherent, relevant en zelfs falsifieerbaar moet zijn - je moet de interpretatie als hypothese kunnen formuleren, toetsen en vervolgens al dan niet verwerpen. 
+
+Dat Spielberg zou refereren naar *Interstellar* kan feitelijk weerlegt worden - dit is dus een verkeerde interpretatie volgens de intentie van de tekst. Het omgekeerde is echter niet het geval; het gebruik van “stay” in *Interstellar* als verwijzing naar E.T. en als thema of “topos” in de science fiction lijkt me wel een relevante en coherente interpretatie, en dus correct volgens de intentie van de tekst.
+
+“Staying Alive” van de Bee Gees lijkt me bijvoorbeeld ook geen vruchtbare connectie om *E.T.* te interpreteren. “Should I stay or should I go” van The Clash, wat eerder over een liefdesrelatie gaat, evenmin. Dit zijn dus mogelijke correcte interpretaties volgens de intentie van de lezer, maar niet volgens de intentie van de tekst omdat ze niet coherent zijn met en niets toevoegen aan de narratieve structuur van E.T.
+
+Eenduidige criteria om te operationaliseren wat een correcte intentie van de tekst is, heeft Eco echter niet geformuleerd en het lijkt me ook zeer moeilijk om die eenduidig vast te leggen. Toch is het onderscheid tussen de drie intenties waardevol, omdat het aantoont dat er verschillende mogelijke antwoorden zijn op de vraag wat de “correcte” interpretatie van een tekst is. Ik beschouw de drie intenties als stimulerende theoretische concepten om over te filosoferen en om een kunstwerk in zijn volledigheid te appreciëren. 
