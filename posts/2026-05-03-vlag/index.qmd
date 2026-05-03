@@ -11,13 +11,13 @@ format:
     mainfont: sans-serif
 ---
 
-Ik had het in mijn vorige blogpost ([Blog Stay](https://ludovicdecuypere.github.io/posts/26-05-01-stay/)) nog maar net over de verschillende manieren waarop een kunstwerk geïnterpreteerd kan worden, en vandaag dient zich al een interessante casus aan.
+Ik had het in mijn vorige blogpost nog maar net over de verschillende manieren waarop een kunstwerk geïnterpreteerd kan worden, en vandaag dient zich al een interessante casus aan.
 
 Peter De Roover reageert op Facebook op een bericht op de VRT‑website waarin het nieuwe standbeeld van Banksy wordt geïnterpreteerd als een “waarschuwing voor verblindend nationalisme”. Ik deel hier het VRT‑bericht; de gesuggereerde interpretatie staat als bijschrift onder de afbeelding van het nieuwe kunstwerk.
 
 ![](wimdemaeseneerbelga.jpg){width="338"}
 
-Peter De Roover vraagt zich terecht in zijn Facebookreactie af waarom deze interpretatie zich uitsluitend op “nationalisten” zou richten. Zoals hij opmerkt, zijn het niet alleen nationalisten die met vlaggen zwaaien. Bovendien verscheen het kunstwerk daags vóór 1 mei, een dag waarop socialisten traditioneel met vlaggen zwaaien tijdens de Dag van de Arbeid. Ik deel hier zijn reactie:
+Peter De Roover vraagt zich in zijn Facebookreactie terecht af waarom deze interpretatie zich uitsluitend op “nationalisten” zou richten. Zoals hij opmerkt, zijn het niet alleen nationalisten die met vlaggen zwaaien. Bovendien verscheen het kunstwerk daags vóór 1 mei, een dag waarop er ook wel met vlaggen gezwaaid wordt. Ik deel hier zijn reactie:
 
 ![](peterderoverbanksy.png){width="439"}
 
@@ -27,7 +27,7 @@ Peter De Roover wijst onder meer op de intentie van de kunstenaar zelf, en stelt
 
 Dat het standbeeld van Banksy uitsluitend over nationalistische vlaggen zou gaan, lijkt me ook een nogal enge lezing. Het lijkt eerder een waarschuwing tegen alle vormen van blinde adoratie van macht - vlaggen kunnen verblinden.
 
-Het kunstwerk van Banksy doet mij denken aan *La Liberté guidant le peuple* van Eugène Delacroix (18).
+Het kunstwerk van Banksy doet mij denken aan *La Liberté guidant le peuple* van Eugène Delacroix.
 
 ![Bron: https://fr.wikipedia.org/wiki/La_Libert%C3%A9_guidant_le_peuple. https://creativecommons.org/publicdomain/zero/1.0/](La_Liberté_guidant_le_peuple_-_Eugène_Delacroix_-_Musée_du_Louvre_Peintures_RF_129_-_après_restauration_2024.jpg.webp)
 
