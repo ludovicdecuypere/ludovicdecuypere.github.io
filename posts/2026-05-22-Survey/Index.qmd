@@ -10,7 +10,7 @@ format:
   html:
     mainfont: sans-serif
 ---
-## Representatief
+### Representatief
 
 Van alle wetenschappers zijn sociologen de beste koorddansers.
 
@@ -45,7 +45,7 @@ $$Foutenmarge = \pm 1.96 \sqrt{\frac{0.5*0.5}{1000}} = \pm 3\%$$
 
 :::
 
-## De werkelijkheid is geen bokaal met knikkers
+### De werkelijkheid is geen bokaal met knikkers
 
 Nu zullen sommige lezers opmerken: “ja maar, ik heb liever cocktailsaus”, of “hoe weten we dat die proefpersonen niet liegen?”, ook mogelijk: “ik heb graag ketchup, maar als er stoofvlees is, dan liever mayonaise”, of “is het vegan mayonaise?”. 
 
@@ -55,7 +55,7 @@ In theorie kun je ook met een kleine steekproef een correcte schatting maken.
 
 Veronderstel dat we met tien pijltjes naar een dartsbord gooien en dat de pijltjes in een grote cirkel rond de roos terechtkomen. Veronderstel bovendien dat de roos het correcte populatiepercentage voorstelt (het percentage mayonaise-eters). Ook al is de cirkel van pijltjes heel groot (de variabiliteit), dan nog zal het middelpunt ervan dicht bij de roos liggen en is het gemiddelde op basis van de pijltjes dus een correcte schatting — toevallig, maar correct. Voor hetzelfde geld gooien we alle pijltjes in de 17 - zoals een slechte steekproef vertekend (*gebiased*) is - en is de schatting volledig verkeerd. Een grotere steekproef kan de schatting preciezer maken, maar een vertekende steekproef kan die niet corrigeren.  
 
-## Verbanden zoeken
+### Verbanden zoeken
 
 Stel dat we wensen te weten wie liever mayonaise heeft in plaats van ketchup. In een enquête is het gemakkelijk om al die gegevens op te vragen: geslacht, leeftijd, opleidingsniveau, inkomen, eetgewoonte, enz. Vragen staat vrij, maar betrouwbare antwoorden krijgen is moeilijk.
 
@@ -63,7 +63,7 @@ Bovendien, hoe meer factoren we bevragen, hoe meer subgroepjes we maken in de da
 
 Er bestaan ook manieren om complexere steekproeven te nemen en om rekening te houden met de verschillende groepen in de data. Je kunt specifieke groepen in de populatie onderscheiden en binnen elke groep een steekproef nemen. Als je weet hoe sommige factoren verdeeld zijn in de populatie, kun je de steekproef achteraf corrigeren. Stel dat de populatie ongeveer evenveel mannen als vrouwen heeft, en je steekproef daarentegen slechts 30% mannen, dan kun je de schatting “corrigeren” door de antwoorden van de mannen zwaarder te laten meetellen. Opnieuw: gemakkelijker gezegd dan gedaan.
 
-## De Foto van Vlaanderen
+### De Foto van Vlaanderen
 
 Indien de steekproef die voor het VRT-onderzoek de *Foto van Vlaanderen* gemaakt werd vrij representatief is, dan kunnen daar inderdaad enkele algemene conclusies uit getrokken worden.
 
@@ -76,7 +76,7 @@ Een van de resultaten is dat 26% zich bang of verdrietig voelt door de oorlogen 
 
 De enquête maakt ook een onderscheid op basis van enkele persoonsgebonden factoren, zoals geslacht en leeftijd. Zoals hierboven toegelicht is het al iets moeilijker om ook voor die subgroepen een betrouwbare steekproef te nemen. Maar ook hier heb ik weinig redenen om sterk te twijfelen aan de kwaliteit van het onderzoek. Zoals gezegd: geen enkele steekproef is perfect.
 
-## Duiden, verklaren, speculeren
+### Duiden, verklaren, speculeren
 
 Maar nu begint het. 
 
@@ -102,7 +102,7 @@ Een andere mogelijke verklaring die naar voren wordt gebracht is de manosfeer. �
 
 Haslop et al. [-@haslop2024] is een vrij recent kwalitatief onderzoek dat een verband suggereert tussen de manosfeer (Andrew Tate) en toenemende misogynie en homofobie, maar in hoeverre kunnen we deze resultaten — die zeker geen "groot effect" van de manosfeer aantonen, maar eerder een indicatie — extrapoleren naar Vlaanderen? Dat we sociale media dan maar moeten verbieden voor jongeren, vinden Haslop et al. alvast geen goed idee. Was het maar zo simpel! 
 
-## Kleine visjes
+### Kleine visjes
 
 In *De Afspraak* op VRT Canvas (dinsdag 19 mei) bracht Maarten Boudry aan het licht dat er wel degelijk resultaten waren over afkomst, maar dat de VRT beslist had om die resultaten niet te delen, omdat de subgroep van personen met buitenlandse afkomst te klein was om er betrouwbare uitspraken over te doen. Op zich is dat een methodologisch correcte redenering van de VRT en bevestigt wat ik hierboven beargumenteerd heb. Maar het is geen goede reden om de resultaten dan maar gedeeltelijk weer te geven (Over het niet delen van resultaten en data kom ik later nog terug.) 
 
@@ -122,7 +122,7 @@ Mij lijkt het tegendeel waar te zijn, afgaand op de sociale mediasfeer. We zijn 
 
 De stijging in homofobie en misogynie is een dwingend maatschappelijk vraagstuk dat ernstig en grondig onderzoek verdient, zowel met grootschalige enquêtes als met kwalitatief onderzoek (focusgroepen, interviews), eventueel aangevuld met experimenteel gedragsonderzoek om het effect van sociale media grondiger te meten. Ik ben geen socioloog, en misschien zijn er al onderzoeksvoorstellen in de richting waarvoor ik hier pleit; grote maatschappelijke vraagstukken verdienen *big science* (en misschien ook wel *slow science*).
 
-## Open science
+### Open science
 
 Tot slot nog iets over het gebrek aan transparantie bij De Foto van Vlaanderen. 
 
