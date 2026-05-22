@@ -1,0 +1,139 @@
+---
+title: "Survey"
+subtitle: "Methodologische opmerkingen bij de Foto van Vlaanderen."
+date: 2026-05-22
+categories: [representativiteit, foutenmarge, Foto van Vlaanderen, survey]
+image: Survey.jpg
+bibliography: references.bib
+draft: false
+format:
+  html:
+    mainfont: sans-serif
+---
+## Representatief
+
+Van alle wetenschappers zijn sociologen de beste koorddansers.
+
+Enerzijds ontwarren ze het maatschappelijk weefsel en zoeken ze naar tendensen en signalen, anderzijds willen ze al te simplistische en potentieel stigmatiserende conclusies vermijden op basis van onvolledige data.
+
+Statistiek is een geweldig instrument om op basis van een beperkte steekproef uitspraken te doen over een grotere populatie, als de steekproef het toelaat om een betrouwbare uitspraak te doen.
+
+Het kernwoord daarbij is “representativiteit”. 
+
+De elementen in de steekproef moeten een correcte weergave zijn van de populatie waarover men een uitspraak wil doen.
+
+Als je wil weten wat jongeren in Vlaanderen vinden over het verbieden van alcohol voor minderjarigen, dan is het vanzelfsprekend geen goed idee om enkel een enquête af te nemen op zaterdagavond aan de uitgang van een lokale dorpsfuif.
+
+Een representatieve steekproef moet een betrouwbare afspiegeling zijn van de populatie. In het ideale geval bestaat er een lijst die de populatie omvat. Idealiter kun je alle personen op die lijst bereiken. Vervolgens wil je ook dat de personen die je contacteert voor de enquête bereid zijn om mee te werken en dat ze ook nog eens eerlijk antwoorden. Allemaal gemakkelijker gezegd dan gedaan.
+
+In tegenstelling tot wat vaak wordt gedacht, is niet zozeer de omvang van de steekproef bepalend voor de vraag of een steekproef een “goede” steekproef is. 
+
+Een steekproef is representatief als elk element uit de populatie evenveel kans heeft om geselecteerd te worden. Vroeger was de telefoon (en het telefoonboek) een vrij handig instrument om deelnemers voor een enquête te selecteren. Ook dat was niet ideaal, maar hoe kunnen we tegenwoordig “jongeren in Vlaanderen” willekeurig selecteren? Opnieuw: gemakkelijker gezegd dan gedaan.
+
+Over die steekproefgrootte. Stel dat we een populatie hebben van 1 miljoen mensen en dat we een perfecte lijst hebben om uit te selecteren en mensen te contacteren. Stel dat we willen weten welke saus die mensen op hun frieten verkiezen: mayonaise of ketchup. Dan volstaat een aselecte steekproef van 1000 personen om een vrij nauwkeurige schatting te maken van de bestaande voorkeur in de populatie.
+
+Statistiek laat toe om de nauwkeurigheid te berekenen op basis van de zogenaamde foutenmarge Voor een steekproef van duizend participanten (deelnemers aan de enquête) bedraagt de maximale fout ongeveer 3% (boven en onder het geschatte percentage voor een van beide sauzen). Als er in onze steekproef van 1000 mensen 700 zijn die liever mayonaise hebben dan ketchup, dan kunnen we concluderen dat 70% van onze populatie mayonaise verkiest, met een maximale foutenmarge van 3%. Dat betekent dat onze schatting tussen de 67% en 73% zal liggen, wat vrij nauwkeurig is.
+
+::: {.callout-note title="De Foutenmarge"}
+
+Wanneer we een proportie schatten op basis van een steekproef dan schatten we de foutenmarge als volgt: 
+
+$$Foutenmarge = \pm 1.96 \sqrt{\frac{p(1-p)}{n}}$$
+Als $p$ staat voor het percentage dat mayonaise verkiest, dan staat $1-p$ voor het percentage dat ketchup verkiest. De foutenmarge is het grootst als $p=0.50$. Als we 1000 participanten hebben dan hebben we: 
+
+$$Foutenmarge = \pm 1.96 \sqrt{\frac{0.5*0.5}{1000}} = \pm 3\%$$
+
+:::
+
+## De werkelijkheid is geen bokaal met knikkers
+
+Nu zullen sommige lezers opmerken: “ja maar, ik heb liever cocktailsaus”, of “hoe weten we dat die proefpersonen niet liegen?”, ook mogelijk: “ik heb graag ketchup, maar als er stoofvlees is, dan liever mayonaise”, of “is het vegan mayonaise?”. 
+
+Tussen de papieren statistiek en de harde realiteit staan veel obstakels in de weg. Elk statistisch model van de realiteit is fout, maar sommige modellen zijn bruikbaarder dan andere.
+
+In theorie kun je ook met een kleine steekproef een correcte schatting maken. 
+
+Veronderstel dat we met tien pijltjes naar een dartsbord gooien en dat de pijltjes in een grote cirkel rond de roos terechtkomen. Veronderstel bovendien dat de roos het correcte populatiepercentage voorstelt (het percentage mayonaise-eters). Ook al is de cirkel van pijltjes heel groot (de variabiliteit), dan nog zal het middelpunt ervan dicht bij de roos liggen en is het gemiddelde op basis van de pijltjes dus een correcte schatting — toevallig, maar correct. Voor hetzelfde geld gooien we alle pijltjes in de 17 - zoals een slechte steekproef vertekend (*gebiased*) is - en is de schatting volledig verkeerd. Een grotere steekproef kan de schatting preciezer maken, maar een vertekende steekproef kan die niet corrigeren.  
+
+## Verbanden zoeken
+
+Stel dat we wensen te weten wie liever mayonaise heeft in plaats van ketchup. In een enquête is het gemakkelijk om al die gegevens op te vragen: geslacht, leeftijd, opleidingsniveau, inkomen, eetgewoonte, enz. Vragen staat vrij, maar betrouwbare antwoorden krijgen is moeilijk.
+
+Bovendien, hoe meer factoren we bevragen, hoe meer subgroepjes we maken in de data en hoe groter de kans dat je heel kleine groepjes krijgt waarover je geen betrouwbare uitspraken meer kunt doen. In de enquête van de VRT “Foto van Vlaanderen” zitten er zes participanten met de Spaanse nationaliteit. Het is evident dat je over zes personen geen betrouwbare uitspraken kunt doen, laat staan dat je binnen die groep ook nog eens zou kijken naar andere eigenschappen van die personen. Een conclusie op basis van zes personen is niet noodzakelijk verkeerd, maar wel onbetrouwbaar.
+
+Er bestaan ook manieren om complexere steekproeven te nemen en om rekening te houden met de verschillende groepen in de data. Je kunt specifieke groepen in de populatie onderscheiden en binnen elke groep een steekproef nemen. Als je weet hoe sommige factoren verdeeld zijn in de populatie, kun je de steekproef achteraf corrigeren. Stel dat de populatie ongeveer evenveel mannen als vrouwen heeft, en je steekproef daarentegen slechts 30% mannen, dan kun je de schatting “corrigeren” door de antwoorden van de mannen zwaarder te laten meetellen. Opnieuw: gemakkelijker gezegd dan gedaan.
+
+## De Foto van Vlaanderen
+
+Indien de steekproef die voor het VRT-onderzoek de *Foto van Vlaanderen* gemaakt werd vrij representatief is, dan kunnen daar inderdaad enkele algemene conclusies uit getrokken worden.
+
+Voor de *Foto van Vlaanderen* werd er “gewerkt met een representatieve steekproef (geslacht, leeftijd, opleiding, provincie) van 2.261 Vlamingen vanaf 12 jaar.” 
+(<https://www.vrt.be/vrtnws/nl/2026/05/05/foto-van-vlaanderen-onderzoek-gender-manosfeer/>). 
+
+Geen enkele steekproef is perfect, en ik heb geen reden om te twijfelen dat deze steekproef naar beste vermogen tot stand is gekomen. 
+
+Een van de resultaten is dat 26% zich bang of verdrietig voelt door de oorlogen in de wereld; dat zal allicht vrij dicht bij de waarheid liggen. Een ander resultaat is dat meer vrouwen de toekomst “eng” vinden dan mannen (51% vrouwen vs. 42% mannen). Is dat correct? Of doen mannen zich iets stoerder voor dan vrouwen? Kunnen we dat weten?
+
+De enquête maakt ook een onderscheid op basis van enkele persoonsgebonden factoren, zoals geslacht en leeftijd. Zoals hierboven toegelicht is het al iets moeilijker om ook voor die subgroepen een betrouwbare steekproef te nemen. Maar ook hier heb ik weinig redenen om sterk te twijfelen aan de kwaliteit van het onderzoek. Zoals gezegd: geen enkele steekproef is perfect.
+
+## Duiden, verklaren, speculeren
+
+Maar nu begint het. 
+
+Hoe verklaren we de resultaten van de enquête? 
+
+In de discussie naar aanleiding van de enquête ging het voornamelijk over de tendens dat jonge mannen teruggrijpen naar traditionele ideeën: dat mannen de kostwinner moeten zijn of zelfs dat mannen vrouwen zouden mogen slaan.
+
+Kunnen we op basis van de *Foto van Vlaanderen* een verklaring geven voor deze bevinding? Neen!
+
+Het artikel op de VRT-website “1 op de 3 jongeren wil geen trans persoon als vriend, vooral jonge mannen denken traditioneler” (19 mei) brengt "duiding" en citeert daarbij socioloog Cecil Meeusen:
+
+> “[J]e kan het niet verengen tot religie of origine. Wanneer we rekening houden met sociaaleconomische status, opleidingsniveau van de ouders, enzovoort, vlakken die verschillen af. Het is zeker niet zo dat die groep van jonge, conservatieve mannen hoofdzakelijk bestaat uit jongens van niet-Belgische origine.”
+
+Dat kan zijn, maar dit is geen interpretatie van de resultaten van de *Foto van Vlaanderen*! En dus ook geen “duiding” van de cijfers. Het is een mogelijke verklaring, maar de enquête zelf laat niet toe om daar een uitspraak over te doen. 
+
+Dat afkomst en religie ook — en “ook” betekent niet “allesbepalend” — een rol spelen, weten we uit *Het Jeugdonderzoeksplatform* (JOP) 2023 [@pauwels2023: 305]:
+
+> Voor de houding tegenover leden van de LGBTQ+-gemeenschap verklaart de achtergrond 8% van de variantie. Vooral jongeren uit de Maghreb-landen, gevolgd door jongeren met een achtergrond in het Midden-Oosten, de Balkan en Centraal-Azië, rapporteren een veel negatievere houding tegenover deze gemeenschap dan andere jongeren.
+
+Hetzelfde JOP-onderzoek toont bovendien een verband aan tussen levensbeschouwing en homofobie, waarbij moslim en joods significant hoger scoorden op homofobie dan niet-gelovig en christen. Maar opnieuw, dit kan niet geconcludeerd worden op basis van het VRT-onderzoek.
+
+Een andere mogelijke verklaring die naar voren wordt gebracht is de manosfeer. “Sociale media spelen een grote rol” lezen we in hetzelfde VRT-artikel. Dat is een mogelijke verklaring, maar opnieuw: dat kunnen we niet afleiden uit de *Foto van Vlaanderen*. En hoe weten we dat sociale media een "grote" rol spelen?
+
+Haslop et al. [-@haslop2024] is een vrij recent kwalitatief onderzoek dat een verband suggereert tussen de manosfeer (Andrew Tate) en toenemende misogynie en homofobie, maar in hoeverre kunnen we deze resultaten — die zeker geen "groot effect" van de manosfeer aantonen, maar eerder een indicatie — extrapoleren naar Vlaanderen? Dat we sociale media dan maar moeten verbieden voor jongeren, vinden Haslop et al. alvast geen goed idee. Was het maar zo simpel! 
+
+## Kleine visjes
+
+In *De Afspraak* op VRT Canvas (dinsdag 19 mei) bracht Maarten Boudry aan het licht dat er wel degelijk resultaten waren over afkomst, maar dat de VRT beslist had om die resultaten niet te delen, omdat de subgroep van personen met buitenlandse afkomst te klein was om er betrouwbare uitspraken over te doen. Op zich is dat een methodologisch correcte redenering van de VRT en bevestigt wat ik hierboven beargumenteerd heb. Maar het is geen goede reden om de resultaten dan maar gedeeltelijk weer te geven (Over het niet delen van resultaten en data kom ik later nog terug.) 
+
+Maar wat doet het onderzoek van de *Foto van Vlaanderen* dan meer dan bevestigen wat al geweten was? 
+
+Wat brengt het onderzoek bij, behalve een knuppel in het hoenderhok gooien en een debat genereren waarbij vooral gespeculeerd wordt over wat de resultaten kan verklaren? 
+
+Dat religie, afkomst, sociale media, opleidingsniveau en sociaaleconomische status allemaal een rol spelen, is evident en tot op zekere hoogte ook bekend. De realiteit is complex en al die factoren houden onderling verband houden. Maar welke factoren hebben het grootste effect? En welke maatregelen zouden effect kunnen hebben om het tij te keren? Met een enquête van een goede 2000 deelnemers gaan we dit niet oplossen.
+
+Een studie met een goede 2000 participanten is gemakkelijk haalbaar en betaalbaar. Maar wat is de uiteindelijke maatschappelijke impact van een al bij al beperkte peiling?
+
+Bij de *Foto van Vlaanderen* bekruipt me dan ook hetzelfde gevoel als bij de publicatiestroom in de hedendaagse wetenschap: veel kleine visjes, maar wat brengen al die kleine visjes ons echt bij? 
+
+Zijn de linker- en rechterkant van het maatschappelijke spectrum een stap dichter bij de waarheid gekomen? 
+
+Mij lijkt het tegendeel waar te zijn, afgaand op de sociale mediasfeer. We zijn ook geen stap dichter bij diepere inzichten, laat staan concrete oplossingen. 
+
+De stijging in homofobie en misogynie is een dwingend maatschappelijk vraagstuk dat ernstig en grondig onderzoek verdient, zowel met grootschalige enquêtes als met kwalitatief onderzoek (focusgroepen, interviews), eventueel aangevuld met experimenteel gedragsonderzoek om het effect van sociale media grondiger te meten. Ik ben geen socioloog, en misschien zijn er al onderzoeksvoorstellen in de richting waarvoor ik hier pleit; grote maatschappelijke vraagstukken verdienen *big science* (en misschien ook wel *slow science*).
+
+## Open science
+
+Tot slot nog iets over het gebrek aan transparantie bij De Foto van Vlaanderen. 
+
+De VRT maakte intussen de data beschikbaar — althans, als we er vriendelijk om vragen:
+
+> “Wetenschappers uit de academische wereld, die beslagen zijn in de statistiek, mogen ons zeker contacteren om te kijken naar de ruwe dataset. Alle inzichten zijn heel welkom.”
+
+In de hedendaagse wetenschap is dit niet meer de norm. 
+
+In het kader van “Open Science” wordt van wetenschappers verwacht dat onderzoeksdata volledig beschikbaar zijn, vrij toegankelijk (voor zover privacywetgeving dit toelaat), en volledig gedocumenteerd aan de hand van een codeboek.
+
+Van datajournalistiek mogen we verwachten dat die zich houdt aan de FAIR-norm: maak data “Findable” (vindbaar), “Accessible” (toegankelijk), “Interoperable” (bruikbaar op verschillende systemen) en “Reusable” (herbruikbaar). 
+
+Zoals Ivan De Vadder terecht opmerkte in *Villa Politica*, had meer transparantie vooraf veel onnodige discussie achteraf kunnen vermijden. Transparantie niet in de zin van een *datadump*, maar in de zin van toegankelijke open data. De hele polemiek over het al dan niet verdoezelen van data was in de kiem gesmoord.

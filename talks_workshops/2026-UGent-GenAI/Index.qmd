@@ -1,0 +1,19 @@
+---
+title: "GenAI & Large Language Models"
+subtitle: "Gastles: Inleiding tot taal en tekststructuren"
+author:
+  - name: Ludovic De Cuypere
+    orcid: 0000-0002-0050-1097
+    affiliations: Vrije Universiteit Brussel/Ghent University
+date: 2026-05-08
+categories: [Gastcollege, LLM, GenAI]
+image: baahepic.jpg
+---
+
+Dit zijn de slides voor een gastcollege van 1 uur in het kader van het vak *Inleiding tot Taal- en Tekststructuren*, academiejaar 2025-2026. Studenten krijgen een inleiding tot genAI en LLM, met een kort overzicht van de opportuniteiten en de mogelijke valkuilen. Het UGent-beleid rond GenAI wordt kort toegelicht.
+
+### Slides
+
+```{=html}
+<iframe width="780" height="500" src="ITT_intro_LLM.html" title="UGent Gastcollege GenAI"></iframe>
+```
