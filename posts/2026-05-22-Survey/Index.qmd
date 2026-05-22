@@ -3,7 +3,7 @@ title: "Survey"
 subtitle: "Methodologische opmerkingen bij de Foto van Vlaanderen."
 date: 2026-05-22
 categories: [representativiteit, foutenmarge, Foto van Vlaanderen, survey]
-image: Survey.jpg
+image: Survey.png
 bibliography: references.bib
 draft: false
 format:
