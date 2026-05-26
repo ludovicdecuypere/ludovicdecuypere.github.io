@@ -76,7 +76,33 @@ Het lam Gods vormt aldus de kern van het Christendom.
 
 ### Abraham en Isaak in het Oud-Engels
 
-Hier volgt de passage waar Abraham op het punt staat om Isaac te doden. Ik bespreek daarbij enkele opvallende taalkundige observaties.
+Hier volgt de passage waar Abraham op het punt staat om Isaac te doden:^[bron Oud-Engels: <https://stella.glasgow.ac.uk/readings/?oe-2>. Eigen vertaling]
+
+:::: {.columns }
+
+::: {.column width="50%" style="font-size: 80%;"}
+Þa comon hie to þære stowe; and he þær weofod arærde on þa ealdan wisan.
+
+Þa band he his sunu, and his sweord ateah. 
+
+þa he wolde þæt weorc beginnan, þa clipode Godes engel arodlice of heofonum: 'Abraham!' 
+
+He andswarode sona. Se engel him cwæþ to: 'Ne acwele þu þæt cild!'."
+:::
+
+::: {.column width="50%" style="font-size: 80%;"}
+Dan kwamen ze aan op de plaats; en hij maakte daar een altaar op de oude wijze. 
+
+Dan bond hij zijn zoon vast, en trok zijn zwaard. 
+
+Toen hij aan het werk wou beginnen, riep plotseling Gods engel uit de hemel: "Abraham!". 
+
+Hij reageerde meteen. De engel sprak hem toe: "dood het kind niet!".
+:::
+
+::::
+
+Ik bespreek hieronder enkele opvallende taalkundige observaties per vers.
 
 ```{r}
 #| echo: false
@@ -165,8 +191,8 @@ Het is niet ongebruikelijk om bijvoorbeeld te lezen: *Wouter's kwaliteitsvis*. E
 #| echo: false
 my_gloss <- as_gloss(
   original = gloss_format_words("He andswarode sona.", "textbf"),
-  parsed = "Hij antwoordde onmiddellijk.",
-  translation = "Hij [Abraham] reageerde onmiddellijk", 
+  parsed = "Hij antwoordde meteen",
+  translation = "Hij [Abraham] reageerde meteen", 
   source = "",
   numbering = FALSE
 )
