@@ -1,0 +1,172 @@
+---
+title: "Bedreigde talen"
+date: 2026-06-05
+categories: [talen van de wereld, data visualisatie, bedreigde talen, R]
+citation:
+  url: https://ludovicdecuypere.github.io/posts/2026-06-05-bedreigd/
+image: bedreigd.png
+draft: false
+bibliography: references.bib
+format:
+  html:
+    mainfont: sans-serif
+    lang: nl
+---
+### Talen van de wereld
+
+Er zijn naar schatting tussen de 6000 à 8000 talen in de wereld. Een twintigtal talen wordt gesproken door ongeveer 3,6 miljard mensen, maar bijna de helft van alle talen telt minder dan 1000 sprekers en is daardoor met uitsterven bedreigd. En zonder geschreven of gesproken opnames is zo'n taal voorgoed verdwenen.
+
+Een taal sterft zodra die niet meer gesproken wordt. Er zijn zeer veel talen die nog maar gesproken worden door een handvol mensen. Die talen zullen verdwijnen zodra de sprekers ervan sterven.
+
+Hoeveel talen exact met uitsterven bedreigd zijn, is lastig in te schatten. Dat heeft dezelfde reden waarom het aantal talen ter wereld zo moeilijk te tellen is: wat verstaan we nu eigenlijk onder een 'taal'?
+
+De gestandaardiseerde talen, zoals het standaard Nederlands, zijn ongetwijfeld talen. Maar is het Vlaams een taal? En zijn het West-Vlaams of het Limburgs talen? Is het Izegems een taal? Tellen we dialecten mee in een lijst van de talen van de wereld?
+
+Om het aantal talen van de wereld en het aantal bedreigde talen te tellen, moeten we dus eerst weten wat we verstaan onder een taal en welke talen we gaan meetellen. Daar bestaat helaas geen eenduidig antwoord op. We beschikken over twee bronnen met ruwe schattingen: [Ethnologue](https://www.ethnologue.com/insights/how-many-languages/) en [Glottolog](https://glottolog.org/). 
+
+Om discussie over de term "taal" te vermijden, gebruiken taalwetenschappers tegenwoordig ook de term "languoid". Een languoid is een taal of taalvariant die door een groep sprekers gedeeld wordt, los van de status ervan:
+
+> "A cover term for any type of lingual entity: language, dialect, family, language area, etc. It is roughly similar to the term taxon from biological taxonomy, except it is agnostic as to whether the relevant linguistic grouping is considered to be genealogical or areal (or based one some other possible criteria for grouping languages)."
+>
+> Good & Hendryx-Parker [-@goodhendryx_2006, p. 6]
+
+Door de naam en de definitie ervan te veranderen is het telprobleem natuurlijk niet opgelost. Als we elke "languoid" zouden tellen zouden het er ongetwijfeld meer zijn dan 8000. Een intervalschatting - tussen de 6000 en 8000 talen - is daarom nuttiger dan een puntschatting, exact 7129 of zo.
+
+### Bedreigde talen
+
+De helft van alle gesproken talen zijn in meer of mindere mate bedreigd. Unesco maakt een onderscheid tussen vijf graden van bedreiging, zoals aangeduid in @fig-unesco-bedreigd. De figuur geeft ook een schatting van de bedreigde talen binnen elke categorie.  
+
+![Bedreigde talen. Met de indeling volgens Unesco in 2011](degrees-of-language-endangerment.jpg){#fig-unesco-bedreigd}
+
+### Wereldkaart bedreigde talen
+
+In wat volgt, maak ik met de software R [@R2026] een kaart met bedreigde talen op basis van een dataset uit 2011 samengesteld in het kader van een datablog in de Britse krant *The Guardian* ([datablog](https://www.theguardian.com/news/datablog/2011/apr/15/language-extinct-endangered#data)). De data werd ook gedeeld op de website *Kaggle* ([data](https://www.kaggle.com/datasets/the-guardian/extinct-languages)). Voor een uitgebreidere uitleg om een interactieve kaart te maken in R verwijs ik graag naar mijn online tutorial in [LADAL](https://ladal.edu.au/tutorials/leaflet/leaflet.html).
+
+Wie niet geïnteresseerd is in R-code, kan onmiddellijk naar beneden scrollen naar de wereldkaart met de bedreigde talen.
+
+We beginnen met het inlezen van de dataset, die beschikbaar is in .csv-formaat:
+
+```{r}
+#| echo: false
+#| warning: false
+library(flextable)
+library(tidyverse)
+library(leaflet)
+```
+
+```{r}
+endan <- read.csv("data.csv")
+```
+
+De dataset bevat onder meer variabelen met de namen van de talen die bedreigd zijn, de mate waarin die talen bedreigd zijn, en coördinaten (lengtegraad en breedtegraad).
+
+```{r}
+as.data.frame(names(endan))
+```
+
+We selecteren vervolgens enkel de variabelen die we nodig hebben om de kaart te maken.
+
+```{r}
+endan <- subset(endan, select = c(Name.in.English, Degree.of.endangerment, Latitude, Longitude))
+```
+
+Ik vereenvoudig de namen.
+
+```{r}
+endan <- endan |> rename(
+  Language = Name.in.English,
+  Endangered = Degree.of.endangerment
+)
+```
+
+De variabele `Endangered` veranderen we naar een factor, met een rangorde in de categorieën:
+
+```{r}
+endan$Endangered <- as.factor(endan$Endangered) 
+endan$Endangered <- factor(endan$Endangered, 
+                           levels = c("Vulnerable",
+                                    "Definitely endangered",
+                                    "Severely endangered",
+                                    "Critically endangered",
+                                    "Extinct"))
+```
+
+Hier is een sample van 10 rijen uit de data: 
+
+```{r}
+#| echo: false
+#| warning: false
+endan |> slice_sample(n = 10) |>
+  flextable() |>
+  flextable::set_table_properties(width = .5, layout = "autofit") |>
+  flextable::theme_zebra() |>
+  flextable::fontsize(size = 12) |>
+  flextable::fontsize(size = 12, part = "header") |>
+  flextable::align_text_col(align = "center") |>
+  flextable::set_caption(caption = "")  |>
+  flextable::border_outer()
+```
+
+We kunnen alvast een samenvatting maken van het aantal bedreigde talen binnen verschillende graden van bedreiging:
+
+```{r}
+table(endan$Endangered)
+```
+
+Uitgedrukt in percentages:
+
+```{r}
+as.data.frame(round(prop.table(table(endan$Endangered))*100, 0))
+```
+
+Van alle talen die bedreigd zijn - dus niet van alle gekende talen! - staat 22% op het punt te verdwijnen ("Critically endangered").
+
+We maken nu de interactieve wereldkaart.
+
+Ik maak eerste een kleurenpallet om de verschillende graden van bedreiging weer te geven.
+
+```{r}
+col <- c("#F4E7D3",    # Vulnerable
+         "orange",     # Definitely endangered
+         "#E65100",    # Severely endangered
+         "red",        # Critically endangered 
+         "purple4"     # Extinct
+         ) 
+color_pal_WALS <- colorFactor(palette = col, 
+                         levels = c("Vulnerable",
+                                    "Definitely endangered",
+                                    "Severely endangered",
+                                    "Critically endangered",
+                                    "Extinct"))
+```
+
+De volgende code creëert een interactieve kaart. Elk punt stelt een bedreigde taal voor. De verschillende graden van bedreiging worden als kleuren weergegeven. Je kunt ook inzoomen om bepaalde gebieden meer in detail te bekijken.
+
+```{r}
+#| warning: false
+leaflet(endan) |>           
+  addTiles()  |>          
+  addCircleMarkers(       
+    ~Longitude, ~Latitude, 
+    fillColor = ~color_pal_WALS(Endangered),
+    color = "white", 
+    radius = 4,      
+    fillOpacity = 1, 
+    stroke = TRUE,   
+    weight = 1.2,       
+    label = ~Language, 
+    popup = ~paste("<strong>Language:</strong>", Language,
+                   "<br><strong>Degree of Endangerment:</strong>", Endangered)
+  ) |>
+  addLegend("topright",    
+            pal = color_pal_WALS, 
+            values = ~Endangered, 
+            title = "Degree of Endangerement",
+            opacity = 0.9)
+```
+
+Talen van over de hele wereld zijn met uitsterven bedreigd; geen enkele regio blijft gespaard.
+
+Als je inzoomt naar België, zul je zien dat er één taal is die volgens deze dataset bedreigd is: Walloon (de Waalse variant van het Frans). Tiens, is Walloon een taal?
+
+Opnieuw zien we hoe moeilijk het is om een specifiek nummer te plakken op het aantal talen in de wereld en op het aantal bedreigde talen. Alles hangt af van hoe "taal" gedefinieerd wordt. Maar dat er veel talen of "languoids" zullen verdwijnen, zoveel is zeker.
