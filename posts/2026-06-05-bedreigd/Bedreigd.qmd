@@ -49,7 +49,7 @@ Door de naam en de definitie ervan te veranderen is het telprobleem natuurlijk n
 
 ### Bedreigde talen
 
-De helft van alle gesproken talen zijn in meer of mindere mate bedreigd. Unesco maakt een onderscheid tussen vijf graden van bedreiging, zoals aangeduid in @fig-unesco-bedreigd. De figuur geeft ook een schatting van de bedreigde talen binnen elke categorie.
+De helft van alle gesproken talen zijn in meer of mindere mate bedreigd. Unesco maakt een onderscheid tussen vijf graden van bedreiging, zoals in @fig-unesco-bedreigd. De figuur geeft ook een schatting van de bedreigde talen binnen elke categorie.
 
 ![Bedreigde talen. Met de indeling volgens Unesco in 2011](degrees-of-language-endangerment.jpg){#fig-unesco-bedreigd}
 
