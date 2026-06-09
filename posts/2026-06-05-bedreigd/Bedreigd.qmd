@@ -32,7 +32,7 @@ Om het aantal talen van de wereld en het aantal bedreigde talen te tellen, moete
 
 In de wetenschap wordt het volgende stappenplan gebruikt:
 
-idee \> theoretisch concept –\> meetbare variabele
+idee \> theoretisch concept \> meetbare variabele
 
 Sprekers van een taal hebben een intuïtief idee van wat een "taal" is en wat het betekent om een taal te spreken. Maar dat is niet precies genoeg. We moeten dit idee ook zo nauwkeurig mogelijk definiëren; helaas bestaat er geen eenduidige definitie waar alle taalwetenschappers het over eens zijn. Vervolgens moeten we meetbare criteria opstellen – het concept operationaliseren – om zo objectief mogelijk te bepalen wat een taal is, zodat we accuraat mogelijk kunnen tellen. In het geval van officiële talen maakt het criterium "officieel" het concept "taal" gemakkelijk meetbaar. Maar voor niet-officiële talen is dit niet zo evident.
 
