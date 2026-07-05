@@ -1,0 +1,47 @@
+---
+title: "Open Science"
+date: 2026-07-05
+categories: [Open Science, data sharing, TROLLing, registered report, protocol, R]
+citation:
+  url: https://ludovicdecuypere.github.io/posts/2026-07-05-OpenScience/
+image: openscience.png
+draft: false
+format:
+  html:
+    mainfont: sans-serif
+    lang: en
+---
+
+### Five Years of Open Science in Linguistics: Reflections, Best Practices, and the Next Horizon
+
+Five years ago, I began sharing data on TROLLing (The Tromsø Repository of Language and Linguistics). Together with many colleagues with whom I had the pleasure of collaborating, I’ve published 13 datasets to date, including R-code for the data analysis and the associated output. [HERE](https://dataverse.no/dataverse/trolling?q=&fq2=authorName_ss%3A%22De+Cuypere%2C+Ludovic%22&fq0=subtreePaths%3A%22%2F3%22&fq1=dvObjectType%3A%28dataverses+OR+datasets%29&types=dataverses%3Adatasets&sort=dateSort&order=) are the datasets.
+
+This milestone feels like a good moment to share my experiences with data sharing and to reflect on future directions to expand my open science workflow.
+
+Is anyone still not convinced about why data should be openly shared?
+
+I hope not, but if so, here are some very good reasons (“because I have to from my funder” is not a good one). For starters, absolute transparency is a vital research requirement. You want others to look at your data and your data analysis. This is how we move forward. A second reason that I have found very rewarding is that a data repository is a great archiving tool - laptops, cloud devices, and USB sticks come and go, but the repository remains. A third reason is that you get to see a tangible result of all your hard work. The data is the product of research, not just the published paper. How much data has been lost before data repositories? With “the data will be shared upon request” or “the data is archived on a university server”, the hard truth is that the data is most likely lost.
+
+Here are my top practical recommendations based on my experience:
+
+- **Just do it.** And I can highly recommend TROLLing, a curated data repository. The feedback and referee reports I've received over the years have been hugely constructive and have genuinely improved my work. I also recommend looking at the published datasets and R-code.
+
+- Pay particular attention to the **codebook**. This is a key ingredient that allows others (and yourself in a few months time) to understand your data.
+
+- Share your R-code and preferably a printed **notebook** with the output. R-code scripts do not run forever.
+
+- If you work with **corpus data**, make sure to clear any possible copyright issues early on in the data collection. I’ve had one painful experience where corpus data could not be shared without a proper citation for every (!) observation/sentence. Try to avoid this by reading the corpus documentation.
+
+- If you work with **participants**, make sure to have proper informed consent forms and documentation ready before submitting your dataset.
+
+### A reflection on future expansions and challenges
+
+Sharing data is only one pillar of open science. Replicability is another one. The methodology section of a paper or in the README file of a dataset is usually rather limited in that it provides a conceptual outline. In order to make research genuinely replicable, we need to provide “recipes” - detailed instructions that can be followed in a step-by-step fashion. To cover this aspect as well, I’ve recently published a first **research protocol** on protocols.io. It is a protocol on how to conduct a C-test:
+
+> Saioa Cipitria, Georgia Knell, Hanneke Loerts, Marije Michel, Esli Struys, Alex Housen, Ludovic De Cuypere 2026. EYESAL - English proficiency test: C-test. protocols.io <https://dx.doi.org/10.17504/protocols.io.4r3l2x86xv1y/v1>
+
+Another challenge when publishing data is to decide what qualifies as “raw” data. A published dataset is very much polished and clean. Sometimes a dataset also includes the raw data, along with a **data cleaning pipeline**, but it is my impression that this is the exception. Maybe we can be more transparent about this data cleaning part as well? Personally, I like to use Excel for data cleaning, but I’m aware that this is suboptimal.
+
+A third possibility to expand my open science workflow lies at the planning stage. While **preregistration** has become the norm in many fields of research, this is not yet the case in linguistics. A lot of unnecessary debate at the reviewing and rebuttal stage of a manuscript can be avoided if certain decisions for research design and planning can be motivated and cleared by getting an in-principle acceptance based on a registered report. Data simulation will play a key role here.
+
+Finally, I wonder whether we need **project-based repositories** where the full life cycle of the open science workflow comes together. This would be a kind of meta-repository where one research project would include a battery of studies, with a nice visual overview of registered reports, links to protocols, datasets and published articles, and perhaps post-publication peer reviews.
