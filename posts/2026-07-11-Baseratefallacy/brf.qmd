@@ -34,7 +34,7 @@ Het onderscheid is subtiel, maar fundamenteel.
 
 De $90\%$ slaat op de kwaliteit van de test en is niet gelijk aan de kans om de ziekte te hebben bij een positief resultaat.
 
-Een zekerheid van $90\%$ betekent dat wanneer iemand effectief de ziekte heeft, de test dit in $90\%$ van de gevallen correct aanwijst (en in $10\%$ van de gevallen dus verkeerd). Dit wordt de "sensitiviteit" van de test genoemd. De "specificiteit" van een test is het omgekeerde: de kans dat de test negatief is als de ziekte niet aanwezig is. Laten we er gemakshalve verder van uitgaan dat de sensitiviteit ook gelijk is aan $90\%$.
+Een zekerheid van $90\%$ betekent dat wanneer iemand effectief de ziekte heeft, de test dit in $90\%$ van de gevallen correct aanwijst (en in $10\%$ van de gevallen dus verkeerd). Dit wordt de "sensitiviteit" van de test genoemd. De "specificiteit" van een test is het omgekeerde: de kans dat de test negatief is als de ziekte niet aanwezig is. Laten we er gemakshalve verder van uitgaan dat die specificiteit ook gelijk is aan $90\%$.
 
 Maar een sensitiviteit van $90\%$ betekent niet dat bij een positief testresultaat de kans op de ziekte ook $90\%$ is.
 
