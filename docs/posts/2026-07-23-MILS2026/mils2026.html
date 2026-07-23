@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ludovic De Cuypere">
 
-<title>Base Rate Fallacy – Ludovic De Cuypere</title>
+<title>Methods in Language Sciences 2026 – Ludovic De Cuypere</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -74,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -166,12 +137,12 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Base Rate Fallacy</h1>
+<h1 class="title">Methods in Language Sciences 2026</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Voorspellen</div>
-    <div class="quarto-category">basiskans</div>
-    <div class="quarto-category">base rate fallacy</div>
-    <div class="quarto-category">Bayes</div>
+    <div class="quarto-category">summer school</div>
+    <div class="quarto-category">MILS 2026</div>
+    <div class="quarto-category">STEM</div>
+    <div class="quarto-category">taalwetenschappen</div>
   </div>
   </div>
 
@@ -196,7 +167,7 @@ window.Quarto = {
     <div>
     <div class="quarto-title-meta-heading">Publicatiedatum</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">11 juli 2026</p>
+      <p class="date">23 juli 2026</p>
     </div>
   </div>
   
@@ -208,96 +179,54 @@ window.Quarto = {
 </header>
 
 
-<p>Onlangs verscheen in de krant <em>Het Laatste Nieuws</em> het bericht dat er een nieuwe test bestaat die alzheimer met 90% zekerheid kan voorspellen nog voor de eerste symptomen zichtbaar zijn:</p>
-<p><img src="hln11072026_Alzheimer.png" class="img-fluid"></p>
-<p>Stel: een man van 75 jaar met enkele ouderdomskwaaltjes, maar zonder geheugen- of oriëntatieproblemen, laat deze test uitvoeren en de test is positief. “Positief” betekent dus dat de man volgens de test alzheimer heeft, of althans een stofje in het bloed dat erop wijst. Een donderslag bij heldere hemel. Wie had dit kunnen vermoeden? De man leek kerngezond en nu is hij ziek - of zo goed als. Gelukkig zijn we er vroeg bij!</p>
-<p>Maar wat is dan de kans dat die man ook daadwerkelijk alzheimer heeft?</p>
-<p>Veel mensen zullen antwoorden: <span class="math inline">\(90\%\)</span>. Maar dit is een verkeerd antwoord.</p>
-<p>De titel van het artikel is nochtans duidelijk: de bloedtest spoort alzheimer op vóór de eerste symptomen. “TOT 90% ZEKERE DIAGNOSE”. Als de test zo goed is, dan zal die man toch wel alzheimer hebben? Toch niet.</p>
-<p>De kans dat een gezonde 75-jarige man zonder symptomen bij een positieve test effectief alzheimer heeft, is veel kleiner dan <span class="math inline">\(90\%\)</span>. Ik zal aantonen dat die kans dichter bij <span class="math inline">\(50\%\)</span> ligt en eerder nog wat lager.</p>
-<p>Dit heeft te maken met het volgende verschil:</p>
-<p><em>De kans dat een test positief is wanneer iemand de ziekte heeft, is niet gelijk aan de kans dat iemand de ziekte heeft wanneer de test positief is.</em></p>
-<p>Het onderscheid is subtiel, maar fundamenteel.</p>
-<p>De <span class="math inline">\(90\%\)</span> slaat op de kwaliteit van de test en is niet gelijk aan de kans om de ziekte te hebben bij een positief resultaat.</p>
-<p>Een zekerheid van <span class="math inline">\(90\%\)</span> betekent dat wanneer iemand effectief de ziekte heeft, de test dit in <span class="math inline">\(90\%\)</span> van de gevallen correct aanwijst (en in <span class="math inline">\(10\%\)</span> van de gevallen dus verkeerd). Dit wordt de “sensitiviteit” van de test genoemd. De “specificiteit” van een test is het omgekeerde: de kans dat de test negatief is als de ziekte niet aanwezig is. Laten we er gemakshalve verder van uitgaan dat die specificiteit ook gelijk is aan <span class="math inline">\(90\%\)</span>.</p>
-<p>Maar een sensitiviteit van <span class="math inline">\(90\%\)</span> betekent niet dat bij een positief testresultaat de kans op de ziekte ook <span class="math inline">\(90\%\)</span> is.</p>
-<p>Om de kans te berekenen dat een 75-jarige man zonder geheugenproblemen effectief alzheimer heeft, moeten we rekening houden met de kans die de man sowieso al heeft op alzheimer - zijn “basiskans”.</p>
-<p>Indien die man geen symptomen vertoont en verder ook geen familiegeschiedenis van alzheimer heeft, dan zouden we niet verwachten dat hij de ziekte heeft. Of we zouden die kans in ieder geval heel laag inschatten.</p>
-<p>We kunnen die kans inschatten door te kijken naar hoeveel gezonde mannen van 75 jaar alzheimer hebben. Dit wordt de “prevalentie” genoemd: het voorkomen van de ziekte bij alle mannen van 75 jaar. Stel nu dat die kans <span class="math inline">\(10\%\)</span> is (het is in werkelijkheid iets lager, maar 10% rekent gemakkelijker).</p>
-<p>We moeten nu die <span class="math inline">\(10\%\)</span> combineren met de <span class="math inline">\(90\%\)</span> van de test.</p>
-<p>Daarvoor bestaat een formule op basis van de regel van Bayes:</p>
-<p><span class="math display">\[P(\text{heeft de ziekte} \mid \text{test is positief}) = \frac{P(\text{test is positief} \mid \text{heeft de ziekte}) \times P(\text{heeft de ziekte})}{P(\text{test is positief})}\]</span></p>
-<p>“P” staat voor kans (probability), en “|” staat voor “gegeven dat” of “als we weten dat”.</p>
-<p>Deze formule geeft weer wat ik hierboven geschreven heb:</p>
-<p><em>De kans dat een test positief is wanneer iemand de ziekte heeft, is niet gelijk aan de kans dat iemand de ziekte heeft wanneer de test positief is.</em></p>
-<p><span class="math display">\[P(\text{heeft de ziekte} \mid \text{test is positief}) \neq P(\text{test is positief} \mid \text{heeft de ziekte})\]</span></p>
-<p>In de formule zien we verder dat we rekening moeten houden met de kans op de ziekte en de kans op een positief resultaat. Dat positieve resultaat omvat zowel correct-positieve resultaten als vals-positieve resultaten (vals-positief betekent dat de test positief is, maar dat de ziekte niet aanwezig is).</p>
-<p>Ik vul nu de formule in met percentages en bereken de kans dat onze 75-jarige man (met een verwachte kans van <span class="math inline">\(10\%\)</span> op alzheimer) inderdaad alzheimer heeft op basis van een test die <span class="math inline">\(90\%\)</span> correct is:</p>
-<p><span class="math display">\[P(\text{heeft de ziekte} \mid \text{test is positief}) = \frac{0.90 \times 0.10}{(0.90 \times 0.10) + (0.10 \times 0.90)} = 0.50\]</span></p>
-<p>Die kans is dus <span class="math inline">\(50\%\)</span>!</p>
-<p>Geen <span class="math inline">\(90\%\)</span> zoals men zou kunnen vermoeden bij een test met een “90% zekere diagnose”.</p>
-<p>Stel dat we dezelfde test uitvoeren bij een jonge, gezonde vrouw van 40 jaar met een heel lage kans op alzheimer van <span class="math inline">\(0.5\%\)</span>. Zij heeft <em>bij een positief testresultaat</em> slechts <span class="math inline">\(4\%\)</span> kans om effectief alzheimer te hebben.</p>
-<p>Maar stel nu dat een verwarde man met duidelijke symptomen de test laat afnemen, en men er al vrij zeker van is dat er sprake is van alzheimer. We zetten de basiskans in dat geval op <span class="math inline">\(60\%\)</span>. Dan wordt de kans dat die man effectief alzheimer heeft gelijk aan <span class="math inline">\(93\%\)</span>. Een sterke bevestiging van een zeer concreet vermoeden. In dergelijke gevallen bewijst de test absoluut zijn nut.</p>
-<p>Belangrijkste conclusie: 90% betekent voor iedereen iets anders!</p>
-<p>De noemer in de formule, <span class="math inline">\(P(\text{test is positief})\)</span>, is de totale kans op een positief testresultaat. Er zijn zowel tests die positief zijn bij mensen die effectief ziek zijn (de correct-positieven) als tests die positief zijn bij mensen die niet ziek zijn (de vals-positieven). Die laatste groep wordt al snel heel groot als je een dergelijke test zou gebruiken als algemene screening.</p>
-<p>Onderstaande tabel toont de verdeling voor testresultaten in een hypothetische groep van 1000 mensen, waarvan <span class="math inline">\(10\%\)</span> effectief alzheimer heeft en met testresultaten voor een test met <span class="math inline">\(90\%\)</span> correcte diagnose (sensitiviteit en specificiteit).</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 28%">
-<col style="width: 29%">
-<col style="width: 23%">
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th style="text-align: center;">heeft alzheimer</th>
-<th style="text-align: center;">heeft geen alzheimer</th>
-<th>Totaal</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>test is positief</td>
-<td style="text-align: center;">90 (90%) (correct-positief)</td>
-<td style="text-align: center;">90 (10%) (vals-positief)</td>
-<td>180</td>
-</tr>
-<tr class="even">
-<td>test is negatief</td>
-<td style="text-align: center;">10 (10%) (vals-negatief)</td>
-<td style="text-align: center;">810 (90%) (correct-negatief)</td>
-<td>820</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td style="text-align: center;">100 (10%) (prevalentie)</td>
-<td style="text-align: center;">900 (90%)</td>
-<td>1000</td>
-</tr>
-</tbody>
-</table>
-<p>De noemer is de som van het aandeel correct-positieven en het aandeel vals-positieven: dat zijn de <span class="math inline">\(180\)</span> mensen in de tabel, ofwel <span class="math inline">\(180/1000 = 18\%\)</span>.</p>
+<p>Van 13 tot en met 17 juli 2026 vond aan de UGent de internationale summer school <em>Methods in Language Sciences</em> (MILS) plaats.</p>
+<p>Deze summer school is een gezamenlijk initiatief van de vakgroep Taalkunde en de vakgroep Vertalen, Tolken en Communicatie. Samen met Koen Plevoets organiseerde ik het evenement al voor de zesde maal op rij; een mooie traditie in wording.</p>
+<p><strong>Taalonderzoek over de grenzen heen</strong>. De missie van onze summer school is om beginnende (PhD) en ervaren (postdoc) onderzoekers te voorzien van geavanceerde, praktische methodologische kennis en vaardigheden voor hun taalonderzoek.</p>
+<p>Taalwetenschappen omvat een waaier aan domeinen: variatielinguïstiek en taalverandering, grammatica en lexicografie, vertaal- en tolkwetenschappen, eerste en vreemde taalverwerving, fonologie en fonetiek, neuro- en psycholinguïstiek, sociolinguïstiek en pragmatiek, ethnografie, computerlinguïstiek, enzovoort. Statistiek in de linguïstiek? In elke taalwetenschappelijke discipline worden tegenwoordig de meest innovatieve technologieën en geavanceerde statistische modellen toegepast.</p>
+<p>MILS richt zich zowel op onderzoekers van de Universiteit Gent als externe gasten.</p>
+<p>Dat doen we via intensieve, praktijkgerichte modules van 15 contacturen, gedoceerd door internationale experts. Met 13 lesgevers mochten we dit jaar maar liefst 97 deelnemers verwelkomen, afkomstig uit 17 landen en 45 verschillende universiteiten.</p>
+<p>Het cursusaanbod van MILS 2026 bestond uit:</p>
 <ul>
-<li>Correct-positief: <span class="math inline">\(10\%\)</span> van de mensen is ziek en de test vindt daar <span class="math inline">\(90\%\)</span> van = <span class="math inline">\((0.10 \times 0.90) = 9\%\)</span></li>
-<li>Vals-positief: <span class="math inline">\(90\%\)</span> van de mensen heeft geen alzheimer, maar toch heeft volgens de test <span class="math inline">\(10\%\)</span> daarvan wel alzheimer = <span class="math inline">\((0.90 \times 0.10) = 9\%\)</span></li>
-<li>P(positief) = <span class="math inline">\((0.10 \times 0.90) + (0.90 \times 0.10) = 0.18 = 18\%\)</span></li>
+<li>Introduction to R</li>
+<li>Introduction to statistics with R</li>
+<li>Natural Language Processing</li>
+<li>Introduction to Python</li>
+<li>PRAAT</li>
+<li>Eye-tracking</li>
+<li>Survey design</li>
+<li>Multivariate data analysis with R</li>
+<li>Regression analysis with R</li>
+<li>Advanced predictive modeling</li>
 </ul>
-<p>Het is verleidelijk om een <span class="math inline">\(90\%\)</span> correcte diagnose te interpreteren als de kans om een ziekte te hebben wanneer de test positief is. Deze denkfout wordt ook wel de “base rate fallacy” of de “basiskansfout” genoemd, omdat je geen rekening houdt met de verwachte kans die aan de basis ligt van de ziekte.</p>
-<p>Een test met een “tot 90 procent zekere diagnose” betekent niet dat het 90% zeker is dat je de ziekte hebt als de diagnose positief is. Een positief resultaat betekent immers voor iedereen iets anders. Vandaar ook het belang van een deskundige arts die de resultaten correct kan toelichten. Alles is taal en communicatie.</p>
-<p>De redeneringsfout raakt ook aan de kern van het probleem bij elke screeningstest voor zeldzame ziektes: hoe zeldzamer de ziekte, hoe beter de test moet zijn om de ziekte betrouwbaar op te sporen. Een uiterst delicaat evenwicht.</p>
+<p><strong>Taalwetenschap is STEM</strong>. De klassieke tweedeling tussen ‘harde’ STEM-vakken en de menswetenschappen is al lang achterhaald. Excellent taalonderzoek kan niet zonder gesofisticeerde wetenschappelijke methodes. Taalwetenschappers zijn hun STEM dan ook nooit verloren. Taalwetenschap is een <strong>S</strong>cience. Taaltechnologie is per definitie een <strong>T</strong>echnologie en een tak van de ingenieurswetenschappen (<strong>E</strong>ngineering), en we gebruiken niet meer of niet minder wiskunde (<strong>M</strong>athematics) dan andere wetenschappers.</p>
+<p><strong>Open lesmateriaal</strong>. Ik doceerde dit jaar de module <em>Introduction to statistics with R</em>. Al mijn lesmateriaal (handboek, slides, data) stel ik gratis en openbaar beschikbaar via deze website: <a href="https://ludovicdecuypere.github.io/IntroStats_MILS2026_Site/" class="uri">https://ludovicdecuypere.github.io/IntroStats_MILS2026_Site/</a></p>
+<p>Ook het materiaal van de module <em>Introduction to R</em>, die ik de voorbije jaren gaf, staat volledig online: <a href="https://ludovicdecuypere.github.io/IntroR_MILS2026_Site/" class="uri">https://ludovicdecuypere.github.io/IntroR_MILS2026_Site/</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="mils2026_team.png" class="img-fluid figure-img"></p>
+<figcaption>Het organisatieteam. Ludovic De Cuypere, Marie Prové, Koen Plevoets.</figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="mils2026_teaching.png" class="img-fluid figure-img"></p>
+<figcaption>Dit jaar heb ik voor de eerste maal les gegeven met aan mijn zijde twee gebarentaaltolken die simultaan mijn uitleg vanuit het Engels vertaalden naar de Vlaamse Gebarentaal.</figcaption>
+</figure>
+</div>
+<p>Op naar MILS 2027!</p>
 
 
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citaat</h2><div><div class="quarto-appendix-secondary-label">BibTeX citaat:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{de_cuypere2026,
   author = {De Cuypere, Ludovic},
-  title = {Base Rate Fallacy},
-  date = {2026-07-11},
-  url = {https://ludovicdecuypere.github.io/posts/2026-07-11-Baseratefallacy/},
+  title = {Methods in Language Sciences 2026},
+  date = {2026-07-23},
+  url = {https://ludovicdecuypere.github.io/posts/2026-07-23-MILS2026/},
   langid = {nl}
 }
 </code><button title="Kopieer naar klembord" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Citeer dit werk als:</div><div id="ref-de_cuypere2026" class="csl-entry quarto-appendix-citeas" role="listitem">
-De Cuypere, Ludovic. 2026. <span>“Base Rate Fallacy.”</span> July 11. <a href="https://ludovicdecuypere.github.io/posts/2026-07-11-Baseratefallacy/">https://ludovicdecuypere.github.io/posts/2026-07-11-Baseratefallacy/</a>.
+De Cuypere, Ludovic. 2026. <span>“Methods in Language Sciences
+2026.”</span> July 23. <a href="https://ludovicdecuypere.github.io/posts/2026-07-23-MILS2026/">https://ludovicdecuypere.github.io/posts/2026-07-23-MILS2026/</a>.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
