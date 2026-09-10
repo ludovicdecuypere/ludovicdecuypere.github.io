@@ -44,7 +44,7 @@ Maar heeft het Arabisch 12 miljoen woorden? Er bestaat alvast nergens een lijst 
 
 En heeft het Nederlands slechts 350.000 woorden? Ook dat klopt eigenlijk niet.
 
-Het exacte aantal woorden is eignelijk minder relevant. Interessanter is de vraag hoe we het aantal woorden van een taal kunnen bepalen. 
+Het exacte aantal woorden is eigenlijk minder relevant. Interessanter is de vraag hoe we het aantal woorden van een taal kunnen bepalen. 
 
 ## Hoeveel woorden heeft een taal?
 
@@ -88,11 +88,10 @@ Het enige logische antwoord is dat elke taal in principe een oneindig aantal woo
 
 ## Wat is een woord?
 
-Om iets te tellen moeten we eerst weten wat we willen tellen. Wat is een
-woord?
+Om iets te tellen moeten we eerst weten wat we willen tellen. 
+Als spreker van het Nederlands weet je intuïtief wat een woord is. 
 
-Als spreker van het Nederlands weet je dat intuïtief. Je kunt gemakkelijk zelf
-voorbeelden geven van Nederlandse woorden. 
+Maar om te tellen moeten we het concept woord eerst nauwkeurig operationaliseren.
 
 De *Woordenlijkst Nederlandse Taal* definieert een "woord" als:
 
