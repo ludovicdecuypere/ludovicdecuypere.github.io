@@ -1,0 +1,168 @@
+---
+title: "Hoeveel woorden heeft een taal?"
+date: 2026-09-10
+categories: [Woordenschat, woorden, Nederlands, Arabisch, taalwetenschappen]
+citation:
+  url: https://ludovicdecuypere.github.io/posts/2026-08-23-Woorden/
+image: Woorden.png
+draft: false
+bibliography: references.bib
+format:
+  html:
+    mainfont: sans-serif
+    lang: nl
+editor: 
+  markdown: 
+    wrap: 72
+---
+## 12 miljoen
+
+Wist je dat het Arabisch 12 miljoen woorden heeft? En het NEderlands slechts driehonderdvijftigduizend? Ik ook niet. 
+
+Het is een bewering die ik onlangs las in een column in *De Standaard Weekblad* (22/08/2026). 
+
+12 miljoen lijkt een gigantische woordenschat. Wat opzoekingswerk leert dat 12 miljoen gebaseerd is op een artificiële berekening van het aantal mogelijke woordvormen.
+
+De woordenschat van het Arabisch is gebaseerd op een *wortelsysteem*; een eigenschap die typisch is voor de Semitische talen, zoals ook het Hebreeuws. 
+
+Een wortel is een cluster medeklinkers waartussen klinkers geplaatst
+worden.
+
+Een klassiek voorbeeld is de *k-t-b*-wortel.[^1] Enkele woorden met deze wortel:
+
+[^1]: Zo klassiek dat het voorbeeld een eigen Wikipedia pagina heeft.
+
+- *kitab*: "boek"
+- *katib*: "schrijver"
+- *maktab*: "bureau"
+- *aktub*: "ik schrijf"
+
+De woorden in een Arabisch woordenboek worden ook rangschikt op basis van de wortel in plaats
+van alfabetisch. 
+
+Hoe komt men dan aan 12 miljoen woorden? 
+
+Blijkbaar op basis van een berekening met onder meer alle lettercombinaties en wortels. 
+
+Voor alle duidelijkheid: er bestaat nergens een lijst met 12 miljoen Arabische woorden.
+
+En heeft het Nederlands slechts 350.000 woorden? Ook dat klopt eigenlijk niet.
+
+## Hoeveel woorden heeft een taal?
+
+We zouden een woordenboek kunnen raadplegen en tellen hoeveel woorden (of lemmata, de basiswoorden die je opzoekt) erin opgenomen zijn.
+
+*De Dikke Van Dale* telt momenteel 250.000 lemmata. De officiële *Woordenlijst Nederlandse Taal* bevat 233.258 trefwoorden en 845.573 woordvormen. Het historische *Woordenboek der Nederlandsche Taal* met woorden van 1500 tot 1976 heeft ongeveer $95.000$ hoofdtrefwoorden en 400.000 trefwoorden (incl. vormen en spellingvarianten). Ere wie ere toekomt, het WNT is het grootste woordenboek ter wereld in termen van aantal bladzijden: 49.255 bladzijden!
+
+Hoe zit het dan met andere talen?
+
+Wikipedia[^2] biedt een mooi overzicht van woordenboeken in verschillende talen en het aantal woorden.
+
+[^2]: https://en.wikipedia.org/wiki/List_of_dictionaries_by_number_of_words#cite_note-auto8-93
+
+De top drie met talen met het meeste aantal woorden volgens de
+beschikbare woordenboeken:
+
+1.  Tamil: 1.552.065
+2.  Koreaans: 1.186.764
+3.  Engels: 923.306
+
+Het grootste Arabische woordenboek telt $120.000$ trefwoorden.
+
+Weten we nu hoeveel woorden elke taal heeft en kunnen we die aantallen vergelijken? 
+
+Neen. Eigenlijk niet. 
+
+Woordenboeken vormen een gemakkelijke maar ook misleidende bron om na te
+gaan hoeveel woorden een taal heeft. Een woordenboek is een praktisch instrument dat maar een deeltje van alle woorden uit een taal bevat. 
+
+We moeten eerst en vooral weten hoe we het aantal woorden in een taal
+kunnen tellen. 
+
+En dit is niet alleen een heel moeilijke vraag, het is
+ook een zinledige vraag, omdat de vraag uitgaat van de verkeerde
+veronderstelling dat de woordenschat van een taal uit een eindige
+verzameling woorden bestaat. Het enige logische antwoord is dat elke
+taal een oneindig aantal woorden toelaat.[^3]
+
+[^3]: We hebben het hier over talen die woorden hebben. Niet alle talen
+    hebben woorden. Sommige talen hebben woordzinnen, maar dezelfde
+    redenering geldt ook voor deze talen.
+
+## Wat is een woord?
+
+Om iets te tellen moeten we eerst weten wat we willen tellen. Wat is een
+woord?
+
+Als spreker van het Nederlands weet je dat intuïtief. Je kunt gemakkelijk zelf
+voorbeelden geven van Nederlandse woorden. 
+
+De *Woordenlijkst Nederlandse Taal* definieert een "woord" als:
+
+> Traditioneel wordt een woord door taalkundigen beschouwd als een
+> eenheid van vorm (fonologische samenstelling en beklemtoning,
+> morfologische bouw, syntactische verbindingsmogelijkheden) en
+> betekenis. Het orthografische woord, anders gezegd de spelling van het
+> woord, is daar in principe op gebaseerd: wat als één woord wordt
+> opgevat, wordt aaneengeschreven, wat meer dan één woord is, wordt met
+> spaties geschreven
+
+[@taalunie2016technische: 23]
+
+Samengevat: een woord heeft een vorm en een betekenis en schrijven we
+als een geheel.
+
+Maar wat dan met woorden als *4 dagenweek*, die uit meerdere
+woorden bestaan en die toch opgenomen worden als een woord in de *Woordenlijst Nederlandse
+Taal* van de Taalunie (Woordenlijst.org). 
+
+Er zijn dus kennelijk woorden die niet aan mekaar geschreven worden maar die we toch als woord kunnen beschouwen.
+
+Wat met afkortingen en acroniemen? 
+
+Zijn *enz.*, *DNA* en *BVBA* woorden?
+
+En tellen we ook de aparte vormen van woorden? 
+
+*Fietsen* als werkwoord, *fietsen* als meervoud, *fietste* als verleden tijd, en de vervoegde
+vormen *(ik) fiets*, *(jij) fietst*, *(hij) fietst*. Zijn dat aparte
+woorden?
+
+Het Nederlands laat ook samenstellingen toe. *Fietswiel*, *fietsstuur*,
+*fietsbel* zijn woorden, maar tellen we alle mogelijke en bestaanbare
+samenstellingen als aparte woorden? 
+
+Is *fietsvrouw* een apart woord? Het woord staat niet in de Woordenlijst Nederlandse Taal van de Taalunie
+(Woordenlijst.org), maar is perfect bestaanbaar en begrijpbaar. En zo kunnen we blijven doorgaan met het maken van woorden die niet in het woordenboek staan. 
+
+En laten we ten slotte het hek helemaal van de dam gooien: stel dat
+oneindigheid bestaat en dat er een oneindig aantal natuurlijke getallen
+zijn waarvoor we een woord kunnen bedenken - *een, twee, drie, vier, vijf, honderd, honderd triljoen*. 
+
+Moeten we concluderen dat de woordenschat van het Nederlands oneindig is?
+
+Ja, dat lijkt inderdaad de enige logische conclusie.
+
+Zoals we ook kunnen lezen op taaladvies.net:[^4]
+
+[^4]: https://taaladvies.net/woorden-die-niet-in-de-woordenlijst-of-in-een-woordenboek-staan-algemeen/
+
+> Het Nederlands kent oneindig veel woorden en er komen steeds nieuwe
+> woorden bij.
+
+Het spreken is een creatieve activiteit. Elk taalsysteem beschikt over woordvormingsregels op basis waarvan we in principe een oneindig aantal woorden kunnen creëren. 
+
+Meer nog, we kunnen de regels doorbreken en zelfs die woorden zal de spreker begrijpen. 
+
+Er zijn naast bestaande woorden ook bestaan**bare** woorden, woorden die we
+kunnen vormen maar die we toch niet gebruiken. Een spreker van het
+Nederlands begrijpt perfect dat *schrijfde* de verleden tijd van
+*schrijven* is, maar zal toch de correcte vorm *schreef* gebruiken. Als
+we *werkte* als apart woord zouden tellen, moeten we dan ook *schrijfde*
+meetellen?
+
+Tot in der eindigheid.[^4]
+
+[^4] Wat logischerwijze impliceert dat er ooit een tijd komt waarin het totale aantal woorden zal kunnen geteld worden, gesteld dat er een kennend subject zal bestaan dat in staat is om te tellen. 
+
+Tot de laatste spreker het laatste woord heeft uitgeblazen. 
