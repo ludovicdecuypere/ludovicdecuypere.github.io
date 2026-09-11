@@ -75,10 +75,8 @@ Woordenboeken vormen een gemakkelijke maar ook misleidende bron om na te
 gaan hoeveel woorden een taal heeft. Een woordenboek is een praktisch instrument dat maar een deeltje van alle woorden uit een taal bevat. 
 
 Hoe kunnen we dan wel het juiste aantal woorden tellen? 
-kunnen tellen. 
 
-Dit is niet zomaar een moeilijke vraag, het is ook een zinledige, omdat de vraag uitgaat van de verkeerde
-veronderstelling dat de woordenschat van een taal uit een eindige verzameling woorden bestaat. 
+Dit is een moeilijke vraag. Meer nog, het is een zinledige, omdat de vraag uitgaat van de verkeerde veronderstelling dat de woordenschat van een taal uit een eindige verzameling woorden bestaat. 
 
 Het enige logische antwoord is dat elke taal in principe een oneindig aantal woorden toelaat.[^3]
 
