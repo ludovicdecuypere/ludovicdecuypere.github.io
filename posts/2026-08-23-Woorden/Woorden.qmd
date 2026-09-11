@@ -91,7 +91,7 @@ Als spreker van het Nederlands weet je intuïtief wat een woord is.
 
 Maar om te tellen moeten we het concept woord eerst nauwkeurig operationaliseren.
 
-De *Woordenlijkst Nederlandse Taal* definieert een "woord" als:
+De *Woordenlijst Nederlandse Taal* definieert een "woord" als:
 
 > Traditioneel wordt een woord door taalkundigen beschouwd als een
 > eenheid van vorm (fonologische samenstelling en beklemtoning,
@@ -107,18 +107,13 @@ Samengevat: een woord heeft een vorm en een betekenis en schrijven we
 als een geheel.
 
 Maar wat dan met woorden als *4 dagenweek*, die uit meerdere
-woorden bestaan en die toch opgenomen worden als een woord in de *Woordenlijst Nederlandse
-Taal* van de Taalunie (Woordenlijst.org). 
+woorden bestaan en die toch opgenomen worden als een woord in de *Woordenlijst Nederlandse Taal* van de Taalunie (Woordenlijst.org)?
 
 Er zijn dus kennelijk woorden die niet aan mekaar geschreven worden maar die we toch als woord kunnen beschouwen.
 
-Wat met afkortingen en acroniemen? 
+Wat met afkortingen en acroniemen? Zijn *enz.*, *DNA* en *BVBA* woorden?
 
-Zijn *enz.*, *DNA* en *BVBA* woorden?
-
-En tellen we ook de aparte vormen van woorden? 
-
-*Fietsen* als werkwoord, *fietsen* als meervoud, *fietste* als verleden tijd, en de vervoegde
+En tellen we ook de aparte vormen van woorden? *Fietsen* als werkwoord, *fietsen* als meervoud, *fietste* als verleden tijd, en de vervoegde
 vormen *(ik) fiets*, *(jij) fietst*, *(hij) fietst*. Zijn dat aparte
 woorden?
 
@@ -126,12 +121,13 @@ Het Nederlands laat ook samenstellingen toe. *Fietswiel*, *fietsstuur*,
 *fietsbel* zijn woorden, maar tellen we alle mogelijke en bestaanbare
 samenstellingen als aparte woorden? 
 
-Is *fietsvrouw* een apart woord? Het woord staat niet in de Woordenlijst Nederlandse Taal van de Taalunie
-(Woordenlijst.org), maar is perfect bestaanbaar en begrijpbaar. En zo kunnen we blijven doorgaan met het maken van woorden die niet in het woordenboek staan. 
+Is *fietsvrouw* een apart woord? Het woord staat niet in de Woordenlijst Nederlandse Taal van de Taalunie (Woordenlijst.org), maar is perfect bestaanbaar en begrijpbaar. 
 
 En laten we ten slotte het hek helemaal van de dam gooien: stel dat
 oneindigheid bestaat en dat er een oneindig aantal natuurlijke getallen
 zijn waarvoor we een woord kunnen bedenken - *een, twee, drie, vier, vijf, honderd, honderd triljoen*. 
+
+Zo kunnen we blijven doorgaan met het maken van woorden die niet in het woordenboek staan.  
 
 Moeten we concluderen dat de woordenschat van het Nederlands oneindig is?
 
@@ -148,15 +144,8 @@ Het spreken is een creatieve activiteit. Elk taalsysteem beschikt over woordvorm
 
 Meer nog, we kunnen de regels doorbreken en zelfs die woorden zal de spreker begrijpen. 
 
-Er zijn naast bestaande woorden ook bestaan**bare** woorden, woorden die we
-kunnen vormen maar die we toch niet gebruiken. Een spreker van het
-Nederlands begrijpt perfect dat *schrijfde* de verleden tijd van
-*schrijven* is, maar zal toch de correcte vorm *schreef* gebruiken. Als
-we *werkte* als apart woord zouden tellen, moeten we dan ook *schrijfde*
-meetellen?
+Taal leeft. Nieuwe woorden ontstaan. Bestaande woorden verdwijnen of worden nieuw leven ingeblazen.
 
-Tot in der eindigheid.[^4]
-
-[^4] Wat logischerwijze impliceert dat er ooit een tijd komt waarin het totale aantal woorden zal kunnen geteld worden, gesteld dat er een kennend subject zal bestaan dat in staat is om te tellen. 
+Tot in der eindigheid.
 
 Tot de laatste spreker het laatste woord heeft uitgeblazen. 
