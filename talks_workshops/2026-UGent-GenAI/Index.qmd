@@ -7,7 +7,7 @@ author:
     affiliations: Vrije Universiteit Brussel/Ghent University
 date: 2026-05-08
 categories: [Gastcollege, LLM, GenAI]
-image: baahepic.jpg
+image: LLM.png
 ---
 
 Dit zijn de slides voor een gastcollege van 1 uur in het kader van het vak *Inleiding tot Taal- en Tekststructuren*, academiejaar 2025-2026. Studenten krijgen een inleiding tot genAI en LLM, met een kort overzicht van de opportuniteiten en de mogelijke valkuilen. Het UGent-beleid rond GenAI wordt kort toegelicht.
