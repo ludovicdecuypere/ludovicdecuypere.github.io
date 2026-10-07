@@ -23,8 +23,7 @@ Aanschouw een van de grootste successen van de afgelopen decennia.
 
 Kindersterfte - hier gedefinieerd als kinderen die sterven voor ze de leeftijd van vijf jaar bereiken - is sinds de jaren 1950 over de hele wereld spectaculair afgenomen. Vroeger was niet altijd beter. 
 
-De figuur komt van van het ongeëvenaarde *Our World in Data* [@Ritchie2018]. 
-
+De figuur komt van het ongeëvenaarde *Our World in Data* [@Ritchie2018]. 
 @tbl-owid-kindersterfte toont de eerste vijf rijen van de dataset waarop @fig-child-mortality-around-the-world gebaseerd is.
 
 |    Entity   |  Code   | Year | Child mortality rate | 
