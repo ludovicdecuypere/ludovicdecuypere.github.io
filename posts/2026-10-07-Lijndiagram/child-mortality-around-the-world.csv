@@ -1,0 +1,445 @@
+Entity,Code,Year,Child mortality rate
+Africa (UN),UN_AFR,1950,32.6705
+Africa (UN),UN_AFR,1951,32.0163
+Africa (UN),UN_AFR,1952,31.4155
+Africa (UN),UN_AFR,1953,30.8411
+Africa (UN),UN_AFR,1954,30.2961
+Africa (UN),UN_AFR,1955,29.7653
+Africa (UN),UN_AFR,1956,29.2415
+Africa (UN),UN_AFR,1957,29.2744
+Africa (UN),UN_AFR,1958,28.7816
+Africa (UN),UN_AFR,1959,27.7768
+Africa (UN),UN_AFR,1960,27.344
+Africa (UN),UN_AFR,1961,26.8962
+Africa (UN),UN_AFR,1962,26.4953
+Africa (UN),UN_AFR,1963,26.0887
+Africa (UN),UN_AFR,1964,25.681
+Africa (UN),UN_AFR,1965,25.3524
+Africa (UN),UN_AFR,1966,25.1949
+Africa (UN),UN_AFR,1967,24.6948
+Africa (UN),UN_AFR,1968,24.259
+Africa (UN),UN_AFR,1969,23.9339
+Africa (UN),UN_AFR,1970,23.5729
+Africa (UN),UN_AFR,1971,23.2054
+Africa (UN),UN_AFR,1972,22.9571
+Africa (UN),UN_AFR,1973,22.4905
+Africa (UN),UN_AFR,1974,22.2867
+Africa (UN),UN_AFR,1975,21.8673
+Africa (UN),UN_AFR,1976,21.0966
+Africa (UN),UN_AFR,1977,20.6325
+Africa (UN),UN_AFR,1978,20.2081
+Africa (UN),UN_AFR,1979,19.727
+Africa (UN),UN_AFR,1980,19.3276
+Africa (UN),UN_AFR,1981,18.951
+Africa (UN),UN_AFR,1982,18.5356
+Africa (UN),UN_AFR,1983,19.0351
+Africa (UN),UN_AFR,1984,18.685
+Africa (UN),UN_AFR,1985,18.2988
+Africa (UN),UN_AFR,1986,17.8169
+Africa (UN),UN_AFR,1987,17.0133
+Africa (UN),UN_AFR,1988,17.3484
+Africa (UN),UN_AFR,1989,16.5933
+Africa (UN),UN_AFR,1990,16.4555
+Africa (UN),UN_AFR,1991,16.6078
+Africa (UN),UN_AFR,1992,16.4645
+Africa (UN),UN_AFR,1993,15.9474
+Africa (UN),UN_AFR,1994,15.9003
+Africa (UN),UN_AFR,1995,15.4716
+Africa (UN),UN_AFR,1996,15.2554
+Africa (UN),UN_AFR,1997,14.9547
+Africa (UN),UN_AFR,1998,14.7837
+Africa (UN),UN_AFR,1999,14.1967
+Africa (UN),UN_AFR,2000,13.759
+Africa (UN),UN_AFR,2001,13.3008
+Africa (UN),UN_AFR,2002,12.8535
+Africa (UN),UN_AFR,2003,12.3767
+Africa (UN),UN_AFR,2004,11.9182
+Africa (UN),UN_AFR,2005,11.443
+Africa (UN),UN_AFR,2006,10.9527
+Africa (UN),UN_AFR,2007,10.5039
+Africa (UN),UN_AFR,2008,10.0984
+Africa (UN),UN_AFR,2009,9.8863
+Africa (UN),UN_AFR,2010,9.3864
+Africa (UN),UN_AFR,2011,9.3339
+Africa (UN),UN_AFR,2012,8.7426
+Africa (UN),UN_AFR,2013,8.4299
+Africa (UN),UN_AFR,2014,8.3063
+Africa (UN),UN_AFR,2015,8.096
+Africa (UN),UN_AFR,2016,7.8867
+Africa (UN),UN_AFR,2017,7.7231
+Africa (UN),UN_AFR,2018,7.3487
+Africa (UN),UN_AFR,2019,7.1638
+Africa (UN),UN_AFR,2020,6.8952
+Africa (UN),UN_AFR,2021,6.7528
+Africa (UN),UN_AFR,2022,6.7503
+Africa (UN),UN_AFR,2023,6.3404
+Asia (UN),UN_ASI,1950,25.2026
+Asia (UN),UN_ASI,1951,24.4188
+Asia (UN),UN_ASI,1952,23.5348
+Asia (UN),UN_ASI,1953,22.9156
+Asia (UN),UN_ASI,1954,22.2708
+Asia (UN),UN_ASI,1955,21.6457
+Asia (UN),UN_ASI,1956,21.1612
+Asia (UN),UN_ASI,1957,20.6403
+Asia (UN),UN_ASI,1958,20.1672
+Asia (UN),UN_ASI,1959,23.3396
+Asia (UN),UN_ASI,1960,25.886
+Asia (UN),UN_ASI,1961,22.6094
+Asia (UN),UN_ASI,1962,18.7203
+Asia (UN),UN_ASI,1963,18.0291
+Asia (UN),UN_ASI,1964,17.4763
+Asia (UN),UN_ASI,1965,17.6258
+Asia (UN),UN_ASI,1966,17.1182
+Asia (UN),UN_ASI,1967,16.7287
+Asia (UN),UN_ASI,1968,15.9927
+Asia (UN),UN_ASI,1969,15.5662
+Asia (UN),UN_ASI,1970,15.3106
+Asia (UN),UN_ASI,1971,15.3432
+Asia (UN),UN_ASI,1972,14.4978
+Asia (UN),UN_ASI,1973,14.1448
+Asia (UN),UN_ASI,1974,13.8649
+Asia (UN),UN_ASI,1975,13.6218
+Asia (UN),UN_ASI,1976,13.4166
+Asia (UN),UN_ASI,1977,13.0893
+Asia (UN),UN_ASI,1978,12.7864
+Asia (UN),UN_ASI,1979,12.367
+Asia (UN),UN_ASI,1980,12.0068
+Asia (UN),UN_ASI,1981,11.6333
+Asia (UN),UN_ASI,1982,11.2436
+Asia (UN),UN_ASI,1983,10.973
+Asia (UN),UN_ASI,1984,10.6913
+Asia (UN),UN_ASI,1985,10.3869
+Asia (UN),UN_ASI,1986,10.0251
+Asia (UN),UN_ASI,1987,9.707
+Asia (UN),UN_ASI,1988,9.4612
+Asia (UN),UN_ASI,1989,9.1964
+Asia (UN),UN_ASI,1990,8.934
+Asia (UN),UN_ASI,1991,8.8425
+Asia (UN),UN_ASI,1992,8.5971
+Asia (UN),UN_ASI,1993,8.3981
+Asia (UN),UN_ASI,1994,8.1849
+Asia (UN),UN_ASI,1995,8.0005
+Asia (UN),UN_ASI,1996,7.7656
+Asia (UN),UN_ASI,1997,7.5238
+Asia (UN),UN_ASI,1998,7.2816
+Asia (UN),UN_ASI,1999,7.0221
+Asia (UN),UN_ASI,2000,6.7252
+Asia (UN),UN_ASI,2001,6.4772
+Asia (UN),UN_ASI,2002,6.2111
+Asia (UN),UN_ASI,2003,5.9212
+Asia (UN),UN_ASI,2004,5.6954
+Asia (UN),UN_ASI,2005,5.4059
+Asia (UN),UN_ASI,2006,5.1294
+Asia (UN),UN_ASI,2007,4.8799
+Asia (UN),UN_ASI,2008,4.6874
+Asia (UN),UN_ASI,2009,4.4258
+Asia (UN),UN_ASI,2010,4.2197
+Asia (UN),UN_ASI,2011,4.0189
+Asia (UN),UN_ASI,2012,3.8054
+Asia (UN),UN_ASI,2013,3.6423
+Asia (UN),UN_ASI,2014,3.4499
+Asia (UN),UN_ASI,2015,3.3181
+Asia (UN),UN_ASI,2016,3.1508
+Asia (UN),UN_ASI,2017,3.0039
+Asia (UN),UN_ASI,2018,2.9382
+Asia (UN),UN_ASI,2019,2.8445
+Asia (UN),UN_ASI,2020,2.7949
+Asia (UN),UN_ASI,2021,2.734
+Asia (UN),UN_ASI,2022,2.6703
+Asia (UN),UN_ASI,2023,2.6088
+Europe (UN),UN_EUR,1950,10.5455
+Europe (UN),UN_EUR,1951,10.6242
+Europe (UN),UN_EUR,1952,9.458
+Europe (UN),UN_EUR,1953,8.6971
+Europe (UN),UN_EUR,1954,8.3721
+Europe (UN),UN_EUR,1955,7.6419
+Europe (UN),UN_EUR,1956,6.2838
+Europe (UN),UN_EUR,1957,6.0987
+Europe (UN),UN_EUR,1958,5.5493
+Europe (UN),UN_EUR,1959,5.3115
+Europe (UN),UN_EUR,1960,4.8695
+Europe (UN),UN_EUR,1961,4.5504
+Europe (UN),UN_EUR,1962,4.3283
+Europe (UN),UN_EUR,1963,4.1148
+Europe (UN),UN_EUR,1964,3.8398
+Europe (UN),UN_EUR,1965,3.6205
+Europe (UN),UN_EUR,1966,3.4967
+Europe (UN),UN_EUR,1967,3.3999
+Europe (UN),UN_EUR,1968,3.3751
+Europe (UN),UN_EUR,1969,3.2903
+Europe (UN),UN_EUR,1970,3.1426
+Europe (UN),UN_EUR,1971,2.9707
+Europe (UN),UN_EUR,1972,2.8235
+Europe (UN),UN_EUR,1973,2.7728
+Europe (UN),UN_EUR,1974,2.724
+Europe (UN),UN_EUR,1975,2.6637
+Europe (UN),UN_EUR,1976,2.5876
+Europe (UN),UN_EUR,1977,2.4987
+Europe (UN),UN_EUR,1978,2.4142
+Europe (UN),UN_EUR,1979,2.318
+Europe (UN),UN_EUR,1980,2.237
+Europe (UN),UN_EUR,1981,2.1622
+Europe (UN),UN_EUR,1982,2.0712
+Europe (UN),UN_EUR,1983,2.011
+Europe (UN),UN_EUR,1984,1.9819
+Europe (UN),UN_EUR,1985,1.9278
+Europe (UN),UN_EUR,1986,1.8533
+Europe (UN),UN_EUR,1987,1.822
+Europe (UN),UN_EUR,1988,1.7423
+Europe (UN),UN_EUR,1989,1.6516
+Europe (UN),UN_EUR,1990,1.5748
+Europe (UN),UN_EUR,1991,1.5274
+Europe (UN),UN_EUR,1992,1.5017
+Europe (UN),UN_EUR,1993,1.4717
+Europe (UN),UN_EUR,1994,1.3855
+Europe (UN),UN_EUR,1995,1.3121
+Europe (UN),UN_EUR,1996,1.2446
+Europe (UN),UN_EUR,1997,1.1907
+Europe (UN),UN_EUR,1998,1.1384
+Europe (UN),UN_EUR,1999,1.1093
+Europe (UN),UN_EUR,2000,1.0413
+Europe (UN),UN_EUR,2001,1.0057
+Europe (UN),UN_EUR,2002,0.954
+Europe (UN),UN_EUR,2003,0.9031
+Europe (UN),UN_EUR,2004,0.862
+Europe (UN),UN_EUR,2005,0.8161
+Europe (UN),UN_EUR,2006,0.7873
+Europe (UN),UN_EUR,2007,0.7551
+Europe (UN),UN_EUR,2008,0.7148
+Europe (UN),UN_EUR,2009,0.6896
+Europe (UN),UN_EUR,2010,0.6957
+Europe (UN),UN_EUR,2011,0.6334
+Europe (UN),UN_EUR,2012,0.6545
+Europe (UN),UN_EUR,2013,0.6238
+Europe (UN),UN_EUR,2014,0.5965
+Europe (UN),UN_EUR,2015,0.562
+Europe (UN),UN_EUR,2016,0.5395
+Europe (UN),UN_EUR,2017,0.5128
+Europe (UN),UN_EUR,2018,0.4912
+Europe (UN),UN_EUR,2019,0.4754
+Europe (UN),UN_EUR,2020,0.4516
+Europe (UN),UN_EUR,2021,0.4534
+Europe (UN),UN_EUR,2022,0.4555
+Europe (UN),UN_EUR,2023,0.4083
+Latin America and the Caribbean (UN),UN_LAC,1950,21.0802
+Latin America and the Caribbean (UN),UN_LAC,1951,20.5251
+Latin America and the Caribbean (UN),UN_LAC,1952,19.9823
+Latin America and the Caribbean (UN),UN_LAC,1953,19.4536
+Latin America and the Caribbean (UN),UN_LAC,1954,18.9357
+Latin America and the Caribbean (UN),UN_LAC,1955,18.4189
+Latin America and the Caribbean (UN),UN_LAC,1956,17.9072
+Latin America and the Caribbean (UN),UN_LAC,1957,17.3815
+Latin America and the Caribbean (UN),UN_LAC,1958,16.8916
+Latin America and the Caribbean (UN),UN_LAC,1959,16.3925
+Latin America and the Caribbean (UN),UN_LAC,1960,15.9113
+Latin America and the Caribbean (UN),UN_LAC,1961,15.4525
+Latin America and the Caribbean (UN),UN_LAC,1962,15.0174
+Latin America and the Caribbean (UN),UN_LAC,1963,14.6065
+Latin America and the Caribbean (UN),UN_LAC,1964,14.1718
+Latin America and the Caribbean (UN),UN_LAC,1965,13.7684
+Latin America and the Caribbean (UN),UN_LAC,1966,13.3923
+Latin America and the Caribbean (UN),UN_LAC,1967,13.0115
+Latin America and the Caribbean (UN),UN_LAC,1968,12.6363
+Latin America and the Caribbean (UN),UN_LAC,1969,12.2768
+Latin America and the Caribbean (UN),UN_LAC,1970,12.0874
+Latin America and the Caribbean (UN),UN_LAC,1971,11.5715
+Latin America and the Caribbean (UN),UN_LAC,1972,11.2487
+Latin America and the Caribbean (UN),UN_LAC,1973,10.8819
+Latin America and the Caribbean (UN),UN_LAC,1974,10.5615
+Latin America and the Caribbean (UN),UN_LAC,1975,10.1787
+Latin America and the Caribbean (UN),UN_LAC,1976,9.8932
+Latin America and the Caribbean (UN),UN_LAC,1977,9.4968
+Latin America and the Caribbean (UN),UN_LAC,1978,9.1677
+Latin America and the Caribbean (UN),UN_LAC,1979,8.8356
+Latin America and the Caribbean (UN),UN_LAC,1980,8.4887
+Latin America and the Caribbean (UN),UN_LAC,1981,8.1505
+Latin America and the Caribbean (UN),UN_LAC,1982,7.8732
+Latin America and the Caribbean (UN),UN_LAC,1983,7.4908
+Latin America and the Caribbean (UN),UN_LAC,1984,7.176
+Latin America and the Caribbean (UN),UN_LAC,1985,6.9152
+Latin America and the Caribbean (UN),UN_LAC,1986,6.5899
+Latin America and the Caribbean (UN),UN_LAC,1987,6.3196
+Latin America and the Caribbean (UN),UN_LAC,1988,6.0549
+Latin America and the Caribbean (UN),UN_LAC,1989,5.7938
+Latin America and the Caribbean (UN),UN_LAC,1990,5.5347
+Latin America and the Caribbean (UN),UN_LAC,1991,5.291
+Latin America and the Caribbean (UN),UN_LAC,1992,5.043
+Latin America and the Caribbean (UN),UN_LAC,1993,4.8078
+Latin America and the Caribbean (UN),UN_LAC,1994,4.5735
+Latin America and the Caribbean (UN),UN_LAC,1995,4.3455
+Latin America and the Caribbean (UN),UN_LAC,1996,4.1281
+Latin America and the Caribbean (UN),UN_LAC,1997,3.9201
+Latin America and the Caribbean (UN),UN_LAC,1998,3.7837
+Latin America and the Caribbean (UN),UN_LAC,1999,3.5407
+Latin America and the Caribbean (UN),UN_LAC,2000,3.3639
+Latin America and the Caribbean (UN),UN_LAC,2001,3.1996
+Latin America and the Caribbean (UN),UN_LAC,2002,3.0447
+Latin America and the Caribbean (UN),UN_LAC,2003,2.9006
+Latin America and the Caribbean (UN),UN_LAC,2004,2.7949
+Latin America and the Caribbean (UN),UN_LAC,2005,2.6561
+Latin America and the Caribbean (UN),UN_LAC,2006,2.5419
+Latin America and the Caribbean (UN),UN_LAC,2007,2.4444
+Latin America and the Caribbean (UN),UN_LAC,2008,2.3517
+Latin America and the Caribbean (UN),UN_LAC,2009,2.2649
+Latin America and the Caribbean (UN),UN_LAC,2010,2.3516
+Latin America and the Caribbean (UN),UN_LAC,2011,2.128
+Latin America and the Caribbean (UN),UN_LAC,2012,2.0573
+Latin America and the Caribbean (UN),UN_LAC,2013,1.9966
+Latin America and the Caribbean (UN),UN_LAC,2014,1.9421
+Latin America and the Caribbean (UN),UN_LAC,2015,1.8945
+Latin America and the Caribbean (UN),UN_LAC,2016,1.8555
+Latin America and the Caribbean (UN),UN_LAC,2017,1.8157
+Latin America and the Caribbean (UN),UN_LAC,2018,1.7712
+Latin America and the Caribbean (UN),UN_LAC,2019,1.7306
+Latin America and the Caribbean (UN),UN_LAC,2020,1.6894
+Latin America and the Caribbean (UN),UN_LAC,2021,1.6595
+Latin America and the Caribbean (UN),UN_LAC,2022,1.6375
+Latin America and the Caribbean (UN),UN_LAC,2023,1.5783
+Northern America (UN),UN_NAM,1950,3.8108
+Northern America (UN),UN_NAM,1951,3.7671
+Northern America (UN),UN_NAM,1952,3.7677
+Northern America (UN),UN_NAM,1953,3.5835
+Northern America (UN),UN_NAM,1954,3.3816
+Northern America (UN),UN_NAM,1955,3.2918
+Northern America (UN),UN_NAM,1956,3.2481
+Northern America (UN),UN_NAM,1957,3.2413
+Northern America (UN),UN_NAM,1958,3.2115
+Northern America (UN),UN_NAM,1959,3.1145
+Northern America (UN),UN_NAM,1960,3.0769
+Northern America (UN),UN_NAM,1961,2.954
+Northern America (UN),UN_NAM,1962,2.9318
+Northern America (UN),UN_NAM,1963,2.9191
+Northern America (UN),UN_NAM,1964,2.8662
+Northern America (UN),UN_NAM,1965,2.7729
+Northern America (UN),UN_NAM,1966,2.7096
+Northern America (UN),UN_NAM,1967,2.582
+Northern America (UN),UN_NAM,1968,2.553
+Northern America (UN),UN_NAM,1969,2.4736
+Northern America (UN),UN_NAM,1970,2.4053
+Northern America (UN),UN_NAM,1971,2.1909
+Northern America (UN),UN_NAM,1972,2.0923
+Northern America (UN),UN_NAM,1973,2.0249
+Northern America (UN),UN_NAM,1974,1.9622
+Northern America (UN),UN_NAM,1975,1.8546
+Northern America (UN),UN_NAM,1976,1.7662
+Northern America (UN),UN_NAM,1977,1.6671
+Northern America (UN),UN_NAM,1978,1.6149
+Northern America (UN),UN_NAM,1979,1.5432
+Northern America (UN),UN_NAM,1980,1.4992
+Northern America (UN),UN_NAM,1981,1.4027
+Northern America (UN),UN_NAM,1982,1.3573
+Northern America (UN),UN_NAM,1983,1.3011
+Northern America (UN),UN_NAM,1984,1.2697
+Northern America (UN),UN_NAM,1985,1.2577
+Northern America (UN),UN_NAM,1986,1.2242
+Northern America (UN),UN_NAM,1987,1.2024
+Northern America (UN),UN_NAM,1988,1.1977
+Northern America (UN),UN_NAM,1989,1.1964
+Northern America (UN),UN_NAM,1990,1.1246
+Northern America (UN),UN_NAM,1991,1.0778
+Northern America (UN),UN_NAM,1992,1.0153
+Northern America (UN),UN_NAM,1993,1.0049
+Northern America (UN),UN_NAM,1994,0.9701
+Northern America (UN),UN_NAM,1995,0.9182
+Northern America (UN),UN_NAM,1996,0.8861
+Northern America (UN),UN_NAM,1997,0.8647
+Northern America (UN),UN_NAM,1998,0.8637
+Northern America (UN),UN_NAM,1999,0.8473
+Northern America (UN),UN_NAM,2000,0.8276
+Northern America (UN),UN_NAM,2001,0.8065
+Northern America (UN),UN_NAM,2002,0.8108
+Northern America (UN),UN_NAM,2003,0.8101
+Northern America (UN),UN_NAM,2004,0.7983
+Northern America (UN),UN_NAM,2005,0.8081
+Northern America (UN),UN_NAM,2006,0.7976
+Northern America (UN),UN_NAM,2007,0.8011
+Northern America (UN),UN_NAM,2008,0.7752
+Northern America (UN),UN_NAM,2009,0.745
+Northern America (UN),UN_NAM,2010,0.7122
+Northern America (UN),UN_NAM,2011,0.6955
+Northern America (UN),UN_NAM,2012,0.6896
+Northern America (UN),UN_NAM,2013,0.683
+Northern America (UN),UN_NAM,2014,0.6662
+Northern America (UN),UN_NAM,2015,0.6724
+Northern America (UN),UN_NAM,2016,0.6704
+Northern America (UN),UN_NAM,2017,0.6548
+Northern America (UN),UN_NAM,2018,0.643
+Northern America (UN),UN_NAM,2019,0.6344
+Northern America (UN),UN_NAM,2020,0.608
+Northern America (UN),UN_NAM,2021,0.6405
+Northern America (UN),UN_NAM,2022,0.6213
+Northern America (UN),UN_NAM,2023,0.6047
+Oceania (UN),UN_OCE,1950,9.2638
+Oceania (UN),UN_OCE,1951,9.5987
+Oceania (UN),UN_OCE,1952,8.8551
+Oceania (UN),UN_OCE,1953,8.6245
+Oceania (UN),UN_OCE,1954,8.4045
+Oceania (UN),UN_OCE,1955,8.2039
+Oceania (UN),UN_OCE,1956,7.9764
+Oceania (UN),UN_OCE,1957,7.7648
+Oceania (UN),UN_OCE,1958,7.4943
+Oceania (UN),UN_OCE,1959,7.3614
+Oceania (UN),UN_OCE,1960,7.0648
+Oceania (UN),UN_OCE,1961,6.8374
+Oceania (UN),UN_OCE,1962,6.72
+Oceania (UN),UN_OCE,1963,6.4943
+Oceania (UN),UN_OCE,1964,6.4165
+Oceania (UN),UN_OCE,1965,6.3066
+Oceania (UN),UN_OCE,1966,6.1686
+Oceania (UN),UN_OCE,1967,6.0113
+Oceania (UN),UN_OCE,1968,5.8496
+Oceania (UN),UN_OCE,1969,5.68
+Oceania (UN),UN_OCE,1970,5.5302
+Oceania (UN),UN_OCE,1971,5.2642
+Oceania (UN),UN_OCE,1972,5.0899
+Oceania (UN),UN_OCE,1973,5.0071
+Oceania (UN),UN_OCE,1974,4.9064
+Oceania (UN),UN_OCE,1975,4.7925
+Oceania (UN),UN_OCE,1976,4.6851
+Oceania (UN),UN_OCE,1977,4.5537
+Oceania (UN),UN_OCE,1978,4.4599
+Oceania (UN),UN_OCE,1979,4.3146
+Oceania (UN),UN_OCE,1980,4.1899
+Oceania (UN),UN_OCE,1981,4.0585
+Oceania (UN),UN_OCE,1982,3.9556
+Oceania (UN),UN_OCE,1983,3.8602
+Oceania (UN),UN_OCE,1984,3.7862
+Oceania (UN),UN_OCE,1985,3.7261
+Oceania (UN),UN_OCE,1986,3.6351
+Oceania (UN),UN_OCE,1987,3.5614
+Oceania (UN),UN_OCE,1988,3.4694
+Oceania (UN),UN_OCE,1989,3.415
+Oceania (UN),UN_OCE,1990,3.2788
+Oceania (UN),UN_OCE,1991,3.1872
+Oceania (UN),UN_OCE,1992,3.1344
+Oceania (UN),UN_OCE,1993,3.0943
+Oceania (UN),UN_OCE,1994,3.0708
+Oceania (UN),UN_OCE,1995,3.0498
+Oceania (UN),UN_OCE,1996,3.0656
+Oceania (UN),UN_OCE,1997,3.0599
+Oceania (UN),UN_OCE,1998,3.1518
+Oceania (UN),UN_OCE,1999,3.0609
+Oceania (UN),UN_OCE,2000,3.0265
+Oceania (UN),UN_OCE,2001,3.0226
+Oceania (UN),UN_OCE,2002,3.0138
+Oceania (UN),UN_OCE,2003,2.9766
+Oceania (UN),UN_OCE,2004,2.9366
+Oceania (UN),UN_OCE,2005,2.895
+Oceania (UN),UN_OCE,2006,2.826
+Oceania (UN),UN_OCE,2007,2.7231
+Oceania (UN),UN_OCE,2008,2.6395
+Oceania (UN),UN_OCE,2009,2.6087
+Oceania (UN),UN_OCE,2010,2.5525
+Oceania (UN),UN_OCE,2011,2.4958
+Oceania (UN),UN_OCE,2012,2.4255
+Oceania (UN),UN_OCE,2013,2.3971
+Oceania (UN),UN_OCE,2014,2.37
+Oceania (UN),UN_OCE,2015,2.2874
+Oceania (UN),UN_OCE,2016,2.2223
+Oceania (UN),UN_OCE,2017,2.191
+Oceania (UN),UN_OCE,2018,2.1315
+Oceania (UN),UN_OCE,2019,2.1089
+Oceania (UN),UN_OCE,2020,2.0659
+Oceania (UN),UN_OCE,2021,2.0128
+Oceania (UN),UN_OCE,2022,1.9925
+Oceania (UN),UN_OCE,2023,1.8997
