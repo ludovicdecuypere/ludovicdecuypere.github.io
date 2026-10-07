@@ -158,7 +158,7 @@ Om deze figuur te maken moet je de data structureren zoals in het wijde dataform
 
 ![Gegevens in Datawrapper](fig-data-datawrapper.png){#fig-data-datawrapper}
 
-In feite is nog een tweede mogelijkheid voor het wijde dataformaat. Je zou de Regio's ook als eerste kolom kunnen nemen en de Jaartallen als extra Kolommen, zoals in @tbl-wijd2:
+In feite is er nog een tweede mogelijkheid voor het wijde dataformaat. Je zou de Regio's ook als eerste kolom kunnen nemen en de Jaartallen als extra Kolommen, zoals in @tbl-wijd2:
 
 |    Regio     |  1950     |  1951    |  1952 | 
 |:------------:|:---------:|:--------:|:-----:|
