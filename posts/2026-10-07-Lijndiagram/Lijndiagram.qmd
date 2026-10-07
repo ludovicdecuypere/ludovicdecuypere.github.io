@@ -72,7 +72,7 @@ Na wat bijschaven ziet de figuur in Excel er dan uit zoals in @fig-kindersterfte
 
 ![Daling kindersterfte als Excelfiguur.](fig-kindersterfte-excel.png){#fig-kindersterfte-excel}
 
-De figuur vertoont nog enkele onvolkomendheden. Zo kunnen de waarden op de Y-as beter als percentages weergegeven worden. Ook de legende kan met de regio's kan beter weggelaten worden. Het is tegenwoordig gebruikelijk om legendes als deze te vermijden en om de namen van de regio's naast de lijnen te schrijven. Excel is zeer goed, maar levert geen topkwaliteit. 
+De figuur vertoont nog enkele mogelijkheden voor verbetering. Zo kunnen de waarden op de Y-as beter als percentages weergegeven worden. Ook de legende met de regio's kan beter weggelaten worden. Het is tegenwoordig gebruikelijk om legendes als deze te vermijden en om de namen van de regio's naast de lijnen te schrijven. De algemene boodschap met de spectaculaire daling van de sterftecijfers wordt treffend weergegeven.
 
 ### R
 
@@ -84,7 +84,7 @@ cm <- read.csv("child-mortality-around-the-world.csv",
 head(cm)
 ```
 
-We maken gebruik van `ggplot2` om een lijndiagram te maken. Na de R code volgt de figuur.
+We maken gebruik van `ggplot2` om een lijndiagram te maken. Na de uitgebreide R-code volgt de figuur.
 
 ```{r}
 #| fig-width: 7
@@ -150,7 +150,7 @@ ggplot(cm, aes(x = Year,
 
 ### Datawrapper
 
-In Datawrapper maakte ik deze interactieve figuur:
+In Datawrapper maakte ik onderstaande interactieve figuur:
 
 <iframe title="Spectaculaire daling kindersterfte voorbije 70 jaar" aria-label="Line chart" id="Datawrapper-chart-ZhkdE" src="https://Datawrapper.dwcdn.net/ZhkdE/1/" scrolling="no" frameborder="0" style="border: none;" width="746" height="414" data-external="1"></iframe>
 
@@ -169,15 +169,15 @@ In feite is er nog een tweede mogelijkheid voor het wijde dataformaat. Je zou de
 
 : Data Kindersterfte in het tweede wijde dataformaat. {#tbl-wijd2}
 
-Op zich is er niets verkeerds met dit dataformaat, maar het leent zich minder tot een vlotte visualisering. In Datawrapper dien je de data dan eerst te transponeren (rijen worden kolommen en omgekeerd) met de knop ![](swap.png){height="1em"}.
+Op zich is dit een correct dataformaat, maar het leent zich minder tot een vlotte visualisering. In Datawrapper moet je de data eerst transponeren met de knop ![](swap.png){height="1em"}; rijen worden dan kolommen en kolommen rijen, zoals het eerste wijde dataformaat (@tbl-wijd). 
 
 ### Conclusie
 
-Een mooie datavisualisatie begint met inzicht in de data en het correcte dataformaat. Vele wegen leiden naar Rome en er zijn verschillende manieren om dezelfde figuur te maken. De belangrijkste boodschap is dus om je dataformaten goed te kennen. 
+Een mooie datavisualisatie begint met inzicht in de data en het correcte dataformaat. Vele wegen leiden naar Rome en er zijn verschillende manieren om dezelfde figuur te maken. Het is altijd om van het ene naar het andere formaat te transformeren en daarin ligt vaak de grootste uitdaging voor een datavisualisatie.
 
 Wetenschappers voegen tegenwoordig een *Data Management Plan* toe aan hun onderzoeksaanvraag. Een bureaucratische overbodigheid volgens sommigen, een cruciale eerste stap volgens anderen. Met het oog op het efficiënt verwerken van de data is het in ieder geval noodzakelijk om op voorhand na te denken over de manier waarop de data tot stand zal komen en hoe de data correct gestructureerd kan worden. Better safe than sorry. 
 
-Tot slot, wat met de olifant in de kamer? Kan genAI dit niet? Jazeker. Maar enige basiskennis is vereist om van `1+1` drie te maken.  
+Tot slot, wat met de olifant in de kamer? Kan genAI dit niet? Jazeker. Maar enige basiskennis is vereist om van `1+1` drie te maken.   
 
 
 

@@ -394,7 +394,7 @@ Figuur&nbsp;4: Daling kindersterfte als Excelfiguur.
 </figcaption>
 </figure>
 </div>
-<p>De figuur vertoont nog enkele onvolkomendheden. Zo kunnen de waarden op de Y-as beter als percentages weergegeven worden. Ook de legende kan met de regio’s kan beter weggelaten worden. Het is tegenwoordig gebruikelijk om legendes als deze te vermijden en om de namen van de regio’s naast de lijnen te schrijven. Excel is zeer goed, maar levert geen topkwaliteit.</p>
+<p>De figuur vertoont nog enkele mogelijkheden voor verbetering. Zo kunnen de waarden op de Y-as beter als percentages weergegeven worden. Ook de legende met de regio’s kan beter weggelaten worden. Het is tegenwoordig gebruikelijk om legendes als deze te vermijden en om de namen van de regio’s naast de lijnen te schrijven. De algemene boodschap met de spectaculaire daling van de sterftecijfers wordt treffend weergegeven.</p>
 </section>
 <section id="r" class="level3">
 <h3 class="anchored" data-anchor-id="r">R</h3>
@@ -413,7 +413,7 @@ Figuur&nbsp;4: Daling kindersterfte als Excelfiguur.
 6 Africa (UN) UN_AFR 1955              29.7653</code></pre>
 </div>
 </div>
-<p>We maken gebruik van <code>ggplot2</code> om een lijndiagram te maken. Na de R code volgt de figuur.</p>
+<p>We maken gebruik van <code>ggplot2</code> om een lijndiagram te maken. Na de uitgebreide R-code volgt de figuur.</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(cm, <span class="fu">aes</span>(<span class="at">x =</span> Year, </span>
@@ -481,7 +481,7 @@ Figuur&nbsp;4: Daling kindersterfte als Excelfiguur.
 </section>
 <section id="datawrapper" class="level3">
 <h3 class="anchored" data-anchor-id="datawrapper">Datawrapper</h3>
-<p>In Datawrapper maakte ik deze interactieve figuur:</p>
+<p>In Datawrapper maakte ik onderstaande interactieve figuur:</p>
 <iframe title="Spectaculaire daling kindersterfte voorbije 70 jaar" aria-label="Line chart" id="Datawrapper-chart-ZhkdE" src="https://Datawrapper.dwcdn.net/ZhkdE/1/" scrolling="no" frameborder="0" style="border: none;" width="746" height="414" data-external="1">
 </iframe>
 <p>Om deze figuur te maken moet je de data structureren zoals in het wijde dataformaat (<a href="#tbl-wijd" class="quarto-xref">Tabel&nbsp;2</a>), met het jaartal als eerste kolom en de regio’s als extra kolommen. <a href="#fig-data-datawrapper" class="quarto-xref">Figuur&nbsp;5</a> toont deze datastructuur in Datawrapper:</p>
@@ -541,11 +541,11 @@ Tabel&nbsp;3: Data Kindersterfte in het tweede wijde dataformaat.
 </div>
 </figure>
 </div>
-<p>Op zich is er niets verkeerds met dit dataformaat, maar het leent zich minder tot een vlotte visualisering. In Datawrapper dien je de data dan eerst te transponeren (rijen worden kolommen en omgekeerd) met de knop <img src="swap.png" style="height:1em">.</p>
+<p>Op zich is dit een correct dataformaat, maar het leent zich minder tot een vlotte visualisering. In Datawrapper moet je de data eerst transponeren met de knop <img src="swap.png" style="height:1em">; rijen worden dan kolommen en kolommen rijen, zoals het eerste wijde dataformaat (<a href="#tbl-wijd" class="quarto-xref">Tabel&nbsp;2</a>).</p>
 </section>
 <section id="conclusie" class="level3">
 <h3 class="anchored" data-anchor-id="conclusie">Conclusie</h3>
-<p>Een mooie datavisualisatie begint met inzicht in de data en het correcte dataformaat. Vele wegen leiden naar Rome en er zijn verschillende manieren om dezelfde figuur te maken. De belangrijkste boodschap is dus om je dataformaten goed te kennen.</p>
+<p>Een mooie datavisualisatie begint met inzicht in de data en het correcte dataformaat. Vele wegen leiden naar Rome en er zijn verschillende manieren om dezelfde figuur te maken. Het is altijd om van het ene naar het andere formaat te transformeren en daarin ligt vaak de grootste uitdaging voor een datavisualisatie.</p>
 <p>Wetenschappers voegen tegenwoordig een <em>Data Management Plan</em> toe aan hun onderzoeksaanvraag. Een bureaucratische overbodigheid volgens sommigen, een cruciale eerste stap volgens anderen. Met het oog op het efficiënt verwerken van de data is het in ieder geval noodzakelijk om op voorhand na te denken over de manier waarop de data tot stand zal komen en hoe de data correct gestructureerd kan worden. Better safe than sorry.</p>
 <p>Tot slot, wat met de olifant in de kamer? Kan genAI dit niet? Jazeker. Maar enige basiskennis is vereist om van <code>1+1</code> drie te maken.</p>
 
