@@ -301,7 +301,7 @@ Tabel&nbsp;1: Data Kindersterfte in Our World in Data <span class="citation" dat
 </div>
 </figure>
 </div>
-<p><code>Entity</code> is een variabele met zes regio’s (Africa, Asia, Oceania, Latin America and the Caribbean, Northern America, en Europe), <code>Code</code> is een afkorting voor de Regio en is voor de visualisatie niet relevant, <code>Year</code> is het jaartal (elk jaar vanaf 1950 t/m 2023) en <code>Child mortality rate</code> bevat de kindersterfte als percentage. De eerste rij interpreteren we als volgt: in het jaar 1950 stierven naar schatting 32,6% van alle kinderen voor hun vijfde levensjaar. Eén op drie kinderen! In 2023 is dit nog 6,3% (1 op 16). Dit is vooruitgang.</p>
+<p><code>Entity</code> is een variabele met zes regio’s (Africa, Asia, Oceania, Latin America and the Caribbean, Northern America, en Europe), <code>Code</code> is een afkorting voor de Regio en is voor de visualisatie niet relevant, <code>Year</code> is het jaartal (elk jaar vanaf 1950 t/m 2023) en <code>Child mortality rate</code> bevat de kindersterfte als percentage. De eerste rij interpreteren we als volgt: in Afrika stierven er in het jaar 1950 naar schatting 32,6% van alle kinderen voor hun vijfde levensjaar. Eén op drie kinderen! In 2023 is dit nog 6,3% (1 op 16). Dit is vooruitgang.</p>
 <p>In deze blog bekijken we de relatie tussen het dataformaat en de datavisualisatie. Dezelfde gegevens kunnen immers op verschillende manieren gestructureerd worden. Die structuur bepaalt mee hoe eenvoudig een visualisatie kan worden gemaakt.</p>
 <p>Ik visualiseer dezelfde data op drie verschillende manieren: ten eerste in MS Excel, ten tweede in R met het ggplot2-pakket, en ten derde met de online tool Datawrapper.</p>
 <p>Drie verschillende manieren om een dezelfde figuur te maken maar op basis van een ander dataformaat: op basis van het lange en het wijde dataformaat. De dataset in <a href="#tbl-owid-kindersterfte" class="quarto-xref">Tabel&nbsp;1</a> volgt het lange dataformaat.</p>
@@ -413,7 +413,7 @@ Figuur&nbsp;4: Daling kindersterfte als Excelfiguur.
 6 Africa (UN) UN_AFR 1955              29.7653</code></pre>
 </div>
 </div>
-<p>We maken gebruik van <code>ggplot2</code> om een lijndiagram te maken.</p>
+<p>We maken gebruik van <code>ggplot2</code> om een lijndiagram te maken. Na de R code volgt de figuur.</p>
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
 <span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="fu">ggplot</span>(cm, <span class="fu">aes</span>(<span class="at">x =</span> Year, </span>
@@ -421,7 +421,7 @@ Figuur&nbsp;4: Daling kindersterfte als Excelfiguur.
 <span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>               <span class="at">color =</span> Entity, <span class="at">group =</span> Entity)) <span class="sc">+</span></span>
 <span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>(<span class="at">linewidth =</span> <span class="fl">0.8</span>) <span class="sc">+</span></span>
 <span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_y_continuous</span>(<span class="at">labels =</span> <span class="cf">function</span>(x) <span class="fu">paste0</span>(x, <span class="st">"%"</span>)) <span class="sc">+</span> </span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">limits =</span> <span class="fu">c</span>(<span class="dv">1950</span>, <span class="dv">2035</span>)) <span class="sc">+</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">limits =</span> <span class="fu">c</span>(<span class="dv">1950</span>, <span class="dv">2038</span>)) <span class="sc">+</span></span>
 <span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>() <span class="sc">+</span></span>
 <span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(<span class="at">legend.position =</span> <span class="st">'none'</span>, </span>
 <span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>         <span class="at">plot.subtitle =</span> <span class="fu">element_text</span>(</span>

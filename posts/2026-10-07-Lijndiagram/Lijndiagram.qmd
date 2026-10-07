@@ -36,7 +36,7 @@ De figuur komt van het ongeëvenaarde *Our World in Data* [@Ritchie2018].
 
 : Data Kindersterfte in Our World in Data [@Ritchie2018]. {#tbl-owid-kindersterfte}
 
-`Entity` is een variabele met zes regio's (Africa, Asia, Oceania, Latin America and the Caribbean, Northern America, en Europe), `Code` is een afkorting voor de Regio en is voor de visualisatie niet relevant, `Year` is het jaartal (elk jaar vanaf 1950 t/m 2023) en `Child mortality rate` bevat de kindersterfte als percentage. De eerste rij interpreteren we als volgt: in het jaar 1950 stierven naar schatting 32,6% van alle kinderen voor hun vijfde levensjaar. Eén op drie kinderen! In 2023 is dit nog 6,3% (1 op 16). Dit is vooruitgang. 
+`Entity` is een variabele met zes regio's (Africa, Asia, Oceania, Latin America and the Caribbean, Northern America, en Europe), `Code` is een afkorting voor de Regio en is voor de visualisatie niet relevant, `Year` is het jaartal (elk jaar vanaf 1950 t/m 2023) en `Child mortality rate` bevat de kindersterfte als percentage. De eerste rij interpreteren we als volgt: in Afrika stierven er in het jaar 1950 naar schatting 32,6% van alle kinderen voor hun vijfde levensjaar. Eén op drie kinderen! In 2023 is dit nog 6,3% (1 op 16). Dit is vooruitgang. 
 
 In deze blog bekijken we de relatie tussen het dataformaat en de datavisualisatie. Dezelfde gegevens kunnen immers op verschillende manieren gestructureerd worden. Die structuur bepaalt mee hoe eenvoudig een visualisatie kan worden gemaakt.
 
@@ -84,7 +84,7 @@ cm <- read.csv("child-mortality-around-the-world.csv",
 head(cm)
 ```
 
-We maken gebruik van `ggplot2` om een lijndiagram te maken. 
+We maken gebruik van `ggplot2` om een lijndiagram te maken. Na de R code volgt de figuur.
 
 ```{r}
 #| fig-width: 7
@@ -96,7 +96,7 @@ ggplot(cm, aes(x = Year,
                color = Entity, group = Entity)) +
   geom_line(linewidth = 0.8) +
   scale_y_continuous(labels = function(x) paste0(x, "%")) + 
-  scale_x_continuous(limits = c(1950, 2035)) +
+  scale_x_continuous(limits = c(1950, 2038)) +
   theme_minimal() +
   theme(legend.position = 'none', 
          plot.subtitle = element_text(
