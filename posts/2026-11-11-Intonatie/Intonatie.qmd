@@ -1,0 +1,29 @@
+---
+title: "Intonatie"
+date: 2026-11-11
+categories: [taal, intonatie, betekenis]
+citation:
+  url: https://ludovicdecuypere.github.io/posts/2026-11-11-Intonatie/
+image: Intonatie.png
+draft: false
+format:
+  html:
+    mainfont: sans-serif
+    lang: nl
+editor: 
+  markdown: 
+    wrap: 72
+---
+11 novemberreflectie over het effect van intonatie op interpretatie.
+
+::: {.text-center}
+NOOIT meer oorlog  
+*voor altijd vrede*  
+
+nooit MEER oorlog  
+*minder is beter*  
+
+nooit meer OORLOG  
+*alleen nog vrede*
+:::
+
