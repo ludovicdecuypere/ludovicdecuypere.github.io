@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl" xml:lang="nl"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.19">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Ludovic De Cuypere">
+<meta name="dcterms.date" content="2026-11-23">
+
+<title>Minder klein – Ludovic De Cuypere</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-4f981a11259c41abd91c09f4230ae7a8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Geen resultaten",
+    "search-matching-documents-text": "Gevonden documenten",
+    "search-copy-link-title": "Kopieer link om te zoeken",
+    "search-hide-matches-text": "Extra overeenkomsten verbergen",
+    "search-more-match-text": "meer overeenkomst in dit document",
+    "search-more-matches-text": "meer overeenkomsten in dit document",
+    "search-clear-button-title": "Wissen",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Annuleren",
+    "search-submit-button-title": "Verzenden",
+    "search-label": "Zoeken"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../index.html">
+    <span class="navbar-title">Ludovic De Cuypere</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Zoeken"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Schakel navigatie" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../Research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../Talks_and_Workshops.html"> 
+<span class="menu-text">Talks &amp; Workshops</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../Teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../posts.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../Contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Minder klein</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">taal</div>
+    <div class="quarto-category">betekenis</div>
+    <div class="quarto-category">interpretatie</div>
+    <div class="quarto-category">logica</div>
+  </div>
+  </div>
+
+
+<div class="quarto-title-meta-author">
+  <div class="quarto-title-meta-heading">Auteur</div>
+  <div class="quarto-title-meta-heading">Affiliatie</div>
+  
+    <div class="quarto-title-meta-contents">
+    <p class="author"><a href="https://ludovicdecuypere.github.io/">Ludovic De Cuypere</a> </p>
+  </div>
+  <div class="quarto-title-meta-contents">
+        <p class="affiliation">
+            VUB &amp; UGent
+          </p>
+      </div>
+  </div>
+
+<div class="quarto-title-meta">
+
+      
+    <div>
+    <div class="quarto-title-meta-heading">Publicatiedatum</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">23 november 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>De mens, ge geraakt daar niet aan uit.</p>
+<p>Wil je iets gedaan krijgen, dan moet je het vooral vragen aan wie het druk heeft.</p>
+<p>Meer verkopen door de prijs te laten zakken? Maak het product duurder en sta versteld van het resultaat.</p>
+<p>Je zou denken dat iemand iets gemakkelijker zal begrijpen als je het eenvoudig uitlegt, maar maak het moeilijker en men zal meer moeite doen om het te begrijpen. Spreek stiller in plaats van luider om meer aandacht te krijgen.</p>
+<p>Rory Sutherland maakt in zijn boek <em>Alchemy</em> het onderscheid tussen logica en psycho-logica. Het gedrag en het denken van de mens volgt eigen kronkels die niet altijd logisch lijken. Gedragswetenschappers en gedragseconomen (bvb. Barbara Fasolo, Gerd Gigerenzer, Daniel Kahneman, Laurie Santos, Amos Tversky) noemen dit bias en heuristieken, oftewel denkfouten (die niet echt “fouten” zijn) en metnale vuistregels.</p>
+<p>Maar ook in het dagdagelijks spreken vindt er magie plaats; <em>dagdagelijks</em> is zo’n wonderlijk woord waarin er een ogenschijnlijk onnodige herhaling zit.</p>
+<p>Vergelijk nu even de volgende zinnen:</p>
+<ol class="example" type="1">
+<li>Ze is gelukkig.</li>
+<li>Ze is niet ongelukkig.</li>
+</ol>
+<p>Logischerwijze zouden beide zinnen hetzelfde moeten betekenen - min en min is plus, maar we weten dat er een verschil is.</p>
+<p>Vergelijk ook:</p>
+<ol start="3" class="example" type="1">
+<li>Jan is kleiner dan Marie.</li>
+<li>Jan is meer klein dan Marie.</li>
+</ol>
+<p>Je moet al vrij coulant zijn om (4) als grammaticaal correct te beschouwen.</p>
+<p>Met <em>groot</em> lijkt <em>meer</em> me misschien net iets acceptabeler:</p>
+<ol start="5" class="example" type="1">
+<li>Jan is groter dan Marie.</li>
+<li>Jan is meer groot dan Marie.</li>
+</ol>
+<p>Nochtans kunnen we bij sommige bijvoeglijke naamwoorden <em>meer</em> gebruiken om een vergrotende trap te maken (we noemen dit een analytische vorm; de vergrotende trap met <em>-er</em> is de synthetische vorm):</p>
+<ol start="7" class="example" type="1">
+<li>Ik vind dit voorbeeld interessanter dan dat voorbeeld.</li>
+<li>Ik vind dit voorbeeld meer interessant dan dat voorbeeld.</li>
+</ol>
+<p>En toch klinkt <em>meer klein</em> niet zo goed.</p>
+<p>Vergelijk verder:</p>
+<ol start="9" class="example" type="1">
+<li>Jan is minder klein dan Marie.</li>
+</ol>
+<p>Zin (9) is grammaticaal correct. Als Jan minder klein is, dan is hij minstens even groot en allicht groter dan Marie.</p>
+<p><em>Minder klein</em> is dus logischerwijze vergelijkbaar - maar niet volledig synoniem - met <em>groter</em>.</p>
+<p>Het volgende voorbeeld maar correct gebruik van <em>minder klein</em> in de zin van <em>groter</em>:</p>
+<ol start="10" class="example" type="1">
+<li>Als ze de kleine lettertjes wat minder klein zouden maken, dan zouden meer mensen ze lezen?</li>
+</ol>
+<p>Je zou ook kunnen schrijven <em>de kleine letterjes groter maken</em> maar <em>minder klein</em> zet het aspect “klein” wat meer in de verf.</p>
+<p>Maar lees nu de volgende uitspraak:</p>
+<blockquote class="blockquote">
+<p>Je komt toe [als immigrant, LDC] en je maakt de berekening tussen wat heb ik als ik niet actief word, als ik op een uitkering zit, en als ik wel actief word, en in een land als Nederland betekent dat een gigántisch verschil […] hier [België, LDC] is dat verschil veel minder klein.</p>
+</blockquote>
+<p>Hoezo <em>veel minder klein</em>? Dus, met andere woorden: <em>groter</em> dan in Nederland!</p>
+<p>Dat is uiteraard niet wat Stijn Baert bedoelde toen hij in <em>De Tafel</em> (9 november 2026) de inactiviteitsval toelichtte door het verschil tussen Nederland en België te benadrukken.</p>
+<p>De kronkel <em>veel minder klein</em> toont mooi aan dat taal niet altijd “logisch” is; iedereen aan tafel begreep perfect wat Stijn Baert bedoelde.</p>
+<p>Wat letterlijk gezegd wordt — de combinatie van de betekenissen van de woorden — en wat effectief bedoeld wordt — de interpetatie — zijn twee verschillende zaken.</p>
+<p>Een gelijkaardig fenomeen is de meervoudige negatie.</p>
+<p>Als iemand zegt <em>ik heb dat nooit niet gedaan</em>, dan interpreteren we dat niet als <em>ik heb dat altijd gedaan</em>; we begrijpen immers perfect dat <em>nooit</em> of “helemaal nooit” bedoeld wordt, de dubbele ontkenning heeft een versterkend effect; in de taal is min en min niet gelijk aan plus.</p>
+<p>Meervoudige negatie is door die “onlogische” combinatie in veel standaardtalen weggewerkt, maar wie het dialect nog een beetje beheerst, kent en gebruikt misschien nog wel eens <em>’k en weet het niet</em>. Geen enkele spreker die die dubbele negatie <em>en … niet</em> verkeerd begrijpt. Ook al is het niet logisch.</p>
+<p>Wat we zeggen en wat we bedoelen, staat soms lijnrecht tegenover elkaar.</p>
+<p><em>Dat is nog eens een slimme opmerking</em> kan een sneer zijn naar een domme interventie. <em>’t Is een kleine moeite</em> heeft vaak heel wat voeten in de aarde. Of neem de stijlfiguur “apofasis”: <em>ik zal het vandaag niet hebben over …</em> om vervolgens toch alles op te noemen waarover je het <em>niet</em> zou hebben.</p>
+<p>Met <em>veel minder klein</em> lijkt me iets gelijkaardigs aan de hand te zijn.</p>
+<p>Het bijvoeglijk naamwoord <em>klein</em> is “schaalbaar”: iets kan heel klein zijn, maar ook zeer klein, een beetje klein, niet zo klein, enz. Er is dus een denkbeeldige schaal en die verwijst naar het nulpunt.</p>
+<p><em>Minder</em> is de vergrotende trap van <em>weinig</em>: <em>weinig &gt; minder &gt; minst</em>.</p>
+<p><em>Minder</em> verwijst op een denkbeeldige schaal ook naar het nulpunt. <em>Minder</em> en <em>klein</em> delen daarom dezelfde negatieve polariteit.</p>
+<p>Samen krijgen we: <span class="math inline">\(\text{minder}\;+\;\text{klein} = \text{kleiner}\)</span>. Niet logisch, want we zouden <em>groter</em> verwachten. Maar wel perfect begrijpelijk.</p>
+<p>Waarom zou een spreker dan <em>minder klein</em> gebruiken in plaats van het korte, eenvoudige en efficiëntere <em>kleiner</em>?</p>
+<p>Zoals <em>nooit niet</em> elkaar versterken, zo lijken <em>minder</em> en <em>klein</em> elkaar ook te versterken.</p>
+<p>Omdat <em>minder</em> en <em>klein</em> dezelfde negatieve polariteit delen, creëren ze samen een semantische harmonie, waardoor de combinatie een versterkend effect heeft: <em>minder klein</em> is dus nog kleiner dan <em>kleiner</em>, zoals <em>nooit niet</em> nog meer nooit is dan <em>nooit</em>. In de taal kan dat allemaan.</p>
+<p>Dat is dan weer een mooi voorbeeld van iconisch taalgebruik: de langere vorm versterkt de inhoud!</p>
+<p>Hoe uitzonderlijk is dit gebruik van <em>minder klein</em> in de zin van “nog kleiner”?</p>
+<p>De eenvoudigste manier om dit na te gaan is te kijken naar corpusdata. Een corpus is een grote verzameling van taaluitingen die werden verzameld in een databank.</p>
+<p>Voor het Nederlands kunnen we kijken in het <a href="https://ivdnt.org/corpora-lexica/corpus-hedendaags-nederlands/">Corpus Hedendaags Nederlands</a>.</p>
+<p>Daar vinden we de volgende voorbeelden van <em>minder klein</em> in de zin van <em>kleiner</em>:</p>
+<ol start="11" class="example" type="1">
+<li>De Verenigde Naties hebben vandaag, 11 februari, uitgeroepen tot Internationale Dag van Vrouwen en Meisjes in de Wetenschap. Want hoewel de genderkloof jaarlijks wat <strong>minder klein</strong> wordt, is er nog altijd een hele weg af te leggen.</li>
+</ol>
+<p>De genderkloof wordt uiteraard niet groter, dus wordt <em>kleiner</em> bedoeld. Zoals ook in het volgende voorbeeld de kans op een tsunami <em>kleiner</em> is, niet <em>groter</em>:</p>
+<ol start="12" class="example" type="1">
+<li>Na de ramp in Japan werden er berichten in Suriname verspreid dat het water in de rivieren onstuimig zou zijn. Dat bleek niet waar te zijn. Hoe reëel is de kans op een tsunami in Suriname? De kans op een tsunami is <strong>minder klein</strong>, want als er in het midden van de Atlantische Oceaan een zware aardbeving zou plaatsvinden, dan zouden de golven richting de kust op komen. De ervaring is dat er geen zware bevingen in het midden van de oceaan zijn. Maar een tsunami van tien meter zou dodelijk zijn voor ons…</li>
+</ol>
+<p>Zoals ik aan het begin al schreef, gebruikt de spreker soms ook <em>minder klein</em> in de zin van <em>groter</em>. Waarom gebruikt de spreker dan niet gewoon <em>groter</em>?</p>
+<p>Om een subtiel verschil te maken, zoals in het volgende voorbeeld:</p>
+<ol start="13" class="example" type="1">
+<li>Charrity wijst naar haar kapsel. „Wat ik op mijn hoofd heb kost twee dagen om te doen. Dina liegt dus.” Haar rol bij de dood van Babak is minder klein dan ze doet voorkomen.</li>
+</ol>
+<p>De rol van Dina is dus effectief groter, maar door <em>minder klein</em> te gebruiken komt de tegenstelling tussen wat Dina beweert (dat haar rol klein is) en de werkelijkheid (haar rol is groot) nog sterker tot uiting.</p>
+<p><em>Minder klein</em> kan dus zowel gebruikt worden in de zin van <em>kleiner</em> als in de zin van <em>groter</em>.</p>
+<p>Onlogisch maar waar!</p>
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citaat</h2><div><div class="quarto-appendix-secondary-label">BibTeX citaat:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{de_cuypere2026,
+  author = {De Cuypere, Ludovic},
+  title = {Minder klein},
+  date = {2026-11-23},
+  url = {https://ludovicdecuypere.github.io/posts/2026-11-23-Klein/},
+  langid = {nl}
+}
+</code><button title="Kopieer naar klembord" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">Citeer dit werk als:</div><div id="ref-de_cuypere2026" class="csl-entry quarto-appendix-citeas" role="listitem">
+De Cuypere, Ludovic. 2026. <span>“Minder klein.”</span> November 23. <a href="https://ludovicdecuypere.github.io/posts/2026-11-23-Klein/">https://ludovicdecuypere.github.io/posts/2026-11-23-Klein/</a>.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Gekopieerd!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Gekopieerd!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2026 - Ludovic De Cuypere</span> <span class="faux-block">All content licensed under<br><a href="https://creativecommons.org/licenses/by/4.0/"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> <i class="fa-brands fa-creative-commons-by" aria-label="creative-commons-by"></i> Creative Commons CC BY 4.0</a></span></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p><span class="faux-block">Made with <i class="fa-brands fa-r-project" aria-label="r-project"></i> and <a href="https://quarto.org/">Quarto</a></span> <span class="faux-block"><a href="https://github.com/ludovicdecuypere/ludovicdecuypere.github.io">View the source at <i class="fa-brands fa-github" aria-label="github"></i> GitHub</a></span></p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
